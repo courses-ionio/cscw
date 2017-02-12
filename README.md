@@ -19,12 +19,3 @@
 * [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ.5 Μοντέλα.
 
 **Βαθμολογία:** 60% [project](https://github.com/courses-ionio/projects/), 40% Τελική εξέταση
-
-**Σχετικές σελίδες για τα Κινητά και Κοινωνικά Μέσα:**
-
-[Building Mobile Experiences](https://www.google.com/url?q=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fbuilding-mobile-experiences-mitx-21w-789x&sa=D&sntz=1&usg=AFrqEzez1v41pEL2myttw5A8iLmoYV2Evw)
-
-[Computational freakonomics summer school](http://www.google.com/url?q=http%3A%2F%2Fswiki.cc.gatech.edu%2Fcompfreak&sa=D&sntz=1&usg=AFrqEzdOvyyHH3iSvHxRCnAwjeRQAZkL7Q)
-
-[Code Academy](https://www.codecademy.com/)
-
