@@ -10,8 +10,6 @@
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
 
-**Βοηθοί μαθήματος:** Διογένης Αλεξανδράκης (e-learning): c15alex@ionio.gr, Βαρβάρα Γαρνέλη: c13garn@ionio.gr, Αλεξανδρος Μερκούρης (e-learning): c14merk@ionio.gr, 
-
 **Βιβλίο μαθήματος:** 
 
 * "Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
