@@ -63,9 +63,13 @@ https://moodtonight.herokuapp.com/
 ####Αλλαγη TweetBeacon.js για την αλλαγή χρωμάτων των ακτίνων και διαβάθμισή τους. Η διαβάθμιση έγινε για:
 
 Tweet Sentiment <= -2  -- Έντονα αρνητικό συναίσθημα
+
 -2 < Tweet Sentiment < 0  -- Αρνητικό συναίσθημα
+
 0 < Tweet Sentiment < 2  -- Θετικό συναίσθημα
+
 Tweet Sentiment >= 2  -- Έντονα θετικό συναίσθημα
+
 Η τιμές αυτές λήφθηκαν με βάση το αρχείο AFINN-translateToGreek165.txt και με δεδομένο ότι ο ανώτερος βαθμός βαρύτητας λέξης είναι 5 και ο μικρότερος -5.
 
 https://github.com/achkap/twitter-stream-globe/blob/Changing-Beam-Colors/public/javascripts/TweetBeacon.js
