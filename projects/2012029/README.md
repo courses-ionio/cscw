@@ -2,7 +2,7 @@
 
 ##Παντελεήμων Ιωάννου - ΑΜ: Π2012029 - Κινητά και Κοινωνικά Μέσα
 
-## Sentiment Analysis on Twitter
+# Sentiment Analysis on Twitter
 
 
 ## Παραδοτέο 1
