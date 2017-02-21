@@ -41,6 +41,8 @@ hysteria, idiocy, insomnia, insult, irony, ironic, honor, gun, grave, comic
 
 ###Διευθυνση εφαρμογής
 
+Σαν διεύθυνση της εφαρμογής έχει μπει το branch όπου είναι ενσωματωμένα όλα τα επιτυχημένα commits.
+
 https://moodtonight.herokuapp.com/
 
 
