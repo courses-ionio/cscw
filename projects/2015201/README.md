@@ -96,7 +96,7 @@ https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/
 https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/public/javascripts/TweetHud.js
 
 
-Στις εικόνες φαίνονται και τα τέσσερα χρώματα  της ροής των tweets.
+Στην εικόνα φαίνονται και τα τέσσερα χρώματα  της ροής των tweets.
 
 
 
@@ -108,7 +108,7 @@ https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/
 ### Λέξεις που μεταφράστηκαν: 
 kidnap=απαγάγω, απαγωγή, kill=σκοτώνω, θάνατος, kind=ευγενικό, kindness=ευγένεια, kiss=φιλί, lack=έλλειψη, lame=ξενέρωτο, laugh=γελάω, γέλιο, lawsuit=μήνυση, lawsuits=μηνύσεις, 
 leave=εγκαταλείπω, αφήνω, lethal=θανατηφόρο, limits=όρια, loss=απώλεια, love=αγάπη, luck=τύχη, lunatic=παράφρονας, macabre=μακάβριο, madness=τρέλα, jerk=κόπανος
-hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, insult=προσβολή, προσβάλω, irony=ειρωνεία, ironic=ειρωνικός, honor=τιμή, gun=όπλο, grave=τάφος, comic=κομικ
+hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, insult=προσβολή, προσβάλω, irony=ειρωνεία, ironic=ειρωνικός, honor=τιμή, gun=όπλο, grave=τάφος, comic=κόμικς
 
 https://github.com/achkap/twitter-stream-globe/blob/add-greek-translate/AFINN-translateToGreek165.txt
 
