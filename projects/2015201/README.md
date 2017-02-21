@@ -31,12 +31,30 @@
 Ενδέχεται να προκύψουν κι άλλες παρεμβάσεις στην εφαρμογή κατά την πορεία υλοποίησης της εργασίας.
 
 ### Λέξεις που θα μεταφραστούν: 
-kidnap, kill, kind, kindness, kiss, lack, lame, laugh, lawsuit, lawsuits, 
-leave, lethal, limits, loss, love, luck, lunatic, macabre, madness, jerk
-hysteria, idiocy, insomnia, insult, irony, ironic, honor, gun, grave, comic
+kidnap=απαγωγή, kill=σκοτώνω, θάνατος, kind=ευγενικό, kindness=ευγένια, kiss=φιλί, lack=έλλειψη, lame=ξενέρωτο, laugh=γελάω, γέλιο, lawsuit=μήνυση, lawsuits=μηνύσεις, 
+leaveεγκαταλείπω, αφήνω, lethal-θανατηφόρο, limits=όρια, loss=απώλεια, love=αγάπη, luck=τύχη, lunatic=παράφρονας, macabre=μακάβριο, madness=τρέλα, jerk=κόπανος
+hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, insult=προσβολή, προσβάλω, irony=ειρωνεία, ironic=ειρωνικός, honor=τιμή, gun=όπλο, grave=τάφος, comic=κομικ, κωμικός
 
 
 ##Παραδοτέο 2
+διευθυνση εφαρμογής
+https://moodtonight.herokuapp.com/
+
+αλλαγη αρχείων για την αλλαγή χρωμάτων των ακτίνων και διαβάθμισή τους
+https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TweetBeacon.js
+
+
+αλλαγή αρχείων css και scss για αλλαγή χρωμάτων και προσθήκη διαβαθμίσεων χρωμάτων στην αριστερή στήλη με τα tweets 
+
+https://github.com/achkap/twitter-stream-globe/blob/master/public/stylesheets/style.css
+https://github.com/achkap/twitter-stream-globe/blob/master/public/stylesheets/style.scss
+https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TweetHud.js
+
+αλλαγή javascript για αλλαγή οπτικοποίησης της υδρογείου
+https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
+
+προσθήκη εικόνων για αλλαγή οπτικοποίησης της υδρογείου
+https://github.com/achkap/twitter-stream-globe/tree/master/public/images
 
 
 ##Παραδοτέο 3
