@@ -113,6 +113,7 @@ https://github.com/achkap/twitter-stream-globe/blob/add-greek-translate/AFINN-tr
 
 ##Παραδοτέο 3
 
+##WIP!!!
 αλλαγή javascript για αλλαγή οπτικοποίησης της υδρογείου
 
 https://github.com/achkap/twitter-stream-globe/blob/changing-earth-visualisation/public/javascripts/TwitterStreamGlobe.js
