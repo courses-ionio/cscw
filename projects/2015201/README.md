@@ -38,27 +38,31 @@ hysteria=υστερία, idiocy=ηλιθιότητα, insomnia=αϋπνία, ins
 
 ##Παραδοτέο 2
 διευθυνση εφαρμογής
+
 https://moodtonight.herokuapp.com/
 
 αλλαγη αρχείων για την αλλαγή χρωμάτων των ακτίνων και διαβάθμισή τους
-https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TweetBeacon.js
 
+https://github.com/achkap/twitter-stream-globe/blob/Changing-Beam-Colors/public/javascripts/TweetBeacon.js
 
 αλλαγή αρχείων css και scss για αλλαγή χρωμάτων και προσθήκη διαβαθμίσεων χρωμάτων στην αριστερή στήλη με τα tweets 
 
-https://github.com/achkap/twitter-stream-globe/blob/master/public/stylesheets/style.css
-https://github.com/achkap/twitter-stream-globe/blob/master/public/stylesheets/style.scss
-https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TweetHud.js
+https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/public/stylesheets/style.css
 
-αλλαγή javascript για αλλαγή οπτικοποίησης της υδρογείου
-https://github.com/achkap/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
+https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/public/stylesheets/style.scss
 
-προσθήκη εικόνων για αλλαγή οπτικοποίησης της υδρογείου
-https://github.com/achkap/twitter-stream-globe/tree/master/public/images
+https://github.com/achkap/twitter-stream-globe/blob/changing-left-column-colors/public/javascripts/TweetHud.js
+
 
 
 ##Παραδοτέο 3
+αλλαγή javascript για αλλαγή οπτικοποίησης της υδρογείου
 
+https://github.com/achkap/twitter-stream-globe/blob/changing-earth-visualisation/public/javascripts/TwitterStreamGlobe.js
+
+προσθήκη εικόνων για αλλαγή οπτικοποίησης της υδρογείου
+
+https://github.com/achkap/twitter-stream-globe/tree/changing-earth-visualisation/public/images
 
 ##Παραδοτέο 4
 
