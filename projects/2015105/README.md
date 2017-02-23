@@ -8,8 +8,6 @@
 **Φοιτητής:** Γιορντάνωβ Ντάνιελ  
 **ΑΜ:** Π2015105
 
-![separator](separator.jpg)
-
 #Παραδοτέο 1  
 ##Παρεμβάσεις στα χρώματα:
 
@@ -18,4 +16,34 @@
 - Θετικό συναίσθημα: Κίτρινο  
 - Έντονο θετικό συναίσθημα: Πράσινο
 
-##Λέξεις που θα μεταφραστούν: 
+##Λέξεις που θα μεταφραστούν:  
+adopt  
+demanding  
+liar  
+luck  
+mad  
+mindless  
+miracle  
+mistake  
+moaning  
+murderer  
+myth  
+negativity  
+noticeable  
+odd  
+opportunity  
+outstanding  
+overjoyed  
+pollution  
+pray  
+pressure  
+proud  
+racist  
+scar  
+selfishness  
+short-sighted  
+skeptic  
+smarter  
+strength  
+tears  
+trap  
