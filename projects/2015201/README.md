@@ -124,6 +124,12 @@ https://github.com/achkap/twitter-stream-globe/blob/changing-earth-visualisation
 
 https://github.com/achkap/twitter-stream-globe/tree/changing-earth-visualisation/public/images
 
+αλλαγές στην υφή της υδρογείου (προσθήκη νύχτας μέρας), στην ταχύτητα περιστροφής, στην κατεύθυνση περιστροφής, στο μέγεθος της υδρογείου.
+Έχουν μπει σχόλια στον κώδικα για την κάθε αλλαγή.
+
+https://github.com/achkap/twitter-stream-globe/blob/Change-earth-speed/public/javascripts/TwitterStreamGlobe.js
+
+
 ##Παραδοτέο 4
 
 ...
