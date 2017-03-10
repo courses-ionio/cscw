@@ -18,9 +18,19 @@
 
 ## Παραδοτέο 1</br>
 ### Παρεμβάσεις στα χρώματα:</br>
+
+* Έντονα θετικό συναίσθημα: Πρασινο
+
+* Θετικό συναίσθημα: λαχανι
+
+* Αρνητικό συναίσθημα: ροζ
+
+* Έντονα αρνητικό συναίσθημα: Κόκκινο
+
 </br>
 ### Λέξεις που θα μεταφραστούν: </br>
 </br>
+violated,victories,unwanted,unhealthy,unfunnyunforgiving,sweet,supporter,accessible,clever,crime,dead,cute,delay,healthyhopes,ignore,lag,likes,loving,mistakes,noob,overload,prison,rich,scary,shy,solve,stops,swift,threaten,trap,worn,wrongly
 
 ##Παραδοτέο 2
 
