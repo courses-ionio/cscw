@@ -6,7 +6,7 @@
 
 ## Twitter Sentiment Analysis
 
-**Γιώργος Μαργαρίτης ΑΜ Π2015139**
+## Γιώργος Μαργαρίτης ΑΜ Π2015139
 
 ## Παραδοτέο 1
 
@@ -31,3 +31,51 @@ abusing, abusive, destroy, selfish, terror, torture, trauma, treason, terrorist,
 **Θα περιοριστεί η περιοχή προέλευσης των tweets**
 
 **Ενδέχεται να υπάρξουν περαιτέρω αλλαγές για καλύτερη βαθμολόγηση**
+
+## Παραδοτέο 2
+
+### Διεύθυνση για την εφαρμογή
+https://radiant-bastion-22660.herokuapp.com/
+
+Η προσθήκη των keys , tokens έγινε απευθείας στο heroku οπότε δε χρειάστηκε αλλαγή του index.js
+
+### Υλοποιήθηκε η διαβάθμηση των χρωμάτων όπως δηλώθηκε στο Παραδοτέο 1
+
+* Έντονα θετικό συναίσθημα: Μπλε
+
+* Θετικό συναίσθημα: Γαλάζιο
+
+* Αρνητικό συναίσθημα: Πορτοκαλί
+
+* Έντονα αρνητικό συναίσθημα: Κόκκινο
+
+**Η διαβάθμηση έγινε ως εξής:**
+
+2 < Έντονα θετικό συναίσθημα
+
+0 < Θετικό συναίσθημα <= 2
+
+-2 <= Αρνητικό συναίσθημα < 0
+
+Έντονα αρνητικό συναίσθημα < -2
+
+**Link:** [TweetBeacon.js](https://github.com/gmargaritis/twitter-stream-globe/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-/-%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A7%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD/public/javascripts/TweetBeacon.js)
+
+### Πραγματοποιήθηκε αλλαγή αντστοίχων χρωμάτων στην αριστερή στήλη και στο score
+
+**Links:**
+* [TweetHud.js](https://github.com/gmargaritis/twitter-stream-globe/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-/-%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A7%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD/public/javascripts/TweetHud.js)
+
+* [style.css](https://github.com/gmargaritis/twitter-stream-globe/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-/-%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A7%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD/public/stylesheets/style.css)
+
+* [style.scss](https://github.com/gmargaritis/twitter-stream-globe/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-/-%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A7%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD/public/stylesheets/style.scss)
+
+![Overview](overview.png)
+
+![Sidebar](sidebar.png)
+
+### Λέξεις που μεταφράστηκαν
+
+abusing (καταχρώμαι), abusive (καταχρηστικός , καταχρηστική), destroy (καταστρέφω), selfish (εγωιστής , εγωίστρια), terror (τρόμος), torture (βασανηστήριο), trauma (τραύμα), treason (προδοσία), terrorist (τρομοκράτης), terrorists (τρομοκράτες), unbelievable (απίστευτο), undecided (αναποφάσιστος , αναποφάσιστη), unemployment (ανεργία), unemployed (άνεργος , άνεργη), unfair (άδικο), wrong (λανθασμένος , λανθασμένη), sweet (γλυκός , γλυκιά , γλυκό), supporter (υποστηρικτής), support (υποστηρίζω), solve (λύνω), solution (λύση), solutions (λύσεις), smart (έξυπνος , έξυπνη , έξυπνο), secure (ασφαλής), praise (έπαινος), popular (δημοφιλής), popularity (δημοτικότητα), pleasure (ευχαρίστηση), pleasurable (απολαυστικός , απολαυστική , απολαυστικό), joy (χαρά), joyful (χαρούμενος , χαρούμενη), impressed (εντυπωσιασμένος , εντυπωσιασμένη)
+
+**Link:** [AFINN-translateToGreek165.txt](https://github.com/gmargaritis/twitter-stream-globe/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-/-%CE%9C%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%9B%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt)
