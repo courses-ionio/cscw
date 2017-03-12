@@ -36,8 +36,7 @@ sexist
 sexistic	
 sexy	
 shaky	
-shame	
-shamed	
+shame		
 shameful	
 share	
 shared	
@@ -51,7 +50,29 @@ shocked
 shocking	
 shocks	
 shoody	
-
+shoot
+short-sighted	
+short-sightedness	
+shortage	
+shortages	
+shrew	
+shy	
+sick	
+sickness	
+side-effect	
+side-effects	
+sigh	
+significance
+significant
+silencing
+silly	
+simplicity	
+sin	
+sincere
+sincerely	
+sincerest	
+sincerity	
+sinful
 
 
 
