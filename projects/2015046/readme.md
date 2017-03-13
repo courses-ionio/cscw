@@ -57,7 +57,7 @@ violated,victories,unwanted,unhealthy,unfunnyunforgiving,sweet,supporter,accessi
 αλλαγή χρώματος των χρηστών με βάση τα συναισθήματα τους
 ```
 
-![planet](plant.png)
+![planet](planet.png)
 
 ```
 Τελικό αποτέλεσμα
@@ -65,11 +65,11 @@ violated,victories,unwanted,unhealthy,unfunnyunforgiving,sweet,supporter,accessi
 
 ### Μετάφραση λέξεων: 
 
-  -Αγγλικά: violated,victories,unwanted,unhealthy,unfunny,unforgiving,sweet,supporter,
+  - Αγγλικά: violated,victories,unwanted,unhealthy,unfunny,unforgiving,sweet,supporter,
             accessible,clever,crime,dead,cute,delay,healthy,hopes,ignore,lag,likes,loving,
             mistakes,noob,overload,prison,rich,scary,shy,solve,stops,swift,threaten,trap,worn,wrongly
 
-  -Ελληνικά: παραβιάζονται, νίκες, ανεπιθύμητη, ανθυγιεινά, Μη κωμικός, συγχωρεί, γλυκό, υποστηρικτής, προσιτή, 
+  - Ελληνικά: παραβιάζονται, νίκες, ανεπιθύμητη, ανθυγιεινά, Μη κωμικός, συγχωρεί, γλυκό, υποστηρικτής, προσιτή, 
              έξυπνος, εγκλημα, νεκρός, χαριτωμένο, καθυστέρηση, υγιή, ελπίδες, αγνοώ, υστερούν, 
              αρέσει, αγάπη, λάθη, αρχάριος, υπερφόρτωση, φυλακή, πλούσιος, τρομακτικό, ντροπαλός, λύση,
              στάσεις, ταχεία, απειλούν, παγίδα, φθαρμένα, λανθασμένα
