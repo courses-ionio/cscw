@@ -6,7 +6,7 @@ Sentiment Analysis on Twitter
 
 
 
-Παραδοτέο 1
+Παραδοτέο 1 & 2
 
 Παρεμβάσεις στα χρώματα:
 
@@ -85,7 +85,7 @@ sinful	γεμάτο αμαρτία
 η διεύθυνση με το txt των μεταφρασμένων λέξεων
 (https://github.com/p13kara33/twitter-stream-globe/blob/Metafrasi-le3ewn/AFINN-translateToGreek165.txt)
 
-Παραδοτέο 2
+
 
 Παραδοτέο 3
 
