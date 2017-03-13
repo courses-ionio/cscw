@@ -82,6 +82,8 @@ smarter = εξυπνότερος εξυπνότερη εξυπνότερο εξ�
 strength = δύναμη ισχύς  
 tears = δάκρυα κλάματα  
 trap = παγίδα  
+
+* Όπου κρίθηκε απαραίτητο, οι λέξεις μεταφράστηκαν με περισσότερες από μία λέξη.  
   
 **Link στο αρχείο του forked repo:**   https://github.com/danielyor/twitter-stream-globe/blob/develop/AFINN-translateToGreek165.txt  
 ##Αλλαγές σε κώδικα για διαβάθμιση συναισθημάτων  
@@ -89,5 +91,6 @@ trap = παγίδα
 Μια ακόμα μικρή αλλαγή έγινε στο πάχος της ακτίνας (γραμμή 57).  
 https://github.com/danielyor/twitter-stream-globe/blob/lightbeamcolors/public/javascripts/TweetBeacon.js  
 
-Στιγμιότυπο:  
-![screenshot](lightbeamdemo.png)
+Στιγμιότυπο για 3 από τα 5 χρώματα ακτινών:  
+![screenshot](lightbeamdemo.png)  
+*"Πράσινο για έντονο θετικό συναίσθημα, κίτρινο για θετικό συναίσθημα, και άσπρο για ουδέτερο συναίσθημα."*
