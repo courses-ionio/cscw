@@ -57,7 +57,7 @@ violated,victories,unwanted,unhealthy,unfunnyunforgiving,sweet,supporter,accessi
 αλλαγή χρώματος των χρηστών με βάση τα συναισθήματα τους
 ```
 
-![planet](plante.png)
+![planet](plant.png)
 
 ```
 Τελικό αποτέλεσμα
