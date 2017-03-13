@@ -85,4 +85,9 @@ trap = παγίδα
   
 **Link στο αρχείο του forked repo:**   https://github.com/danielyor/twitter-stream-globe/blob/develop/AFINN-translateToGreek165.txt  
 ##Αλλαγές σε κώδικα για διαβάθμιση συναισθημάτων  
-Θα προστεθούν πολύ σύντομα! (WIP)
+Έγινε επεξεργασία του αρχείου TweetBeacon.js για την αλλαγή χρωμάτων των ακτίνων, όπως ορίστηκε στο Παραδοτέο 1. Στις γράμμες όπου έγιναν οι αλλαγές προστέθηκαν και σχόλια (γραμμές 20-35).  
+Μια ακόμα μικρή αλλαγή έγινε στο πάχος της ακτίνας (γραμμή 57).  
+https://github.com/danielyor/twitter-stream-globe/blob/lightbeamcolors/public/javascripts/TweetBeacon.js  
+
+Στιγμιότυπο:  
+![screenshot](lightbeamdemo.png)
