@@ -56,3 +56,57 @@ success
 suicide
 talent
 toxic
+
+
+## Παραδοτέο 2
+
+### link εφαρμογής
+
+https://lelos.herokuapp.com/
+
+### Παρεμβάσεις στα χρώματα:
+
+Έντονα αρνητικό συναίσθημα : κόκκινο
+
+Αρνητικό συναίσθημα : κίτρινο
+
+Θετικό συναίσθημα : ρόζ
+
+Έντονα θετικό συναίσθημα : πράσινο
+
+https://github.com/p13papa1/twitter-stream-globe/blob/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2/public/javascripts/TweetBeacon.js
+
+### Μετάφραση λέξεων
+
+benevolent=φιλανθρωπικός
+betrayal=προδοσία
+bias=κλίση
+bitches=σκύλες
+blame=κατηγορώ
+can't stand=δεν μπορώ να σταθώ
+censor=λογοκρίνω
+commend=συγχαίρω
+deadlock=αδιέξοδο
+eager=ενθουσιώδης
+enlighten=διαφωτίζω
+fatal=θανάσιμος
+fed up=αγανακτισμένος
+indoctrinate=πλύση εγκεφάλου
+infracts=κομμάτια
+justified=δικαιολογημένος
+lapse=σφάλμα
+medal=μετάλλιο
+nonsense=ανοησίες
+prays=προσεύχομαι
+recognition=αναγνώριση
+sloppy=τσαπατσούλικος
+smog=αιθαλομίχλη
+robs=λήστεψα
+snubs=αγνοώ
+stink=βρομάω
+success=επιτυχία
+suicide=αυτοκτονία
+talent=ταλέντο
+toxic=τοξικός
+
+https://github.com/p13papa1/twitter-stream-globe/blob/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%BB%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
