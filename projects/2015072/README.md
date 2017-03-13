@@ -84,33 +84,61 @@ furious
 care = φροντίδα, 
 
 free = ελεύθερος, 
+
 freedom = ελευθερία, 
+
 frenzy = φρενίτιδα, 
+
 fresh = φρέσκος, 
+
 friendly = φιλικός, 
+
 friendship = φιλία, 
-frightened = έντρομος, 	
+
+frightened = έντρομος, 
+
 ftw = για την νίκη, 
+
 fuck = γαμώ, 
+
 fucked	= γαμημένος, 
+
 fuckface = αηδιαστικός, 	
+
 fuckhead = μαλάκας, 
+
 fucking beautiful = πολύ όμορφος, 	
+
 fucking cute = πολύ γλυκός, 
+
 fucking good = πολύ καλός, 
+
 fucking great = πολύ τέλειος, 
+
 fucking hot = καύλα, 
+
 fucking perfect	= άψογος, 
+
 fud = αιδοίο, 
+
 fuked = γαμημένος, 
+
 fuking = σεξ, 
+
 fulfill	= εκπληρώνω, 
+
 fuming	= ατμίζον, 
+
 fun = διασκέδαση, 
+
 funeral	= κηδεία, 
+
 funerals = κηδείες,
+
 funny = διασκεδαστικός, 
+
 furious	= έξαλος, 
-gag = φίμωτρο
+
+gag = φίμωτρο.
 
 λινκ : https://github.com/p15kalo/twitter-stream-globe/blob/%CE%9C%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%9B%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
