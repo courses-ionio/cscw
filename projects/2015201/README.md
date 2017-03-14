@@ -114,7 +114,7 @@ https://github.com/achkap/twitter-stream-globe/blob/add-greek-translate/AFINN-tr
 ## Παραδοτέο 3
 
 Κι εδώ οι αλλαγές έγιναν σε διαφορετικό κλαδί αν και όλες αφορούν το ίδιο αρχείο: το /public/javascripts/TwitterStreamGlobe.js.
-Οι αλλαγές στον κώδικα έχουν επισημανθεί σαν σχόλια στο αρχείο του forked αποθετηρίου.
+Οι αλλαγές στον κώδικα έχουν επισημανθεί σαν σχόλια στο αρχείο του forked αποθετηρίου, στο κλαδί All-succesful-commits
 Όλα τα επιτυχημένα commits έχουν προστεθεί σε ειδικό κλαδί του αποθετηρίου (All-succesful-commits)
 
 Για να μπορέσω να αλλάξω την υφή της υδρογείου έπρεπε να προσθέσω εικόνες στο φάκελο
@@ -124,9 +124,24 @@ https://github.com/achkap/twitter-stream-globe/tree/changing-earth-visualisation
 Οι εικόνες που προστέθηκαν είναι της υδρογείου μέρα και νύχτα.
 Έγιναν και οι ανάλογες αλλαγές στο αρχείο TwitterStreamGlobe.js ώστε να διαβάζει και να φορτώνει τις καινούριες εικόνες.
 
-Επίσης αλλάχτηκε η ταχύτητα περιστροφής της υδρογείου (πιο γρήγορη) καθώς και η φορά περιστροφής. Έγινε αλλαγή και στο μέγεθος της υδρογείου, μόνο που η αλλαγή είναι μικρή μια και μια αρκετά μεγαλύτερη ή αρκετα μικρότερη υδρόγειος δε φαίνεται καλά όταν τρέχει η εφαρμογή.
+https://github.com/achkap/twitter-stream-globe/blob/changing-earth-visualisation/public/javascripts/TwitterStreamGlobe.js
+
+Επίσης αλλάχτηκε η ταχύτητα περιστροφής της υδρογείου (πιο γρήγορη)
+
+https://github.com/achkap/twitter-stream-globe/blob/change-earth-speed/public/javascripts/TwitterStreamGlobe.js
+
+
+καθώς και η φορά περιστροφής. 
+
+https://github.com/achkap/twitter-stream-globe/blob/change-earth-spin/public/javascripts/TwitterStreamGlobe.js
+
+Έγινε αλλαγή και στο μέγεθος της υδρογείου, μόνο που η αλλαγή είναι μικρή μια και μια αρκετά μεγαλύτερη ή αρκετα μικρότερη υδρόγειος δε φαίνεται καλά όταν τρέχει η εφαρμογή.
+
+https://github.com/achkap/twitter-stream-globe/blob/change-earth-size/public/javascripts/TwitterStreamGlobe.js
 
 Τέλος έγινε και ο περιορισμός στην προέλευση των tweets στις Η.Π.Α. (μια και τα  περισσότερα tweets προέρχονται από εκεί και η οπτικοποίηση θα ήταν καλύτερη). Η αλλαγή περιοχής μπορεί να γίνει εύκολα αλλάζοντας απλά τις συντεταγμένες στο κατάλληλο σημείο του κώδικα. 
+
+https://github.com/achkap/twitter-stream-globe/blob/limit-tweet-region/public/javascripts/TwitterStreamGlobe.js
 
 Έχει προστεθεί κι ένα βίντεο το οποίο δείχνει την αρχική έκδοση της εφαρμογής και την εφαρμογή όπως έχει γίνει μετά από όλα τα επιτυχημένα commits. 
 
