@@ -4,7 +4,7 @@
 # ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
 
 ## ΙΩΑΝΝΗΣ ΑΓΓΕΛΗΣ 
-##Α.Μ Π2015006
+## Α.Μ Π2015006
 
 # ΜΑΘΗΜΑ
 ## Κινητά και Κοινωνικά Μέσα
@@ -12,7 +12,7 @@
 # Επιλογή Εργασίας
 ## Sentiment Analysis on Twitter
 
-##Παραδοτέο 1
+## Παραδοτέο 1
 ### Παρεμβάσεις στα χρώματα:
 
 Μπλε : το συναίσθημα της εμπιστοσύνης ,
@@ -28,7 +28,7 @@ accept,accepted,accidents,afraid,agreement,alive,alone,angry,bad,battle,
 beautify,brave,cheat,clarifies,clarity,clash,clear,damage,danger,easy,
 enemy,enjoy,error,exciting,fails,useful,ability,capability,visionary,yes.	
 
-##Παραδοτέο 2
+## Παραδοτέο 2
 
 
 ###Διεύθυνση εφαρμογής
@@ -47,7 +47,7 @@ https://cscwtweteer.herokuapp.com/
 Έντονο Κόκκινο : το συναίσθημα της οργής.
 
 Εκτός από την αλλαγή χρώματος στις ακτίνες έγινε αλλαγή και στα όρια του φίλτρου για τα χρώματα  των συναισθημάτων .  Δηλαδή οριστήκαν νέες τιμές για την απόδοση  των συναισθημάτων (Στο μέλλον ενδέχεται να αλλάξουν ) .
-###Αναλυτικά
+### Αναλυτικά
  tweet.sentiment.score  <=  -0.80  Συναίσθημα της οργής
  
 tweet.sentiment.score  <=  -0.40 &&  tweet.sentiment.score  >  -0.80  Συναίσθημα του θυμού
@@ -70,7 +70,7 @@ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/METAFLASH_LEXEON/AF
 
 https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/Colors-Tests/public/javascripts/TweetBeacon.js
 
-##Παραδοτέο 3
+## Παραδοτέο 3
 
 Όλα τα επιτυχημένα commit που γίνανε στο branch develop δημιουργώ αντίστοιχα καινούρια   branch  με τα καταλληλά ονόματα   ώστε να φαίνεται οι κάθε αλλαγές  μεμονωμένες και ξεχωριστά.  
 
@@ -100,6 +100,6 @@ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WO
 
 ![Screenshot2](Screenshot2.png)
 
-##Διεύθυνση εφαρμογής
+## Διεύθυνση εφαρμογής
 
 https://cscwtweteer.herokuapp.com/
