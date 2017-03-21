@@ -69,3 +69,33 @@ Ability  = ικανότητα , accept = αποδέχομαι ,  accepted  = α�
 https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/METAFLASH_LEXEON/AFINN-translateToGreek165.txt
 
 https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/Colors-Tests/public/javascripts/TweetBeacon.js
+
+##Παραδοτέο 3
+
+Όλα τα επιτυχημένα commit που γίνανε στο branch develop δημιουργώ αντίστοιχα καινούρια   branch  με τα καταλληλά ονόματα   ώστε να φαίνεται οι κάθε αλλαγές  μεμονωμένες και ξεχωριστά.  
+
+Αλλάχτηκαν τα χρώματα στα tweets των ανθρώπων με μπλε τα θετικά χρώματα  και έντονο κόκκινο τα αρνητικά. Παρακάτω το αντιστοιχώ link .
+
+ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/Twette-Color-Change/public/stylesheets
+ 
+Έγινε αλλαγή στην ταχύτητα και στη φορά της   υδρογείου . Η ταχύτητα αυξήθηκε   και η περιστροφή της γης γίνεται προς τα αριστερά.  Παρακάτω το αντιστοιχώ link .
+
+https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/EARTH-SPEED/public/javascripts
+
+Έγινε αλλαγή στο μέγεθος της υδρογείου . Το μέγεθος  της το  μίκρυνα αρκετά.  Παρακάτω το αντιστοιχώ link .
+
+https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/SIZE-GLOBE/public/javascripts
+
+Έγινε περιορισμός των δεδομένων από τα tweets σε ολόκληρη την  Ευρώπη.  Το μόνο που χριζότανε ήταν αν μετατρέψεις της  γεωγραφικές συντεταγμένες από το  GOOGLE EARTH σε συντεταμένες GPS χρησιμοποιώντας το  itouchmap .Και στη συνείχα να αλλάξεις τον κώδικα που εμφανίζει τα tweets .Παρακάτω το αντίστοιχα links .
+
+https://itouchmap.com/latlong.html
+https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/TWEETS-LOCATION/public/javascripts
+
+Τέλος έγινε αλλαγή στην οπτικοποίηση  της υδρογείου έγινε  προσθέτοντας μια εικόνα στον φάκελο με τις εικόνες και αλλάζοντας στο αρχείο  TwitterStreamGlobe.js την εικόνα που θα φόρτωση . Παρακάτω το αντιστοιχώ link .
+
+https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WORLD/public
+
+Όλα τα παραπάνω ξεχωριστά  commits  αντιπροσωπεύουν το develop  και η υλοποίηση της εφαρμογής στο herocu  γίνεται μέσα από αυτό το branch .
+
+
+![Screenshot2](Screenshot2.png)
