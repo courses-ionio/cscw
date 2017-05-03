@@ -104,7 +104,7 @@ https://github.com/danielyor/twitter-stream-globe/blob/lightbeamcolors/public/ja
 - Επίσης μετακινήθηκε η κάμερα πιο ψηλά και πιο κοντά, ώστε να δωθεί παραπάνω έμφαση στο βόρειο ημισφαίριο. (Γραμμές 7-8: https://github.com/danielyor/twitter-stream-globe/blob/limit-location-feed/public/javascripts/TwitterStreamGlobe.js)
 
 ### Διορθώσεις σε προηγούμενες αλλαγές:
-- Έγιναν παρεμβάσεις στα CSS αρχεία ώστε οι αλλαγές των χρωμάτων να εφαρμοστούν και στο Hud της εφαρμογής (Tweets στα αριστερά και Tweet Sentinent πάνω δεξιά. Link: https://github.com/danielyor/twitter-stream-globe/tree/limit-location-feed/public/stylesheets )
+- Έγιναν παρεμβάσεις στα CSS αρχεία ώστε οι αλλαγές των χρωμάτων των ακτινών να εφαρμοστούν και στο Hud της εφαρμογής (Tweets στα αριστερά και Tweet Sentinent πάνω δεξιά. Link: https://github.com/danielyor/twitter-stream-globe/tree/limit-location-feed/public/stylesheets )
 
 ## Στιμιότυπα
 
