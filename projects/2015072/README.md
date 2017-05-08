@@ -142,3 +142,12 @@ furious	= έξαλος,
 gag = φίμωτρο.
 
 λινκ : https://github.com/p15kalo/twitter-stream-globe/blob/%CE%9C%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%9B%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
+
+
+
+## Παραδοτέο 3
+
+Αλλαγή Χάρτη : https://github.com/p15kalo/twitter-stream-globe/blob/Branch1/public/javascripts/TwitterStreamGlobe.js
+Αλλαγή Ταχύτητας : https://github.com/p15kalo/twitter-stream-globe/blob/Branch1/public/javascripts/TwitterStreamGlobe.js
+(Οι αλλαγές στον χάρτη και την ταχύτητα έγιναν στο ίδιο Branch)
+Περιορισμός Περιοχής : https://github.com/p15kalo/twitter-stream-globe/tree/periorismos-perioxhs/tweet-publisher
