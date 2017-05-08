@@ -88,7 +88,7 @@ rightfully = νόμιμα
 
 Έφτιαξα το Final-Branch που περιέχει όλα τα patch, το οποίο προήλθε από το branch "Αλλαγή Χρωμάτων".
 
-
+https://fast-stream-97733.herokuapp.com/
 
 ### Επιτεύχθηκε αλλαγή στην υφή της υδρογείου
 
@@ -106,6 +106,6 @@ rightfully = νόμιμα
 
 ### Επιτεύχθηκε o περιορισμός της περιοχής προέλευσης των tweets
 
-Έγινε αλλαγή στις συντεταγμένες ώστε όλα τα tweets να προέρχονται από το κέντρο του Παρισιού.
+Έγινε αλλαγή στις συντεταγμένες ώστε όλα τα tweets να προέρχονται από την ευρύτερη περιοχή της Ευρωπαϊκής Ηπείρου.
 
-**Link:** [Το pull request της αλλαγής](https://github.com/johnalkmeg/twitter-stream-globe/pull/3/files)
+**Link:** [Το pull request της αλλαγής](https://github.com/johnalkmeg/twitter-stream-globe/pull/4/files)
