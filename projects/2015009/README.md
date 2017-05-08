@@ -109,3 +109,19 @@ yummy	 = νόστιμος
 zealot = ζηλωτής
 
 Λίνκ : https://github.com/p15avge/twitter-stream-globe/blob/%CE%9C%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%BB%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
+
+## Παραδοτέο 3
+
+λινκ εφαρμογης https://p15avge.herokuapp.com/
+
+### Αλλαγη στην υφη
+
+https://github.com/p15avge/twitter-stream-globe/blob/%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A5%CF%86%CE%AE%CF%82/public/javascripts/TwitterStreamGlobe.js
+
+### Αλλαγη στην ταχυτητα
+
+https://github.com/p15avge/twitter-stream-globe/blob/%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%A4%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1%CF%82/public/javascripts/TwitterStreamGlobe.js
+
+### Περιορισμος Περιοχης
+
+https://github.com/p15avge/twitter-stream-globe/blob/%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE%CF%82/tweet-publisher/index.js
