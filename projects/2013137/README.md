@@ -110,3 +110,20 @@ talent=ταλέντο
 toxic=τοξικός
 
 https://github.com/p13papa1/twitter-stream-globe/blob/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%BB%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
+
+## Παραδοτέο 3
+Γιώργος Παπακωνσταντίνου
+Π2013137
+
+### Αλλαγή εικόνας του πλανήτη
+
+https://lelos.herokuapp.com/
+
+### Αύξηση της ταχύτητας
+
+https://github.com/p13papa1/twitter-stream-globe/blob/taxuthta/public/javascripts/TwitterStreamGlobe.js
+
+### Περιορισμός περιοχής προέλευσης των tweets
+Η περιοχή προέλευσης των tweets ειναι το San Francisco
+
+https://github.com/p13papa1/twitter-stream-globe/blob/perioxh-proeleushs/tweet-publisher/index.js
