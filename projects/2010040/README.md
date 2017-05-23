@@ -142,7 +142,12 @@ Unselfish = ανιδιοτελής
 
 ## Παραδοτέο 3ο
 
+https://cscwproject2010040.herokuapp.com/
+
 Περιορισμός γεωγραφικής περιοχής άντλησης των tweet: 
+
+ 00,61,40,90 -> Scandinavia (Μικρή συχνότητα tweets)
+-20,25,45,90 -> αλλαγή με Ευρώπη, μέρος Τουρκίας και κάποια παράλια της Αφρικής 
 
 https://github.com/rasred14/twitter-stream-globe/blob/master/tweet-publisher/index.js
 
