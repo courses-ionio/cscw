@@ -140,7 +140,20 @@ Unsecured = μη ασφαλισμένο
 
 Unselfish = ανιδιοτελής
 
+## Παραδοτέο 3ο
 
+Περιορισμός γεωγραφικής περιοχής άντλησης των tweet: 
 
+https://github.com/rasred14/twitter-stream-globe/blob/master/tweet-publisher/index.js
+
+Αλλαγή υφής της υδρογείου:
+
+1) Στο συγκεκριμένο Link βρήκα την εικόνα της υδρογείου με νυχτερινό φωτισμό:
+
+https://github.com/rasred14/twitter-stream-globe/tree/master/public/images
+
+2) Στο συγκεκριμένο Link έγινε αλλαγή της παλιάς εικόνας με την καινούργια:
+
+https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
 
 
