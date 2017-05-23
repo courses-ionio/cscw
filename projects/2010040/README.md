@@ -56,6 +56,8 @@ https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/
  
 ### Αλλαγές στις λέξεις και η μετάφρασή τους: 
 
+https://github.com/rasred14/twitter-stream-globe/blob/master/AFINN-translateToGreek165.txt
+
 Unfavorable = δυσμενής
 
 Unfit = ανίκανος, ακατάλληλος
