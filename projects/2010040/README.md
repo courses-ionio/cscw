@@ -148,12 +148,15 @@ https://github.com/rasred14/twitter-stream-globe/blob/master/tweet-publisher/ind
 
 Αλλαγή υφής της υδρογείου:
 
-1) Στο συγκεκριμένο Link βρήκα την εικόνα της υδρογείου με νυχτερινό φωτισμό:
+1) Στο παρακάτω Link βρήκα την εικόνα της υδρογείου με νυχτερινό φωτισμό:
 
 https://github.com/rasred14/twitter-stream-globe/tree/master/public/images
 
-2) Στο συγκεκριμένο Link έγινε αλλαγή της παλιάς εικόνας με την καινούργια:
+2) Στο παρακάτω Link έγινε αλλαγή της παλιάς εικόνας με την καινούργια:
 
 https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
 
+3) Στο παρακάτω Link έγινε αλλαγή στην ταχύτητα περιστροφής της σφαίρας:
+
+https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
 
