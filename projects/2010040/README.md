@@ -166,3 +166,6 @@ https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/
 
 https://github.com/rasred14/twitter-stream-globe/blob/master/public/javascripts/TwitterStreamGlobe.js
 
+## BONUS PROJECT:
+
+Για μπόνους εργασία, δημιούργησα την δικιά μου προσωπική σελίδα https://rasred14.github.io/, στην οποία βρίσκεται και η τελική αναφορά της εργασίας (Twitter Sentiment)
