@@ -164,12 +164,18 @@ https://youtu.be/Baq7xVFOM0E
 https://achkap.github.io/moodtonight/
 
 ### Bonus A - Links for merged commits
+
 https://github.com/pibook/pibookgr/pull/137
+
 https://github.com/pibook/pibookgr/pull/136
+
 https://github.com/pibook/pibookgr/pull/134
+
 https://github.com/pibook/pibookgr/pull/132
+
 https://github.com/pibook/pibookgr/pull/156 (unmerged)
 
 ### Bonus C - Link for case study merged commit
+
 https://github.com/pibook/pibookgr/pull/155 (unmerged)
 
