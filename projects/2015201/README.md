@@ -143,15 +143,19 @@ https://github.com/achkap/twitter-stream-globe/blob/change-earth-size/public/jav
 
 https://github.com/achkap/twitter-stream-globe/blob/limit-tweet-region/public/javascripts/TwitterStreamGlobe.js
 
+Έγινε ακόμα και η αλλαγή της υφής της υδρογείου ανάλογα με την ώρα της ημέρας. Έτσι όταν η ώρα είναι από τις 07:00 - 19:00 τότε η εικόνα της Γης είναι αυτή που τη δείχνει μέρα, ενώ τις υπόλοιπες ώρες είναι αυτή που τη δείχνει νύχτα.
+
+
+https://github.com/achkap/twitter-stream-globe/blob/daynight/public/javascripts/TwitterStreamGlobe.js
+
+
+### Βίντεο παρουσίασης εφαρμογής
 Έχει προστεθεί κι ένα βίντεο το οποίο δείχνει την αρχική έκδοση της εφαρμογής και την εφαρμογή όπως έχει γίνει μετά από όλα τα επιτυχημένα commits. 
 
 https://youtu.be/Baq7xVFOM0E
 
 
 
-### Περαιτέρω βελτιώσεις
-1. Να αλλάζει η υδρόγειος ανάλογα με την ώρα. Η υδρόγειος την ημέρα όταν η ώρα είναι από τις 07:00 - 18:00 και η υδρόγειος τη νύχτα όταν η ώρα είναι από τις 18:00 - 06:00
-2. ....
 
 ##Παραδοτέο 4
 
