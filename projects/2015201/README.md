@@ -157,18 +157,19 @@ https://youtu.be/Baq7xVFOM0E
 
 
 
-##Παραδοτέο 4
+## Παραδοτέο 4
 
-###Σελίδα Τελικής Αναφοράς
+### Σελίδα Τελικής Αναφοράς
+
 https://achkap.github.io/moodtonight/
 
-###Bonus A - Links for merged commits
+### Bonus A - Links for merged commits
 https://github.com/pibook/pibookgr/pull/137
 https://github.com/pibook/pibookgr/pull/136
 https://github.com/pibook/pibookgr/pull/134
 https://github.com/pibook/pibookgr/pull/132
 https://github.com/pibook/pibookgr/pull/156 (unmerged)
 
-###Bonus C - Link for case study merged commit
+### Bonus C - Link for case study merged commit
 https://github.com/pibook/pibookgr/pull/155 (unmerged)
 
