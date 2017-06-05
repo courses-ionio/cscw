@@ -12,6 +12,10 @@
 # Επιλογή Εργασίας
 ## Sentiment Analysis on Twitter
 
+# Bonus 1 :[github-pages](https://giannis-aggelis.github.io/Architect.csws/)
+# Bonus 5 :
+Email dsa11999977@gmail.com (https://github.com/GIANNIS-AGGELIS/cscw/blob/2015006/projects/2015006/Screenshot_2017-06-05-11-42-58.png)
+
 ## Παραδοτέο 1
 ### Παρεμβάσεις στα χρώματα:
 
@@ -99,6 +103,20 @@ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WO
 
 
 ![Screenshot2](Screenshot2.png)
+
+
+## Παραδοτέο 4
+
+Αποθήκευση δεδομένων της εφαρμογής μέσο της της λειτουργίας της εφαρμογής Pub nub. Η εφαρμογή δίνει την δυνατότητα να αποθηκεύει στοιχεία όπως πόσες συσκευές έχουν συνδεθεί στην εφαρμογή  , πόσοι έχουν σχολιάσει , έχουν δημοσιεύσει και τον ακριβή αριθμό μηνυμάτων αναμεσά σε μια  χρονική περίοδο (π.χ. 30 ημέρες).Επίσης μπορείς με τα δεδομένα  να κάνεις extract τα δεδομένα σε αρχείο .cvs (https://github.com/GIANNIS-AGGELIS/cscw/blob/2015006/projects/2015006/KEY_Demo%20Keyset_3_months.csv)  .
+
+![Screenshot_2](Screenshot_2.png)
+
+![Screenshot_3](Screenshot_3.png)
+
+
+
+
+
 
 ## Διεύθυνση εφαρμογής
 
