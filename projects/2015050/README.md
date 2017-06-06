@@ -109,3 +109,9 @@ https://fast-stream-97733.herokuapp.com/
 Έγινε αλλαγή στις συντεταγμένες ώστε όλα τα tweets να προέρχονται από την ευρύτερη περιοχή της Ευρωπαϊκής Ηπείρου.
 
 **Link:** [Το pull request της αλλαγής](https://github.com/johnalkmeg/twitter-stream-globe/pull/4/files)
+
+## Παραδοτέο 4 - BONUS A
+
+Το παραδοτέο 4 υλοποιήθηκε με github pages.
+
+**Link:** https://johnalkmeg.github.io/gitpage/
