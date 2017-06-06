@@ -151,3 +151,6 @@ gag = φίμωτρο.
 Αλλαγή Ταχύτητας : https://github.com/p15kalo/twitter-stream-globe/blob/Branch1/public/javascripts/TwitterStreamGlobe.js
 (Οι αλλαγές στον χάρτη και την ταχύτητα έγιναν στο ίδιο Branch)
 Περιορισμός Περιοχής : https://github.com/p15kalo/twitter-stream-globe/tree/periorismos-perioxhs/tweet-publisher
+
+## Παραδοτέο 4
+link: https://p15kalo.github.io/Paradoteo4/
