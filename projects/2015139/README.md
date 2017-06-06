@@ -120,6 +120,6 @@ https://radiant-bastion-22660.herokuapp.com/
 
 ## Παραδοτέο 4 - BONUS A
 
-Το παραδοτέο 4 και η τελική αναφορά έγινε σύμφωνα με το Bonus A σε github pages.
+Το παραδοτέο 4 υλοποιήθηκε github pages.
 
-**Link:** https://gmargaritis.github.io/Final-Report/
+**Link:** https://johnalkmeg.github.io/gitpage/
