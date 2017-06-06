@@ -117,3 +117,9 @@ https://radiant-bastion-22660.herokuapp.com/
 ## Βιβλιογραφία
 
 [1]: [Twitter API / Streaming API request parameters / Locations](https://dev.twitter.com/streaming/overview/request-parameters#locations)
+
+## Παραδοτέο 4 - BONUS A
+
+Το παραδοτέο 4 και η τελική αναφορά έγινε σύμφωνα με το Bonus A σε github pages.
+
+**Link:** https://gmargaritis.github.io/Final-Report/

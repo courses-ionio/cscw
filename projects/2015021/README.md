@@ -109,3 +109,15 @@ twat = μουνί
 ,festive = εορταστικός
 
 link:https://github.com/p15afen/twitter-stream-globe/blob/metafrash-leksewn/AFINN-translateToGreek165.txt
+
+## Παραδοτέο 3
+
+### Αλλαγή υφής χάρτη: link:https://github.com/p15afen/twitter-stream-globe/blob/YfhMap/public/javascripts/TwitterStreamGlobe.js
+
+### Mείωση της ταχύτητας της υδρογείου: https://github.com/p15afen/twitter-stream-globe/blob/allaghTaxuthtas/public/javascripts/TwitterStreamGlobe.js
+
+### Περιορισμός της περιοχής προέλευσης των tweets: https://github.com/p15afen/twitter-stream-globe/blob/periorismos/tweet-publisher/index.js
+
+link της εφαρμογής:https://xetrdtuyg.herokuapp.com/
+
+

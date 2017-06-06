@@ -1,5 +1,4 @@
-# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ  
-# ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ  
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ - ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ  
 
 ## Κινητά και Κοινωνικά Μέσα  
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
@@ -7,6 +6,11 @@
 ## Sentiment Analysis on Twitter  
 __Φοιτητής:__ Γιορντάνωβ Ντάνιελ  
 __ΑΜ:__ Π2015105
+
+**Διεύθυνση (URL) της εφαρμογής:** https://pacific-atoll-58486.herokuapp.com  
+- Όλες οι αλλαγές έχουν δοκιμαστεί σε browser Mozilla Firefox.  
+
+**Bonus A:** Η τελική αναφορά είναι στο GitHub Pages. https://danielyor.github.io/tweet-stream-globe-report/
 
 # Παραδοτέο 1  
 ## Παρεμβάσεις στα χρώματα:
@@ -114,6 +118,8 @@ https://github.com/danielyor/twitter-stream-globe/blob/lightbeamcolors/public/ja
 Η αλλαγές στα χρώματα του Hud:  
 ![screenshot](hudcolors.jpg)
 
-## Διεύθυνση (URL) της εφαρμογής
-https://pacific-atoll-58486.herokuapp.com  
+# Παραδοτέο 4
 
+Οι αλλαγές της οπτικοποίησης της υδρογείου και προσθήκης αποθήκευσης των tweets δεν έγιναν λόγω έλλειψης δεξιοτήτων και χρόνου. Παρ' όλα αυτά, έγινε η τελική αναφορά σε GitHub Pages (Bonus).
+
+https://danielyor.github.io/tweet-stream-globe-report/
