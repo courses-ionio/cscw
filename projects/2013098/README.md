@@ -105,3 +105,12 @@ irritated=ενοχλημένος
 περιορισμός γεωγραφικής προέλευσης : https://github.com/p13kova/twitter-stream-globe/tree/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE%CF%82-%CF%80%CE%B5%CF%81%CE%B9o%CF%87%CE%AE%CF%82
 
 Λίνκ στο Heroku: https://dashboard.heroku.com/apps/twitterglobetest/deploy/github
+
+
+Παραδοτέο 4 - BONUS 
+
+Το παραδοτέο 4 και η τελική αναφορά έγινε σύμφωνα με το Bonus A σε github pages.
+Λινκ github pages: https://p13kova.github.io/Paradoteo4-bonus/
+Λινκ αποθετηρίου με την μετατροπή του χάρτη από τρισδιάστατη απεικόνιση  σε δισδιάστατη: https://github.com/p13kova/twitter-stream-globe/tree/2d 
+
+Λίνκ στο Heroku:https://twitterglobetest.herokuapp.com/
