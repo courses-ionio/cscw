@@ -9,11 +9,11 @@
  
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος  
 
-# Επιλογή Εργασίας: Corfu Maps
+# Επιλογή Εργασίας   
+## Corfu Maps
 
 ### Γεώργιος Μαντέλλος  
 ### ΑΜ: Π2016149  
-### Course: CSCW  
 ### Application: https://geocfu.github.io/corfu-map/  
 ### Repository: https://github.com/geocfu/corfu-map  
 
