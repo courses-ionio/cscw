@@ -14,6 +14,8 @@
 
 Γεώργιος Μαντέλλος  
 ΑΜ: Π2016149  
+Application: https://geocfu.github.io/corfu-map/  
+Repository: https://github.com/geocfu/corfu-map  
 
 ## Παραδοτέο 1  
 - [x] Όταν ανοίγει η εφαρμογή να είναι κεντραρισμένη και εστιασμένη (zoom) στην πόλη της Κέρκυρας.  
