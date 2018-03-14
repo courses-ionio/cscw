@@ -6,6 +6,8 @@
 ## ΕΠΙΛΟΓΗ ΕΡΓΑΣΙΑΣ
 ## Συνεργατική χαρτογράφηση
 Διαμαντόπουλος Δημήτρης ΑΜ: Π2016141
+Corfu-Map Editor: https://dhmhtrhsd.github.io/corfu-map/
+Repository: https://github.com/dhmhtrhsd/corfu-map
 
 ## 1ο Παραδοτέο
 ![](https://github.com/dhmhtrhsd/cscw/blob/master/projects/2016141/interface.PNG)
