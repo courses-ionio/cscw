@@ -12,9 +12,7 @@
     
 [ Repository(Corfu Map)](https://github.com/MyrtoP/corfu-map)
     
-[gh-pages](https://myrtop.github.io/corfu-map/)
-
-[Αναφορά σε gh-pages](https://myrtop.github.io/csw/projects/2016030)
+[master](https://myrtop.github.io/corfu-map/)
 
 
 Σε αυτό το παραδοτέο όταν ανοίγει η εφαρμογή ο χάρτης αυτόματα 
@@ -27,5 +25,7 @@
 όχι το παραγόμενο GeoJSON string το οποίο εμφανίζεται στο τέλος της σελίδας.
 
 #### Χάρτης
-     - ο χαρτης ![χαρτης](https://github.com/MyrtoP/corfu-map/blob/master/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
-     - geojson string ![string](https://github.com/MyrtoP/corfu-map/blob/master/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap2.jpg)
+
+     - χαρτης ![χαρτης](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
+     
+     - geojson string ![string](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap2.jpg)
