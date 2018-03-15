@@ -26,6 +26,6 @@
 
 #### Χάρτης
 
-     - ![χαρτης](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
+   - χαρτης ![χαρτης](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
      
-     - geojson string ![string](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap2.jpg)
+   - geojson string ![string](https://github.com/MyrtoP/corfu-map/blob/master/images/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap2.jpg)
