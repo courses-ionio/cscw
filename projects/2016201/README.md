@@ -1,4 +1,4 @@
-Τίτλος Εργασίας: Super Mario
+Τίτλος Εργασίας: corfu map
 Στοιχεία φοιτητή: Ραντοστίνα Πόποβα Α.Μ:Π2016201
 ##Παραδοτέο 1 Forked Repository: 
 https://github.com/RadostinaRt/cscw
