@@ -10,6 +10,7 @@
 ### Γεώργιος Μαντέλλος  
 ### ΑΜ: Π2016149  
 ### Application: https://geocfu.github.io/corfu-map/  
+### APK: https://drive.google.com/open?id=1U4geGDwSXdZUYkfS1jVggOPJii5WcCGl  
 ### Repository: https://github.com/geocfu/corfu-map  
 
 ## Σύνοψη  
