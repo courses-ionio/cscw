@@ -84,7 +84,7 @@ Map screenshot
 &nbsp;&nbsp;&nbsp;&nbsp;Σαν εργασία, μπορώ να πω με σιγουριά, πως είναι η πιο δύσκολη που έχω αντιμετωπίσει ως τώρα, εντός ακαδημαϊκού περιβάλλοντος. Αποτελεί ένα εξαιρετικό έναυσμα προκειμένου να ασχοληθεί κανείς με Javascript, Google Maps Web API, την βάση δεδομένων firebase και την δημιουργία android εφαρμογών.
 
 ## Σελίδα Τελικής Αναφοράς  
-TODO
+### https://geocfu.github.io/cscw-report/
 
 ## Bonus Βαθμός  
 ### Peers on Map, Email: geocfupom@gmail.com
