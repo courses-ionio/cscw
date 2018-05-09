@@ -14,7 +14,7 @@
 ### Repository: https://github.com/geocfu/corfu-map  
 
 ## Σύνοψη  
-&nbsp;&nbsp;&nbsp;&nbsp;Το θέμα της εργασίας είναι η συνεργατική χαρτογράφηση δρόμων για πεζούς στην πόλη της Κέρκυρας. Από την εργασία αναμένεται να μάθουμε να χρησιμοποιούμε πολύ καλά την γλώσσα προγραμματισμού javascript και το API της Google για χάρτες. Με μια πρώτη ματία, η εργασία αναμένεται να είναι πολύ απαιτητική.
+&nbsp;&nbsp;&nbsp;&nbsp;Το θέμα της εργασίας είναι η συνεργατική χαρτογράφηση δρόμων για πεζούς στην πόλη της Κέρκυρας. Από την εργασία αναμένεται να μάθουμε να χρησιμοποιούμε πολύ καλά την γλώσσα προγραμματισμού javascript, το API της Google για χάρτες και την βάση δεδομένων Firebase. Με μια πρώτη ματία, η εργασία αναμένεται να είναι πολύ απαιτητική.
 
 ## Εισαγωγή  
 κειμενο
@@ -47,6 +47,10 @@
 - Firebase Reference (https://firebase.google.com/docs/reference/js/)  
 - Tutorialspoint (https://www.tutorialspoint.com/firebase/firebase_read_data.htm)  
 
+## Μέθοδος Ανάπτυξης  
+κεμεινο
+
+## Στιγμιότυπα οθόνης για την Web και την Android εφαρμογή  
 ### Web App
 Login screen screenshot
 ![screenshot](https://github.com/geocfu/cscw/blob/2016149/projects/2016149/corfu_map_login_screenshot.png)  
