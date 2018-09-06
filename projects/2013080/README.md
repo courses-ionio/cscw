@@ -28,6 +28,9 @@
 -   Η τελική παρουσίαση του χάρτη της πόλης της Κέρκυρας με τα βαθμολογημένα μονοπάτια είναι η ακόλουθη.
 ![alt text](https://github.com/dimitrile/corfu-map/blob/master/data/Screenshot_6.png)
 
+## Σύνδεσμος εφαρμογής
+- https://dimitrile.github.io/corfu-map/
+
 ## Σύνδεσμοι για την υλοποίηση της Εφαρμογής
 - [HTML, CSS, Javascript Tutorials](https://www.w3schools.com/)
 - [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/)
