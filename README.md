@@ -22,8 +22,8 @@
 
 * "Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
 * "ΣΥΝΕΡΓΑΤΙΚΗ ΤΕΧΝΟΛΟΓΙΑ", Επιμέλεια ΝΙΚΟΣ ΑΒΟΥΡΗΣ, ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΓΙΑΝΝΙΔΗΣ, ΒΑΣΙΛΗΣ ΚΟΜΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-232-1, 2009
-* [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
+* [Ο Προγραμματισμός της Διάδρασης](https://www.mibook.org), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
 
-**Βαθμολογία:** 50% [project](https://courses-ionio.github.io/projects/), 30% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)
+**Βαθμολογία:** 20% Τελική εξέταση* + 20% [4 ασκήσεις](https://github.com/courses-ionio/dokey) + 60% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md) + 10% bonus [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
