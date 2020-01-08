@@ -16,7 +16,11 @@
 
 **Προαπαιτούμενα:** Εισαγωγή στον προγραμματισμό, επικοινωνία ανθρώπου-υπολογιστή
 
-**Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
+**Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
+
+**Βαθμολογία:** 20% Τελική εξέταση* + 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey)* + 40% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md) + 10% bonus [Συμμετοχικό εκπαιδευτικό υλικό](https://github.com/courses-ionio/projects/blob/master/social/index.md)
+
+*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
@@ -25,7 +29,5 @@
 * "Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
 * "ΣΥΝΕΡΓΑΤΙΚΗ ΤΕΧΝΟΛΟΓΙΑ", Επιμέλεια ΝΙΚΟΣ ΑΒΟΥΡΗΣ, ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΓΙΑΝΝΙΔΗΣ, ΒΑΣΙΛΗΣ ΚΟΜΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-232-1, 2009
 * [Ο Προγραμματισμός της Διάδρασης](https://www.mibook.org), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
-
-**Βαθμολογία:** 20% Τελική εξέταση* + 20% [4 ασκήσεις](https://github.com/courses-ionio/dokey) + 60% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md) + 10% bonus [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
