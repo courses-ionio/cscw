@@ -5,7 +5,7 @@
 # 1ο Παραδοτέο
 
 # Ασκήσεις
-1. **Άσκηση 1** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+1. **Άσκηση 1** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
 Εκφώνηση: "list available networks and connect to one that requires web login".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/310397.svg)](https://asciinema.org/a/310397)
 **Περιγραφή:**
