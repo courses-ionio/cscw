@@ -17,14 +17,23 @@
 **Περιγραφή:**
 Σε αυτήν την εργάσια χρησιμοποιήθηκε το [browsh](https://github.com/browsh-org/browsh) text-based web browser το οποίο έχει σχεδόν όλα τα features που μπορεί να έχει ένας σύγχρονος και παραδοσιακός internet browser, τουλάχιστον όσο αφορά την παρουσίαση των ιστοσελιδών. Έγινε πλοήγηση στην ιστοσελίδα του browsh καθώς και στο github repository στο οποίο αναπύσεται.
 
-2. **Άσκηση 7** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
+3. **Άσκηση 7** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
 Εκφώνηση: "add, search, and visit a bookmark to your favorite site".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/311006.svg)](https://asciinema.org/a/311006)
 **Περιγραφή:**
 Σε αυτήν την άσκηση παρουσιάστηκαν οι τρόποι με τους οποίους γίνεται η πρόσθεση, η διαγραφή, η προβολή και η διαχείριση σελιδοδικτών στο εργαλείο [buku](https://github.com/jarun/buku). Επιπλέον έγινε προσθήκη σελιδοδικτών από το Mozila Firefox και έγινε πλοήγηση στην ιστοσελίδα duck duck go με το [w3m](http://w3m.sourceforge.net/) terminal text-based browser.
 
-3. **Άσκηση 4** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
+4. **Άσκηση 4** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
 Εκφώνηση: "configure git, edit and push your dot files".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/313344.svg)](https://asciinema.org/a/313344)
 **Περιγραφή:**
 Σε αυτήν την άσκηση χρησιμοποίηθηκε το [GNU stow](https://www.gnu.org/software/stow/) εργάλειο διαχείρισης symbolic links για την οργάνωση και διαχείριση των dotfiles του συστήματος μου. Στο asciinema φαίνεται ο τρόπος με τον οποίο γίνονται αλλαγές στο ήδη υπάρχον repository μου για τα dotfiles και πως αυτά αργότερα παίρνουν την θέση των dotfiles που έχω ήδη στο σύστημα. Τα dotfiles που παρουσιάζονται τα οποία χρησιμοποιουνται επίσημα από το σύστημα μου βρίσκονται [εδώ](https://github.com/jimDragon/.dotfiles).
+
+5. **Άσκηση 16** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
+Εκφώνηση: "configure a remote machine to do all the previous tasks and connect to it through a simple local machine".<br>
+**Link στο asciinema:** [![asciicast](https://asciinema.org/a/313622.svg)](https://asciinema.org/a/313622)
+**Περιγραφή:**
+Η συσκευή που επιλέχθηκε για να χρησιμοποιηθεί μέσω SSH είναι το android κινητό μου (Xiaomi Mi A2 Lite) το οποίο έχει εγκατεστημένο ένα bash terminal το [Termux](https://wiki.termux.com/wiki/Main_Page). Μέσω αυτού του terminal εγκαταστάθηκε στην android συσκευή το openssh, το git και το [GNU stow](https://www.gnu.org/software/stow/) με τα οποία εργαλεία έγινε:
+- Σύνδεση στο κινητό μέσω SSH
+- Εισαγωγή των [dotfiles](https://github.com/jimDragon/.dotfiles) μου από την προηγούμενη άσκηση
+- Εφαρμογή + edit του .bashrc στην android συσκευή
