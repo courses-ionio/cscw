@@ -2,7 +2,14 @@
 **Ονοματεπώνυμο: Δημήτρης Πραματευτάκης**<br>
 **Αριθμός Μητρώου: Π2018149**<br>
 **Github λογαριασμός: https://github.com/jimDragon**
-# 1ο Παραδοτέο (Ενδιάμεση αναφοράG)
+# 1ο Παραδοτέο (Ενδιάμεση αναφορά)
+## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
+| Προσωπικό αποθετήριο                                                                       | Συνεισφορά                                                       | Παρουσίαση                                                                        |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/23)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/)           |
+| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/85)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/)                |
+| [jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio/tree/projects-layout) | [Pull request](https://github.com/ioniodi/minimal-ionio/pull/15) | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/2017-08-10-big/) |
+
 
 ## Ασκήσεις
 1. **Άσκηση 1** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
