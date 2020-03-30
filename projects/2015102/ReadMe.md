@@ -47,20 +47,25 @@
  
 ## Συμμετοχικό Υλίκο:
  
-### 1η Εικόνα:
- 
- Image: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak.svg.png
- 
- Thumbnail: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak_tn(thumpnail).jpg
- 
- MD: https://github.com/p15vlio/gr/blob/master/_gallery/Dvorak_keyboard.md
- 
-### 2η Εικόνα:
- 
- Image: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse.jpg
- 
- Thumbnail: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse(thumpnail).jpg
- 
- MD: https://github.com/p15vlio/gr/blob/master/_gallery/Arc_mouse.md
- 
+Twitter posts:
+
+1st Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243997806332952576
+
+2nd Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243998502016946178
+
+3rd Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243998872520790016
+
+4th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243999087353044993
+
+5th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243999439062216704
+
+6th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1243999779161595904
+
+7th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1244000419728240640
+
+8th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1244000604785123329
+
+9th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1244000839745916928
+
+10th Post:https://twitter.com/62ksNOsrjSz5vS5/status/1244001092221927425
  
