@@ -2,7 +2,7 @@
 **Ονοματεπώνυμο: Δημήτρης Πραματευτάκης**<br>
 **Αριθμός Μητρώου: Π2018149**<br>
 **Github λογαριασμός: https://github.com/jimDragon**
-# 1ο Παραδοτέο
+# 1ο Παραδοτέο (Ενδιάμεση αναφορα)
 
 ## Ασκήσεις
 1. **Άσκηση 1** από το [dokey](https://github.com/courses-ionio/dokey#cscw) repository<br>
