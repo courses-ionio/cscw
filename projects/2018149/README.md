@@ -1,18 +1,17 @@
 # Μάθημα: Κινητά και κοινωνικά μέσα
-**Ονοματεπώνυμο: Δημήτρης Πραματευτάκης**<br>
-**Αριθμός Μητρώου: Π2018149**<br>
-**Github λογαριασμός: https://github.com/jimDragon**
+
+**Ονοματεπώνυμο: Δημήτρης Πραματευτάκης**
+
+**Αριθμός Μητρώου: Π2018149**
+
+**Link αποθετηρίων μου: [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)] [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]**
 # 1ο Παραδοτέο (Ενδιάμεση αναφορά)
 ## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
-**Checklist:**
-- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
-- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
-- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/22)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
-
-
-Link αποθετηρίων μου:
-- [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)]
-- [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]
+| Προσωπικό αποθετήριο                                                                       | Συνεισφορά                                                       | Παρουσίαση                                                                        |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/23)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/)           |
+| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/85)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/)                |
+| [jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio/tree/projects-layout) | [Pull request](https://github.com/ioniodi/minimal-ionio/pull/15) | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/2017-08-10-big/) |
 
 
 
@@ -49,3 +48,36 @@ Link αποθετηρίων μου:
 - Σύνδεση στο κινητό μέσω SSH
 - Εισαγωγή των [dotfiles](https://github.com/jimDragon/.dotfiles) μου από την προηγούμενη άσκηση
 - Εφαρμογή + edit του .bashrc στην android συσκευή
+
+
+# 2ο Παραδοτέο (Τελική αναφορά)
+## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
+**Τελική λίστα αλλαγών:**
+- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
+- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
+- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/22)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
+
+
+Link αποθετηρίων μου:
+- [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)]
+- [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]
+
+<hr>
+
+### Σύνοψη
+Αυτή είναι η εργασία μου για το μάθημα “Κινητά και κοινωνικά μέσα”. Αυτή η εργασία αποτελείται από δύο σκέλη. Το πρώτο σκέλος περιλαμβάνει την εδνιάμεση αναφορά στην οποία παρουσιάζονται οι 5 ασκήσεις που επιλέχθηκαν από το αποθετήριο [dokey](https://github.com/courses-ionio/dokey) ενώ το δεύτερο σκέλος περιλαμβάνει την τελική λίστα με τις αλλαγές που έγιναν στα κεντρικά αποθετήρια της ιστοσελίδας της εργασίας [ioniodi/site-gr](https://github.com/ioniodi/site-gr) και [ioniodi/minimal-ionio](https://github.com/ioniodi/minimal-ionio) καθώς και το κείμενο της τελικής αναφοράς.
+
+### Εισαγωγή
+
+
+### Ανάλυση σχετικών έργων και εργαλείων
+
+
+### Μέθοδος και τεχνικές ανάπτυξης
+
+
+### Σύνδεσμοι ασκήσεων και παραδοτέων
+
+
+### Συμπεράσματα
+
