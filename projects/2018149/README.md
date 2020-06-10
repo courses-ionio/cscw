@@ -4,7 +4,7 @@
 
 **Αριθμός Μητρώου: Π2018149**
 
-**Link αποθετηρίων μου: [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)] [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]**
+**Link αποθετηρίων μου: [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)] [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)] [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο**
 # 1ο Παραδοτέο (Ενδιάμεση αναφορά)
 ## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
 | Προσωπικό αποθετήριο                                                                       | Συνεισφορά                                                       | Παρουσίαση                                                                        |
@@ -55,10 +55,11 @@
 **Τελική λίστα αλλαγών:**
 - [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
 - [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
-- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/22)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
-
+- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
+- [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow [[wiki](https://github.com/ioniodi/site-gr/wiki/Workflow)] | [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)]
 
 Link αποθετηρίων μου:
+- [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο
 - [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)]
 - [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]
 
@@ -68,7 +69,7 @@ Link αποθετηρίων μου:
 Αυτή είναι η εργασία μου για το μάθημα “Κινητά και κοινωνικά μέσα”. Αυτή η εργασία αποτελείται από δύο σκέλη. Το πρώτο σκέλος περιλαμβάνει την εδνιάμεση αναφορά στην οποία παρουσιάζονται οι 5 ασκήσεις που επιλέχθηκαν από το αποθετήριο [dokey](https://github.com/courses-ionio/dokey) ενώ το δεύτερο σκέλος περιλαμβάνει την τελική λίστα με τις αλλαγές που έγιναν στα κεντρικά αποθετήρια της ιστοσελίδας της εργασίας [ioniodi/site-gr](https://github.com/ioniodi/site-gr) και [ioniodi/minimal-ionio](https://github.com/ioniodi/minimal-ionio) καθώς και το κείμενο της τελικής αναφοράς.
 
 ### Εισαγωγή
-
+Κεντρικό μέρος του μαθήματος αλλά και της  εργασίας αποτελούσε η [συνεργατική κατασκευή της ανεπίσημης ιστοσελίδας του πανεπιστημίου](https://github.com/ioniodi/site-gr/) η οποία προβλέπει την απόκτηση εμπειρίας στο github ως συνεργατική πλατφορμα καθώς και την εκμάθηση τρόπων κατάλληλης διαχείρησης, αξιολόγησης και ενσωμάτωσης αλλαγών (pull requests) των συναδέλφων. Κομμάτι της δικής μου συνεισφοράς στην καταστκευή της ιστοσελίδας ήταν η ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών", η υλοποίηση Layout και η βελτίωση της yaml δομής δεδομένων που ακολουθούν τα ερευνητικά προγράμματα και η αναβάθμιση του minimal-ionio στην τελευταία έκδοση του minimal-mistakes. Επιπλέον έγινε η συγγραφή Wiki documentation για κάθε απαραίτητο κομμάτι της συνεισφοράς μου το οποίο αξιολογήθηκε και εμπλουτίστηκε από ιδέες σχετικών συνεργατών. Παράλληλα με αυτό, άλλο ένα ζητούμενο της εργασίας ήταν η εντριβή με επιπλέον εργαλεία command line συμβατά με το linux λειτουργικό σύστημα όπως ακριβώς έγινε και στο προηγούμενο μάθημα [Human-Computer Interactions](https://github.com/courses-ionio/hci).
 
 ### Ανάλυση σχετικών έργων και εργαλείων
 
