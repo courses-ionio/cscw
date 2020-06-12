@@ -147,7 +147,7 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
      - [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)] | [[Wiki/Updating minimal-ionio](https://github.com/ioniodi/site-gr/wiki/Updating-minimal-ionio)]
 - [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow
      - [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)] | [[Wiki/Workflow/Αλλαγή και στα 2 αποθετήρια](https://github.com/ioniodi/site-gr/wiki/Workflow#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%83%CF%84%CE%B1-%CE%B4%CF%8D%CE%BF-%CE%B1%CF%80%CE%BF%CE%B8%CE%B5%CF%84%CE%AE%CF%81%CE%B9%CE%B1)]
-  - [x] Συνολικό Wiki για το workflow [[Wiki/Workflow](https://github.com/ioniodi/site-gr/wiki/Workflow)]
+- [x] Συνολικό Wiki για το workflow [[Wiki/Workflow](https://github.com/ioniodi/site-gr/wiki/Workflow)]
 
 #### Link προσωπικών αποθετηρίων
 - [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο
