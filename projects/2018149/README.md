@@ -128,8 +128,17 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
 - [PR/site-gr](https://github.com/ioniodi/site-gr/pull/23/files). 
 
 #### Layout και βελτίωση της yaml δομής δεδομένων που ακολουθούν τα ερευνητικά προγράμματα
-Το νέο layout `projects` που δημιουργήθηκε είναι βασισμένο σε κώδικα από άλλα layouts/includes όπως το [author-pages](https://github.com/jimDragon/minimal-ionio/blob/projects-layout/_includes/author-pages.html) που βρίσκονται ήδη στο θέμα. 
-Όσο αφορά την βελτίωση του yml ως δομή δεδομένων στην πραγματικότητα διατηρήθηκε το yml μέρος (front matter) στα projects αλλά πλέον αξιοποιούντε όλες οι πληροφορίες που υπάρχουν σε αυτό, κάτι που προηγουμένως δεν συνέβαινε ή υπήρχε επανάληψη πληοφορίας. Ακόμη, η παρουσίαση των ερευνητικών έργων ως ανακοινώσεις είναι βασισμένη στον κώδικα του παραδείγματος στο [jekyll documentation](https://jekyllrb.com/docs/posts/#the-posts-folder) καθώς και στο [posts-by-year](https://github.com/jimDragon/minimal-ionio/blob/master/_includes/posts-by-year.html) include του θέματος.
+Το νέο layout `projects` που δημιουργήθηκε είναι βασισμένο σε κώδικα από άλλα layouts/includes όπως το [author-pages](https://github.com/jimDragon/minimal-ionio/blob/projects-layout/_includes/author-pages.html) που βρίσκονται ήδη στο θέμα.
+Όσο αφορά την βελτίωση του yml ως δομή δεδομένων στην πραγματικότητα διατηρήθηκε το yml μέρος (front matter) στα projects αλλά πλέον αξιοποιούντε όλες οι πληροφορίες που υπάρχουν σε αυτό, κάτι που προηγουμένως δεν συνέβαινε ή υπήρχε επανάληψη πληοφορίας. 
+
+![projects layout](<project.jpg>)
+*Σύγκριση παλιού και καινούριου layout*
+
+Ακόμη, η παρουσίαση των ερευνητικών έργων ως ανακοινώσεις είναι βασισμένη στον κώδικα του παραδείγματος στο [jekyll documentation](https://jekyllrb.com/docs/posts/#the-posts-folder) καθώς και στο [posts-by-year](https://github.com/jimDragon/minimal-ionio/blob/master/_includes/posts-by-year.html) include του θέματος.
+
+![projects presentation](<projects.jpg>)
+*Σύγκριση παλιού και καινούριου projects page*
+
 Τέλος όλες οι αλλαγές και προσθήκες που έχουν γίνει υλοποιούν υπάρχουσες CSS κλάσεις για το στυλ με αποτέλεσμα να είναι ευκολότερη η συντήρηση τους σε σχέση με τις inline css προσθήκες. Όλες οι αλλαγές φαίνονται καλύτερα στα παρακάτω pull request:
  - [PR/site-gr](https://github.com/ioniodi/site-gr/pull/85/files)
  - [PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15/files)
@@ -138,6 +147,7 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
 Υπήρχαν διάφοροι τρόποι με τους οποίους μπορούσε να γίνει η αναβάθμιση του θέματος. Θεώρησα όμως οτι η πιο κομψή λύση ήταν η χρήση του git καθώς με αυτόν τον τρόπο θα καταγραφόντουσαν ακριβώς όχι μόνο ποια αρχεία άλλαξαν, αλλά και οι αλλαγές που έχουν συμβεί στο κάθε ένα ξεχωριστά και ανά commit. Έπειτα από μια γρήγορη ανάγνωση της περιγραφής του τρόπου αναβάθμισης με git στο επίσημο site του [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/docs/upgrading/#use-git) άρχισε η διαδικασία επίλυσης των merge conflicts. Σε αυτό το σημείο είναι που το vscode, που αναφέρθηκε στην παράγραφο με τα εργαλεία, διευκολύνει την κατάσταση. Το vscode επιτρέπει την οπτικοποίηση των merge conflicts σε οποιοδήποτε σημείο του αρχείου ενώ ταυτόχρονα δίνει την δυνατότητα να απορυφθούν ή να αλλαχθούν μαζικά όσα αρχεία επιλεχθούν. 
 
 ![Vscode merge conflict visualization](<merge.jpg>)
+*Οπτικοποίηση merge conflict*
 
 Μετά από τρεις προσπάθειες επίλυσης των conflitcs εν τέλει το θέμα αναβαθμίστηκε στην τότε πιο πρόσφατη έκδοση του minimal mistakes (4.19.2). Παρακάτω φαίνονται τα αρχεία που άλλαξαν μαζί με το changelog του minimal mistakes:
 - [PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/33/files)
