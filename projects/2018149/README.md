@@ -150,7 +150,7 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
 - [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" 
     - [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
 - [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις 
-    - [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
+    - [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] | [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
 - [x] [Δύσκολο] Ενημέρωση του minimal-ionio 
      - [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)] | [[Wiki/Updating minimal-ionio](https://github.com/ioniodi/site-gr/wiki/Updating-minimal-ionio)]
 - [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow
