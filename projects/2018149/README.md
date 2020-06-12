@@ -49,6 +49,7 @@
 - Εισαγωγή των [dotfiles](https://github.com/jimDragon/.dotfiles) μου από την προηγούμενη άσκηση
 - Εφαρμογή + edit του .bashrc στην android συσκευή
 
+<hr>
 
 # 2ο Παραδοτέο (Τελική αναφορά)
 ## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
@@ -117,10 +118,13 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
                         | siteagr +<---------+ minimal ionio |
                         +---------+          +---------------+
 ```
-Οι συγκεκριμένες αλλαγές επεξηγούνται και στο [wiki της ιστοσελίδας](https://github.com/ioniodi/site-gr/wiki/Workflow) ενώ τα άρχεια που επιρεάζονται φαίνονται καλύτερα σε αυτό το [pull request](https://github.com/ioniodi/sitegr/pull/2).
+Οι συγκεκριμένες αλλαγές επεξηγούνται/φαίνονται και παρακάτω: 
+- [Wiki/Workflow](https://github.com/ioniodi/site-gr/wiki/Workflow)
+- [PR/sitegr](https://github.com/ioniodi/sitegr/pull/2).
 
 #### Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών"
-Αυτή η συνεισφορά ανήκει στην κατηγορία "εισαγωγή περιεχομένου" (data entry). Όπως προαναφέρθηκε, η ενημερωμένες πληροφορίες αντιγράφτηκαν από την [επίσημη ιστοσελίδα του πανεπιστημίου](di.ionio.gr) και εισήχθηκαν στο αρχείο `specific-information-security-issues.md` όπως φαίνεται και εδώ [PR/site-gr](https://github.com/ioniodi/site-gr/pull/23/files). 
+Αυτή η συνεισφορά ανήκει στην κατηγορία "εισαγωγή περιεχομένου" (data entry). Όπως προαναφέρθηκε, η ενημερωμένες πληροφορίες αντιγράφτηκαν από την [επίσημη ιστοσελίδα του πανεπιστημίου](di.ionio.gr) και εισήχθηκαν στο αρχείο `specific-information-security-issues.md` όπως φαίνεται και εδώ 
+- [PR/site-gr](https://github.com/ioniodi/site-gr/pull/23/files). 
 
 #### Layout και βελτίωση της yaml δομής δεδομένων που ακολουθούν τα ερευνητικά προγράμματα
 Το νέο layout `projects` που δημιουργήθηκε είναι βασισμένο σε κώδικα από άλλα layouts/includes όπως το [author-pages](https://github.com/jimDragon/minimal-ionio/blob/projects-layout/_includes/author-pages.html) που βρίσκονται ήδη στο θέμα. 
@@ -135,10 +139,15 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
 - [Changelog](https://github.com/mmistakes/minimal-mistakes/blob/master/CHANGELOG.md) (Η τρέχουσα έκδοση είναι 4.19.2)
 
  #### Τελική λίστα αλλαγών
-- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
-- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
-- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
-- [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow [[wiki](https://github.com/ioniodi/site-gr/wiki/Workflow)] | [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)]
+- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" 
+    - [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
+- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις 
+    - [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
+- [x] [Δύσκολο] Ενημέρωση του minimal-ionio 
+     - [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)] | [[Wiki/Updating minimal-ionio](https://github.com/ioniodi/site-gr/wiki/Updating-minimal-ionio)]
+- [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow
+     - [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)] | [[Wiki/Workflow/Αλλαγή και στα 2 αποθετήρια](https://github.com/ioniodi/site-gr/wiki/Workflow#%CE%91%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%83%CF%84%CE%B1-%CE%B4%CF%8D%CE%BF-%CE%B1%CF%80%CE%BF%CE%B8%CE%B5%CF%84%CE%AE%CF%81%CE%B9%CE%B1)]
+  - [x] Συνολικό Wiki για το workflow [[Wiki/Workflow](https://github.com/ioniodi/site-gr/wiki/Workflow)]
 
 #### Link προσωπικών αποθετηρίων
 - [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο
