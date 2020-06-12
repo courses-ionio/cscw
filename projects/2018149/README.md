@@ -52,18 +52,6 @@
 
 # 2ο Παραδοτέο (Τελική αναφορά)
 ## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
-**Τελική λίστα αλλαγών:**
-- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
-- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
-- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
-- [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow [[wiki](https://github.com/ioniodi/site-gr/wiki/Workflow)] | [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)]
-
-Link αποθετηρίων μου:
-- [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο
-- [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)]
-- [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]
-
-<hr>
 
 ### Σύνοψη
 Αυτή είναι η εργασία μου για το μάθημα “Κινητά και κοινωνικά μέσα”. Αυτή η εργασία αποτελείται από δύο σκέλη. Το πρώτο σκέλος περιλαμβάνει την εδνιάμεση αναφορά στην οποία παρουσιάζονται οι 5 ασκήσεις που επιλέχθηκαν από το αποθετήριο [dokey](https://github.com/courses-ionio/dokey) ενώ το δεύτερο σκέλος περιλαμβάνει την τελική λίστα με τις αλλαγές που έγιναν στα κεντρικά αποθετήρια της ιστοσελίδας της εργασίας [ioniodi/site-gr](https://github.com/ioniodi/site-gr) και [ioniodi/minimal-ionio](https://github.com/ioniodi/minimal-ionio) καθώς και το κείμενο της τελικής αναφοράς.
@@ -145,6 +133,22 @@ gem "minimal-ionio-jekyll", path: '../minimal-ionio'
 Υπήρχαν διάφοροι τρόποι με τους οποίους μπορούσε να γίνει η αναβάθμιση του θέματος. Θεώρησα όμως οτι η πιο κομψή λύση ήταν η χρήση του git καθώς με αυτόν τον τρόπο θα καταγραφόντουσαν ακριβώς όχι μόνο ποια αρχεία άλλαξαν, αλλά και οι αλλαγές που έχουν συμβεί στο κάθε ένα ξεχωριστά και ανά commit. Έπειτα από μια γρήγορη ανάγνωση της περιγραφής του τρόπου αναβάθμισης με git στο επίσημο site του [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/docs/upgrading/#use-git) άρχισε η διαδικασία επίλυσης των merge conflicts. Σε αυτό το σημείο είναι που το vscode, που αναφέρθηκε στην παράγραφο με τα εργαλεία, διευκολύνει την κατάσταση. Το vscode επιτρέπει την οπτικοποίηση των merge conflicts σε οποιοδήποτε σημείο του αρχείου ενώ ταυτόχρονα δίνει την δυνατότητα να απορυφθούν ή να αλλαχθούν μαζικά όσα αρχεία επιλεχθούν. Μετά από τρεις προσπάθειες επίλυσεις των conflitcs εν τέλει το θέμα αναβαθμίστηκε στην πιο πρόσφατη έκδοση του minimal mistakes. Παρακάτω φαίνονται τα αρχεία που άλλαξαν μαζί με το changelog του minimal mistakes:
 - [PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/33/files)
 - [Changelog](https://github.com/mmistakes/minimal-mistakes/blob/master/CHANGELOG.md) (Η τρέχουσα έκδοση είναι 4.19.2)
+
+
+### Συμπεράσματα
+τεστ τεστ τεστ
+ 
+ **Τελική λίστα αλλαγών:**
+- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
+- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                                                                     
+- [x] [Δύσκολο] Ενημέρωση του minimal-ionio [[Issue](https://github.com/ioniodi/site-gr/issues/91)] | [[PR/site-gr](https://github.com/ioniodi/minimal-ionio/pull/33)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com)]
+- [x] [Πολύ εύκολο] Πρόσθεση σχολίων του `_config` που αναγράφονται στο wiki του workflow [[wiki](https://github.com/ioniodi/site-gr/wiki/Workflow)] | [[PR/sitegr](https://github.com/ioniodi/sitegr/pull/2)]
+
+Link αποθετηρίων μου:
+- [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο
+- [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)]
+- [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)]
+
  
 # Πρόχρειρο
 ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών", η υλοποίηση layout και η βελτίωση της yaml δομής δεδομένων που ακολουθούν τα ερευνητικά προγράμματα και η αναβάθμιση του minimal-ionio στην τελευταία έκδοση του minimal-mistakes
