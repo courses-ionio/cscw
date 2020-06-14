@@ -7,11 +7,10 @@
 **Link αποθετηρίων μου: [[jimDragon/site-gr](https://github.com/jimDragon/site-gr)] [[jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio)] [[jimDragon/sitegr](https://github.com/jimDragon/sitegr)] ΝΕΟ αποθετήριο**
 # 1ο Παραδοτέο (Ενδιάμεση αναφορά)
 ## Εργασία ανάπτυξης: Συνεργατική κατασκευή ιστοσελίδας του τμήματος
-| Προσωπικό αποθετήριο                                                                       | Συνεισφορά                                                       | Παρουσίαση                                                                        |
-|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/23)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/)           |
-| [jimDragon/site-gr](https://github.com/jimDragon/site-gr/tree/gh-pages)                    | [Pull request](https://github.com/ioniodi/site-gr/pull/85)       | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/)                |
-| [jimDragon/minimal-ionio](https://github.com/jimDragon/minimal-ionio/tree/projects-layout) | [Pull request](https://github.com/ioniodi/minimal-ionio/pull/15) | [Live demo](https://nervous-franklin-0ffe98.netlify.com/projects/2017-08-10-big/) |
+- [x] [Πολύ εύκολο] Ενημέρωση του μαθήματος "Ειδικά Θέματα Ασφάλειας Πληροφοριών" 
+    - [[Issue](https://github.com/ioniodi/site-gr/issues/20)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/23)] | [[Demo](https://nervous-franklin-0ffe98.netlify.app/courses/specific-information-security-issues/)]
+- [x] [Εύκολο] Layout+yaml ερευνητικά προγράμματα ως ανακοινώσεις 
+    - [[Issue](https://github.com/ioniodi/site-gr/issues/59)] | [[PR/site-gr](https://github.com/ioniodi/site-gr/pull/85)] | [[PR/minimal-ionio](https://github.com/ioniodi/minimal-ionio/pull/15)] | [[Demo](https://nervous-franklin-0ffe98.netlify.com/projects/)]                           
 
 
 
