@@ -8,6 +8,7 @@
 
 ΑΜ: Π2015044
 
+
 Άσκηση 1: fetch information
 
 Το link της άσκησης είναι το εξής: https://asciinema.org/a/qEFFxECWgeNV2mzizLsocD06n
@@ -34,6 +35,8 @@
 
 
 Συμμετοχικό Υλικό:
+
+Α.
 
 Το μέσο κοινωνικής δικτύωσης που χρησιμοποιήθηκε είναι το twitter.
 
