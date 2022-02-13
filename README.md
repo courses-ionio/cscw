@@ -35,7 +35,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/dokey) + 10% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/help/social/)* + 80% [εργασία ανάπτυξης](https://courses-ionio.github.io/help/dev/)
+**Βαθμολογία:** 10% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/cli/) + 10% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/help/social/)* + 80% [εργασία ανάπτυξης](https://courses-ionio.github.io/help/dev/)
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Μανούσος Καμηλάκης](https://github.com/mkamgit/)
 
