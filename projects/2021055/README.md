@@ -8,7 +8,7 @@
 
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `Git Gud or Get Rekt` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/help/teaching/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | | |
 | 3 | Εναλλακτικό σύστημα | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
