@@ -76,11 +76,12 @@ dmouratidi:
  ```
 και πρόσθεσα στο `/assets/images/` την εικόνα [`dmouratidi.jpg`](https://github.com/nkanagno/sitegr/blob/master/assets/images/dmouratidi.jpg).
 Έπειτα, άλλαξα στα αρχεία [doukakis.md](https://github.com/ioniodi/all_collections/blob/ea9cfa267a6879165aabc645dd5ff5fd65344d81/_people/doukakis.md) και [emagos.md](https://github.com/ioniodi/all_collections/blob/ea9cfa267a6879165aabc645dd5ff5fd65344d81/_people/emagos.md), τα ranks από 7 σε 3 και 2 σε 1 αντιστοίχως και έγιναν έτσι [new doukakis.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/doukakis.md) και [new emagos.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/emagos.md). 
-Τέλος, πρόσθεσα τα παρακάτω αρχεία στον φάκελο `all_collections`:
+Τέλος, Πρόσθεσα τα παρακάτω αρχεία στον φάκελο `all_collections`:
 - [new doukakis.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/doukakis.md)
 - [new emagos.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/emagos.md)
 - [dmouratidi.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/dmouratidi.md)
-και διέγραψα τα παρακάτω αρχεία:
+
+Διέγραψα τα παρακάτω αρχεία:
  - [atsipis.md](https://github.com/ioniodi/all_collections/blob/ea9cfa267a6879165aabc645dd5ff5fd65344d81/_people/atsipis.md)
  - [voglis.md](https://github.com/ioniodi/all_collections/blob/ea9cfa267a6879165aabc645dd5ff5fd65344d81/_people/voglis.md)
 
