@@ -66,6 +66,7 @@ dmouratidi:
  avatar: "/assets/images/dmouratidi.jpg"
  ```
 και πρόσθεσα στο `/assets/images/` την εικόνα [`dmouratidi.jpg`](https://github.com/nkanagno/sitegr/blob/master/assets/images/dmouratidi.jpg).
+
 Τέλος, Πρόσθεσα τo παρακάτω αρχείo στον φάκελο `all_collections`:
 - [dmouratidi.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/dmouratidi.md)
 
