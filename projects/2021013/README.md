@@ -80,3 +80,12 @@ dmouratidi:
 - BrainFuckConsole74
 - atto 
 - Pix64
+### BrainFuckConsole74
+### atto
+### Pix64
+## Κατηγορίες και ταξινόμηση:
+FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `editor` | `code writing simulator`|
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+[atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
+[BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Όχι | Ναι | Ναι |
+[Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Όχι| Όχι|
