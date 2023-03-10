@@ -134,11 +134,11 @@ git push origin
 
  * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
   
-  #### Unreal Engine 3:
-   * link του άρθρου μου στο site μου για το `Unreal Engine 3`: <a href="https://nkanagno.netlify.app/gallery/multiuser-editing-in-Unreal">Unreal Engine 3</a>
+  #### Unreal multiuser editing:
+   * link του άρθρου μου στο site μου για το `Unreal multiuser editing`: <a href="https://nkanagno.netlify.app/gallery/multiuser-editing-in-Unreal">Unreal multiuser editing</a>
    * Το [`multiuser-editing-in-Unreal.md`](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md) σε .md αρχείο 
-   * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpg)
-   * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpg) resized σε 160x160 pixels 
+   * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpeg)
+   * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg) resized σε 160x160 pixels 
   #### Blender:
    * link του άρθρου μου στο site μου για το `Blender`: <a href="https://nkanagno.netlify.app/gallery/blender/">Blender</a>
    * To [`blender.md`](https://github.com/nkanagno/_gallery/blob/master/blender.md) σε .md αρχείο
