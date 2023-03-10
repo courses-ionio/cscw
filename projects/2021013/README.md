@@ -147,7 +147,8 @@ git push origin
    
 # Συμμετοχικό περιεχόμενο A2: 
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
-Στο συγκεκριμένο παραδοτέο για το θέμα `Blender mixer multiuser addon` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal multiuser editing` έβαλα ως κατηγορία των slides την <<[`Συστήματα Συνεργασίας πολλαπλών χρηστών`](https://nkanagno.netlify.app/slides/multiuser-sustems/) >> και ως κατηγορία στα timelines την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/timeline/game-development/)>> .
+
+Στο συγκεκριμένο παραδοτέο για το θέμα `Blender mixer multiuser addon` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/)>>, ενώ για το θέμα `Unreal multiuser editing` έβαλα ως κατηγορία των slides την <<[`Συστήματα Συνεργασίας πολλαπλών χρηστών`](https://nkanagno.netlify.app/slides/multiuser-sustems/)>> και ως κατηγορία στα timelines την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/timeline/game-development/)>> .
 
 # ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 
