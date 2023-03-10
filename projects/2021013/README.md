@@ -90,7 +90,10 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display | `game`
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
 [BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Όχι | Ναι | Ναι |
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Όχι| Όχι|
-# <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:</h1>
+
+
+# <h1 id="1A">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: a1+a2 </h1>
+# Συμμετοχικό περιεχόμενο A1:
 ## <h2 id="sub">Υπεχρεώσεις ως Admin:</h2>
 Αρχικά, ως admin έκανα `fork` το site από το pibook στην <a href="https://github.com/OMADA12">ομάδα μου</a>, μετά έφτιαξα τα submodules της αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/OMADA12/site/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
 ```
@@ -141,7 +144,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
    * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
    * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg) resized σε 160x160 pixels 
    
-# <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2: </h1>
+# Συμμετοχικό περιεχόμενο A2: 
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
 Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. 
