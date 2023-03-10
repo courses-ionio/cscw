@@ -121,25 +121,24 @@ git push origin
 
 Με λίγα λόγια, αναζητώντας πληροφορίες για τα παραπάνω θέματα, μου δώθηκε η ευκαιρία να μάθω λίγα παραπάνω πράγματα πάνω στο αντικείμενο που έχω σκοπό να ασχοληθώ στο μέλλον.
 
-## Καινούργια Θέματα: (που Συνδέονται με την <a href="#introduction">εισαγωγή μου</a>)
+## Θέματα: (που Συνδέονται με την <a href="#introduction">εισαγωγή μου</a>)
 ### 1. Σύντομη Περιγραφή: `Unreal multiuser editing`
-
-
-<br>
+![multiuser-editing-in-Unreal](https://user-images.githubusercontent.com/103074273/224388986-34e38581-fe04-43fb-add5-d9678282a7f8.jpg)<br>
 Το εργαλείο multiuser editing της Unreal προσφέρει σε πολλαπλούς χρήστες που βρίσκονται σε διαφορετικούς υπολογιστές, να μπορούν να συνεισφέρουν ταυτοχρόνως σε ένα συγκεκριμένο project ή παιχνίδι. Πιο συγκεκριμένα, το Multi-User Editing βασίζεται σε ένα μοντέλο client-server, όπου ένας μεμονωμένος διακομιστής φιλοξενεί οποιονδήποτε αριθμό περιόδων σύνδεσης. Κάθε περίοδος λειτουργίας είναι ένα ξεχωριστό virtual workspace όπου οποιοσδήσποτε χρήστης της unreal-editor και είναι συνδεδεμένος στο ίδιο δίκτυο έχει τη δυνατότητα να συνεισφέρει στο ίδιο project, σε ένα κοινόχρηστο περιβάλλον.
-### 2. Σύντομη Περιγραφή: `srs`<br>
-<br>
-![multiuser-editing-in-Unreal](https://user-images.githubusercontent.com/103074273/224387997-b6bc9fb4-7182-4ad2-bb35-6d773a3182cc.jpg)
+
+### 2. Σύντομη Περιγραφή: `Blender mixer multiuser addon`
+![blender-multiuser-addon](https://user-images.githubusercontent.com/103074273/224388396-e705f432-5e61-4aad-8d67-0d0c18b1727c.jpg)<br>
+Το mixer multiuser addon είναι ένα εργαλείο του blender που δίνει την ευκαιρία στους χρήστες να δουλέυουν συγχρονισμένα, στο ίδιο τρισδίαστατο περιβάλλον ή project. Πιο συγκεκριμένα, αυτό το εργαλείο μπορεί να φανεί χρήσιμο σε καθηγήτες δίνοντας τους, την δυνατότητα να διδάσκουν απευθείας σε 3D περιβάλλοντα αυξάνοντας με αυτόν τον τρόπο την επικοινώνια με τους μαθητές τους και βελτιώνοντας, πιο γενικώς, με αυτόν τον τρόπο την εκπαίδευση του συστήματος blender.
 
 ## Tα Links και οι φωτογραφίες του κάθε Καινούργιου θέματός μου σε <a href="https://github.com/nkanagno">προσωπικό </a> αποθετήριο:
 
  * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
   
   #### Unreal Engine 3:
-   * link του άρθρου μου στο site μου για το `Unreal Engine 3`: <a href="https://nkanagno.netlify.app/gallery/unreal-engine-3">Unreal Engine 3</a>
-   * Το [`unreal-engine-3.md`](https://github.com/nkanagno/_gallery/blob/master/unreal-engine-3.md) σε .md αρχείο 
-   * Η αρχική φωτογραφία του [`unreal-engine-3.jpg`](https://github.com/nkanagno/images/blob/master/unreal-engine-3.jpg)
-   * Η φωτογραφία του [`unreal-engine-3-thump.jpg`](https://github.com/nkanagno/images/blob/master/unreal-engine-3-thumb.jpg) resized σε 160x160 pixels 
+   * link του άρθρου μου στο site μου για το `Unreal Engine 3`: <a href="https://nkanagno.netlify.app/gallery/multiuser-editing-in-Unreal">Unreal Engine 3</a>
+   * Το [`multiuser-editing-in-Unreal.md`](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md) σε .md αρχείο 
+   * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpg)
+   * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpg) resized σε 160x160 pixels 
   #### Blender:
    * link του άρθρου μου στο site μου για το `Blender`: <a href="https://nkanagno.netlify.app/gallery/blender/">Blender</a>
    * To [`blender.md`](https://github.com/nkanagno/_gallery/blob/master/blender.md) σε .md αρχείο
