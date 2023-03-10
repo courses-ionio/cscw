@@ -40,8 +40,8 @@ GitHub organisation url: [Git Gud or Get Rekt](https://github.com/git-gud-or-get
 
     Πρόσθεση νέας καθηγήτριας [`Δέσποινα Μουρατίδη`](https://di.ionio.gr/gr/department/staff/841-mouratidi) στην ίδια υποκατηγορία `Ακαδημαϊκοί Υπότροφοι`.
 
- ## Η συνεισφορά μου:
-Αρχικά, έκανα `fork` το [sitegr από το ioniodi](https://github.com/ioniodi/sitegr) από το <a href="https://github.com/nkanagno"> github profile μου</a>, μετά έφτιαξα τo submodule του, αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/nkanagno/sitegr/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
+ ## Η συνεισφορά μου σε demo branch:
+Αρχικά, έκανα `fork` το [sitegr από το ioniodi](https://github.com/ioniodi/sitegr) από το <a href="https://github.com/nkanagno"> github profile μου</a>, μετά έφτιαξα νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) για τις αλλαγές στο netlify, έπειτα σε αυτό το [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) έφτιαξα τo submodule του, αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/nkanagno/sitegr/blob/master/.gitmodules) και εκτελόντας τις παρακάτω εντολές:
 ```
 git clone https://github.com/nkanagno/sitegr
 cd sitegr/
@@ -71,7 +71,7 @@ dmouratidi:
 - [dmouratidi.md](https://github.com/nkanagno/all_collections/blob/277f1a5c6a094d3ce665ea508c738dbee5c1d13a/_people/dmouratidi.md)
 
 ## Demo link και Pull request:
-Το Demo προσωπικό μου link στο [netlify sitegr](https://nkanagno-sitegr.netlify.app/) (πιο συγκεκριμένα, link στο netlify κατευθείαν στη κατηγορία [προσωπικό](https://nkanagno-sitegr.netlify.app/people/) που έγιναν οι αλλαγές) ως απόδειξη ότι όλα δουλεύουν κανονικά, τo [pull request που έκανα στο all_collections]() και το [pull request που έκανα στο sitegr]()
+Το Demo προσωπικό μου link στο [netlify sitegr](https://nkanagno-sitegr.netlify.app/) (πιο συγκεκριμένα, link στο netlify κατευθείαν στη κατηγορία [προσωπικό](https://nkanagno-sitegr.netlify.app/people/) που έγιναν οι αλλαγές) ως απόδειξη ότι όλα δουλεύουν κανονικά σε νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch), τo [pull request που έκανα στο all_collections](https://github.com/ioniodi/all_collections/pull/70) και το [pull request που έκανα στο sitegr](https://github.com/ioniodi/sitegr/pull/422) του [master branch με το αρχικό submodule του ioniodi](https://github.com/nkanagno/sitegr/tree/master).
 
 # <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό συστημα 1</h1>
 ## Επεξήγηση παραδοτέου:
