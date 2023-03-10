@@ -139,30 +139,33 @@ git push origin
    * Το [`multiuser-editing-in-Unreal.md`](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md) σε .md αρχείο 
    * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpeg)
    * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg) resized σε 160x160 pixels 
-  #### Blender:
-   * link του άρθρου μου στο site μου για το `Blender`: <a href="https://nkanagno.netlify.app/gallery/blender/">Blender</a>
-   * To [`blender.md`](https://github.com/nkanagno/_gallery/blob/master/blender.md) σε .md αρχείο
-   * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
-   * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg) resized σε 160x160 pixels 
+  #### Blender mixer multiuser addon:
+   * link του άρθρου μου στο site μου για το `Blender mixer multiuser addon`: <a href="https://nkanagno.netlify.app/gallery/blender-multiuser-addon/">Blender mixer multiuser addon
+</a>
+   * To [`blender-multiuser-addon.md`](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md) σε .md αρχείο
+   * Η αρχική φωτογραφία του [`blender-multiuser-addon.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
+   * Η φωτογραφία του [`blender-multiuser-addon-thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg) resized σε 160x160 pixels 
    
 # Συμμετοχικό περιεχόμενο A2: 
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
-Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
-<< Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. 
+Στο συγκεκριμένο παραδοτέο για το θέμα `Blender mixer multiuser addon` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal multiuser editing` έβαλα ως κατηγορία των slides την <<[`Συστήματα Συνεργασίας πολλαπλών χρηστών`](https://nkanagno.netlify.app/slides/multiuser-sustems/) >> και ως κατηγορία στα timelines την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/timeline/game-development/)>> .
 
-Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
-<< Συσκευές ψυχαγωγίας >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το 
-<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines).
+# ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 
-Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3` έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
-
-# ΑΝΑΝΕΩΜΕΝΕΣ ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
-
-## 1o MD File: `Unreal Engine`
+## 1o MD File: `Unreal multiuser editing`
 ### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
-[ `Unreal Engine 3` Στο github](https://github.com/nkanagno/_gallery/blob/master/unreal-engine-3.md) <br>
-[ `Unreal Engine 3` Στο netlify](https://nkanagno.netlify.app/gallery/unreal-engine-3/)
+[ `Unreal multiuser editing` Στο github](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md) <br>
+[ `Unreal multiuser editing` Στο netlify](https://nkanagno.netlify.app/gallery/multiuser-editing-in-Unreal/)
 | Πλατφόρμα | slides | timeline | 
 | --- | --- | --- | 
-| [Github account](https://github.com/nkanagno) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/nkanagno/site/blob/master/_slides/game-development.md) | [Προγραμματισμός χωρίς κώδικα](https://github.com/nkanagno/site/blob/master/_timeline/programming-without-coding.md) |
-| [netlify](https://nkanagno.netlify.app/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://nkanagno.netlify.app/slides/game-development/)| [Προγρμματισμός χωρίς κώδικα](https://nkanagno.netlify.app/timeline/programming-without-coding/) |
+| [Github account](https://github.com/nkanagno) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://github.com/nkanagno/site/blob/master/_slides/multiuser-sustems.md) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/nkanagno/site/blob/master/_timeline/game-development.md) |
+| [netlify](https://nkanagno.netlify.app/) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://nkanagno.netlify.app/slides/multiuser-sustems/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://nkanagno.netlify.app/timeline/game-development/) |
+
+## 2o MD File: `Blender mixer multiuser addon`
+### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
+[`Blender mixer multiuser addon` Στο github](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md) <br>
+[`Blender mixer multiuser addon` Στο netlify](https://nkanagno.netlify.app/gallery/blender-multiuser-addon/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github account](https://github.com/nkanagno) | [animation](https://github.com/nkanagno/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/nkanagno/site/blob/master/_timeline/3d-enviroments.md) |
+| [netlify](https://nkanagno.netlify.app/) | [animation](https://nkanagno.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://nkanagno.netlify.app/timeline/3d-enviroments/) |
