@@ -140,8 +140,7 @@ git push origin
    * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpeg)
    * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpeg`](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg) resized σε 160x160 pixels 
   #### Blender mixer multiuser addon:
-   * link του άρθρου μου στο site μου για το `Blender mixer multiuser addon`: <a href="https://nkanagno.netlify.app/gallery/blender-multiuser-addon/">Blender mixer multiuser addon
-</a>
+   * link του άρθρου μου στο site μου για το `Blender mixer multiuser addon`: <a href="https://nkanagno.netlify.app/gallery/blender-multiuser-addon/">Blender mixer multiuser addon </a>
    * To [`blender-multiuser-addon.md`](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md) σε .md αρχείο
    * Η αρχική φωτογραφία του [`blender-multiuser-addon.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
    * Η φωτογραφία του [`blender-multiuser-addon-thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg) resized σε 160x160 pixels 
