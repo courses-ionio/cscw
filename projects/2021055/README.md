@@ -26,8 +26,12 @@
 
 Σε αυτό το παραδοτέο, χρειάστηκε η συνεισφορά μας στην ανεπίσημη [ιστοσελίδα](https://epic-hamilton-da9ac8.netlify.app/) του ιονίου πανεπιστημίου με σκοπό, την διόρθωση των περιεχομένων της ιστοσελίδας.
 
-## Δήλωση θέματος - issue#415
+## Δήλωση θέματος - [issue#415](https://github.com/ioniodi/sitegr/issues/415)
 Αρχικά, έπρεπε να ανοίξω ένα issue στην σχετική κατηγορία του [sitegr](https://github.com/ioniodi/sitegr), με σκοπό την δήλωση της αλλαγής που επρόκειτο να πραγματοποιήσω. Στην συνέχεια, για την υλοποίηση του issue έπρεπε, ένας καθηγητής να δώσει `green light` στο issue που έχει ανοίξει.
+
+## Η συνεισφορά μου
+Στο κομμάτι της συνεισφοράς, επέλεξα να αφαιρέσω την καθηγήτρια Αγγελική Τσώχου από την κατηγορία Επίκουροι Καθηγητές και την προσθέτω στην κατηγορία Αναπληρωτές Καθηγητές. Πιο συγκεκριμένα, επέλεξα να κάνω `git clone` στον υπολογιστή μου το repository του sitegr. Στην συνέχεια, επέλεξα τον φάκελο all_collections και μέσα σε αυτόν τον φάκελο people. Μέσα σε αυτόν, επέλεξα το αρχέιο atsochou.md και άλλαξα την κατηγορία rank απο c(Επίκουροι Καθηγητές) σε b(Αναπληρωτές Καθηγητές).
+
 
 
 * [pull request](https://github.com/ioniodi/all_collections/pull/69)
@@ -35,7 +39,7 @@
 # ΠΑΡΑΔΟΤΕΟ 3 - ΕΝΑΛΛΑΚΤΙΚΟ ΣΥΣΤΗΜΑ
 Σε αυτό το παραδοτέο, απαιτείται η ενασχόληση μας με fantasy consoles, με σκοπό την προσθήκη δικών μας κριτηρίων για τα συστήματα αυτά. 
 
-## [BITMELO](https://bitmelo.com/)
+## [Bitmelo](https://bitmelo.com/)
 Το `Bitmelo`, είναι μία fantasy console, η οποία έχει αναπτυχθεί σε γλώσσα [Javascript](https://www.javascript.com/). Το site της κονσόλας παρέχει στον χρήστη ένα εύρος από εργαλεία για την ανάπτυξη παιχνιδιού πάνω σε αυτήν. Διαθέτει Code Editor, Sound Editor και Map Editor. Είναι ένα εύχρηστο περιβάλλον ανάπτυξης παιχνιδιών και παρέχει τον χρήστη ποικίλα εργαλεία.
 
 ## [MakeCode Arcade](https://arcade.makecode.com/#editor)
@@ -87,7 +91,6 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο αποθετήριο μου: [Cisco-Webex-Thumb.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex-Thumb.jpg)
 
 ### Edmodo:
-
 
 * Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό μου αποθετήριο: [Edmodo.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Edmodo.md)
 * Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό μου site: [Edmodo](https://axileaszervos.netlify.app/gallery/edmodo/)
