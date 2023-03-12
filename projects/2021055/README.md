@@ -56,5 +56,20 @@ Console | Sound Editor | Map Editor | Text editor
 [Fancade](https://www.fancade.com/) | NO | YES | NO
 
 # ΠΑΡΑΔΟΤΕΟ 4 - ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 1A
+Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με σκοπό τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me).
+
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app/) και έφτιαξα 2 εικόνες, μία για το [Cisco Webex](https://www.cisco.com/c/en/us/products/conferencing/webex.html) και μία για το [Edmodo](https://seminars.etwinning.gr/mod/page/view.php?id=33221).
+
+## Σύντομη παρουσιάση του Cisco Webex
+
+## Σύντομη παρουσίαση του Edmodo
+
+## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο
+
+## Τα Links και οι φωτογραφίες από το ομαδικό μου αποθετήριο
+
+## Timelines
+
+## Slides
 
 
