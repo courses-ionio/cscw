@@ -85,13 +85,13 @@ dmouratidi:
 ### atto
 ### Pix64
 ## Κατηγορίες και ταξινόμηση:
-FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `editor` | `code writing simulator`|
+FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `program editor with built in tools` | `code writing simulator`|
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)| Όχι | Ναι | Όχι |
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Όχι| Όχι|
 
-# <h1 id="1A">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
+# <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
 ## Συμμετοχικό περιεχόμενο A1:
 ### <h2 id="sub">Υπεχρεώσεις ως Admin:</h2>
 Αρχικά, ως admin έκανα `fork` το site από το pibook στην <a href="https://github.com/OMADA12">ομάδα μου</a>, μετά έφτιαξα τα submodules της αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/OMADA12/site/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
