@@ -80,7 +80,7 @@ dmouratidi:
 - BrainFuckConsole74
 - atto 
 - Pix64
-### BrainFuckConsole74
+### BASIC8
 Η φανταστική κονσόλα BrainFuckConsole είναι ένας editor που αρχικά σχεδιάστηκε με τέτοιο τρόπο έτσι ώστε να είναι σχεδόν αδύνατον να προγραμματίσει κάποιος πάνω σε αυτή. Πιο συγκεκριμένα, χρησιμοποιήσεις ως κώδικα χαρακτήρες όπως `BF-CODE: + - < > [ ] , .` και  `CONSOLE: ! ; # ( ) ?` ώστε να σχεδιάσει είτε ηχητικά εφέ, είτε μουσική καθώς επίσης γράφει και κείμενο ταυτοχρόνως. Η αρχική του ιδέα, βασικά ήταν η δημιουργία μίας κάπως κατανοητής κονσόλας/editor  
 ### atto
 ### Pix64
@@ -88,7 +88,7 @@ dmouratidi:
 FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `editor` | `code writing simulator`|
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
-[BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Όχι | Ναι | Ναι |
+[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)| Όχι | Ναι | Όχι |
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Όχι| Όχι|
 
 # <h1 id="1A">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
