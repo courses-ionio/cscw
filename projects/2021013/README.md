@@ -203,5 +203,8 @@ git push origin
 [`Blender mixer multiuser addon` Στο netlify](https://omada11.netlify.app/gallery/blender-multiuser-addon/)
 | Πλατφόρμα | slides | timeline | 
 | --- | --- | --- | 
-| [Github organization](https://github.com/OMADA12) | [animation](https://github.com/OMADA11/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/OMADA11/site/blob/master/_timeline/3d-enviroments.md) |
+| [Github organization](https://github.com/OMADA11) | [animation](https://github.com/OMADA11/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/OMADA11/site/blob/master/_timeline/3d-enviroments.md) |
 | [netlify](https://omada11.netlify.app/) | [animation](https://omada11.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://omada11.netlify.app/timeline/3d-enviroments/) |
+
+### <h3 id="pull5">PULL REQUEST:</h3>
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/1"> "add my slides and timeline categories"</a>
