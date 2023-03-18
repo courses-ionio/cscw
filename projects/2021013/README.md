@@ -160,6 +160,11 @@ git push origin
    * Η αρχική φωτογραφία του [`blender-multiuser-addon.jpg`](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon.jpg)
    * Η φωτογραφία του [`blender-multiuser-addon-thump.jpg`](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon-thumb.jpg) resized σε 160x160 pixels 
 
+### <h3 id="pull3">PULL-REQUESTS:</h3>
+1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA11/_gallery`](https://github.com/OMADA11/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA11/_gallery/pull/1"> "upload md files"</a>
+2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA11/images`](https://github.com/OMADA11/images) του organization της ομάδας μας:<a href="https://github.com/OMADA11/images/pull/1"> "upload jpg files"</a>
+
+
 ## Συμμετοχικό περιεχόμενο A2: 
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
 
