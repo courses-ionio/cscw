@@ -81,14 +81,17 @@ dmouratidi:
 - atto 
 - Pix64
 ### BASIC8
-Η φανταστική κονσόλα BASIC8 είναι ένας editor ο οποίος σχεδιάστηκε για την ανάπτυξη βιντεοπαιχνιδιών καθώς και την δημιούργια προγραμμάτων. Πιο συγκεκριμένα, δίνει την ευκαιρία σε οποιονδήποτε χρήστη της . Η αρχική του ιδέα, βασικά ήταν η δημιουργία μίας κάπως κατανοητής κονσόλας/editor  
+Η φανταστική κονσόλα BASIC8 είναι ένας editor ο οποίος σχεδιάστηκε για την ανάπτυξη βιντεοπαιχνιδιών καθώς και την δημιούργια προγραμμάτων. Πιο συγκεκριμένα, δίνει την ευκαιρία σε οποιονδήποτε χρήστη της να μπορεί να δημιουργεί παιχνίδια και εφαρμογές μέσω ήδη εξασφαλισμένων εργαλειών επεξεργεσίας και ανάπτυξης που προσφέρει η φανταστική κονσόλα BASIC8, όπως sprites, tiles, maps, quantized κλπ. Ο κύριος στόχος αυτής της κονσόλας είναι να επαναφέρει την αίσθηση της χαράς που πρόσφεραν οι retro/vintage υπολογιστές καθώς τα παιχνίδια αυτού του είδους. 
+#### Επεξήγηση κατηγοριών:
+Αρχικά αποφάσισα να μην προσθέσω το BASIC8 στην κατηγορία `game` διότι έιναι ένα πρόγραμμα στο οποίο το χρησιμοποιεί κυρίως κάποιος προκειμένου να δημιουργήσει παιχνίδια και χωρίς να έχει πάντα ως κύριο κίνητρο και σκοπό την ψυχαγωγία του. Ωστόσο όμως, το πρόσθεσα στην κατηγορία `program editor with built in tools` δίοτι έιναι μία φαντστική κονσόλα η οποία λειτουργεί ως ένας editor βιντεοπαιχνιδιών πρσφέροντας ήδη έτοιμα εξασφαλισμένα εργαλεία επεξεργασίας, όπως προανέφερα, δηλαδή διάφορα sprites, tiles, maps, quantized κλπ. Τέλος, το πρόσθεσα και στην κατηγορία `code writing simulator` διότι απαιτείται από τον χρήστη να γράψει κώδικα σε γλώσσα προγραμματισμού BASIC προκείμενου να προγραμματίσει έτσι το παιχνίδι που δημιουργεί ώστε να λειτουργήσει σωστά. 
 ### atto
+
 ### Pix64
 ## Κατηγορίες και ταξινόμηση:
 FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `program editor with built in tools` | `code writing simulator`|
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
-[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)| Όχι | Ναι | Όχι |
+[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)| Όχι | Ναι | Ναι |
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Όχι| Όχι|
 
 # <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
@@ -107,7 +110,7 @@ git push origin
 και έφτιαξα και το netlify site της ομάδας [`οmada11`](https://omada11.netlify.app/) αλλάζοντας τον φάκελο [`_config.yml`](https://github.com/OMADA11/site/blob/master/_config.yml) και τέλος μετά από συννενόηση με την ομάδα μου φτιάχτηκαν οι κανόνες και οι οδηγίες συνεισφοράς για την ομάδα μου [`contributing.md`](https://github.com/OMADA11/site/blob/master/.github/CONTRIBUTING.md).
 ## Ατομικές υποχρεώσεις:
 ### Submodules+netlify:
- - Fork από OMADA12: [`nkanagno site (github)`](https://github.com/nkanagno/site)
+ - Fork από OMADA11: [`nkanagno site (github)`](https://github.com/nkanagno/site)
  - Δημιουργία submodules: [`.gitmodules`](https://github.com/nkanagno/site/blob/master/.gitmodules)
  - Δημιουργία netlify site: [nkanagno site (netlify)](http://nkanagno.netlify.app/)
  - Αλλαγή _config.yml: [`_config.yml nkanagno`](https://github.com/nkanagno/site/blob/master/_config.yml)
