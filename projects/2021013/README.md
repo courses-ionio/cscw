@@ -4,14 +4,14 @@
 | --- | --- | --- | --- | --- | --- |
 | [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
 
-Όνομα ομάδας: Git Gud or Get Rekt <br>
-GitHub organisation url: [Git Gud or Get Rekt](https://github.com/git-gud-or-get-rekt)
+Όνομα ομάδας: OMADA11 <br>
+GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 
 # Κινητά και κοινωνικά μέσα
 
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `Git Gud or Get Rekt` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
+| 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
 | 3 | Εναλλακτικό σύστημα 1 | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
@@ -94,9 +94,9 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display | `game`
 # <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
 ## Συμμετοχικό περιεχόμενο A1:
 ### <h2 id="sub">Υπεχρεώσεις ως Admin:</h2>
-Αρχικά, ως admin έκανα `fork` το site από το pibook στην <a href="https://github.com/OMADA12">ομάδα μου</a>, μετά έφτιαξα τα submodules της αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/OMADA12/site/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
+Αρχικά, ως admin έκανα `fork` το site από το pibook στην <a href="https://github.com/OMADA11">ομάδα μου</a>, μετά έφτιαξα τα submodules της αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/OMADA11/site/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
 ```
-git clone https://github.com/OMADA12/site
+git clone https://github.com/OMADA11/site
 cd site/
 git submodule update --remote --init
 git submodule update --remote --merge
@@ -104,7 +104,7 @@ git add .
 git commit -m "update submodules"
 git push origin
 ```
-και έφτιαξα και το netlify site της ομάδας [`οmada12`](https://omada12.netlify.app/) αλλάζοντας τον φάκελο [`_config.yml`](https://github.com/OMADA12/site/blob/master/_config.yml) και τέλος μετά από συννενόηση με την ομάδα μου φτιάχτηκαν οι κανόνες και οι οδηγίες συνεισφοράς για την ομάδα μου [`contributing.md`](https://github.com/OMADA12/site/blob/master/.github/CONTRIBUTING.md).
+και έφτιαξα και το netlify site της ομάδας [`οmada11`](https://omada11.netlify.app/) αλλάζοντας τον φάκελο [`_config.yml`](https://github.com/OMADA11/site/blob/master/_config.yml) και τέλος μετά από συννενόηση με την ομάδα μου φτιάχτηκαν οι κανόνες και οι οδηγίες συνεισφοράς για την ομάδα μου [`contributing.md`](https://github.com/OMADA11/site/blob/master/.github/CONTRIBUTING.md).
 ## Ατομικές υποχρεώσεις:
 ### Submodules+netlify:
  - Fork από OMADA12: [`nkanagno site (github)`](https://github.com/nkanagno/site)
@@ -144,7 +144,22 @@ git push origin
    * To [`blender-multiuser-addon.md`](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md) σε .md αρχείο
    * Η αρχική φωτογραφία του [`blender-multiuser-addon.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
    * Η φωτογραφία του [`blender-multiuser-addon-thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg) resized σε 160x160 pixels 
-   
+
+# Tα Links και οι φωτογραφίες του κάθε θέματος μου στο αποθετήριο της <a href="https://github.com/OMADA11">ομάδας</a> μου:
+
+  * Το site του organization μου στο netlify: <a href="https://omada11.netlify.app/">OMADA11</a>
+  
+  #### Unreal multiuser editing:
+   * link του άρθρου μου στο site του organization μου για το `Unreal multiuser editing`: <a href="https://omada11.netlify.app/gallery/multiuser-editing-in-Unreal">Unreal multiuser editing</a>
+   * Το [`multiuser-editing-in-Unreal.md`](https://github.com/OMADA11/_gallery/blob/master/multiuser-editing-in-Unreal.md) σε .md αρχείο 
+   * Η αρχική φωτογραφία του [`multiuser-editing-in-Unreal.jpeg`](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal.jpeg)
+   * Η φωτογραφία του [`multiuser-editing-in-Unreal-thump.jpeg`](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg) resized σε 160x160 pixels  
+#### Blender mixer multiuser addon:
+   * link του άρθρου μου στο site του organization μου για το `Blender mixer multiuser addon`: <a href="https://omada11.netlify.app/gallery/blender-multiuser-addon/">Blender mixer multiuser addon </a>
+   * To [`blender-multiuser-addon.md`](https://github.com/OMADA11/_gallery/blob/master/blender-multiuser-addon.md) σε .md αρχείο
+   * Η αρχική φωτογραφία του [`blender-multiuser-addon.jpg`](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon.jpg)
+   * Η φωτογραφία του [`blender-multiuser-addon-thump.jpg`](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon-thumb.jpg) resized σε 160x160 pixels 
+
 ## Συμμετοχικό περιεχόμενο A2: 
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
 
@@ -161,6 +176,14 @@ git push origin
 | [Github account](https://github.com/nkanagno) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://github.com/nkanagno/site/blob/master/_slides/multiuser-sustems.md) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/nkanagno/site/blob/master/_timeline/game-development.md) |
 | [netlify](https://nkanagno.netlify.app/) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://nkanagno.netlify.app/slides/multiuser-sustems/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://nkanagno.netlify.app/timeline/game-development/) |
 
+### [organization:](https://github.com/OMADA11)
+[ `Unreal multiuser editing` Στο github](https://github.com/OMADA11/_gallery/blob/master/multiuser-editing-in-Unreal.md) <br>
+[ `Unreal multiuser editing` Στο netlify](https://omada11.netlify.app/gallery/multiuser-editing-in-Unreal/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github account](https://github.com/OMADA11) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://github.com/OMADA11/site/blob/master/_slides/multiuser-sustems.md) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/OMADA11/site/blob/master/_timeline/game-development.md) |
+| [netlify](https://omada11.netlify.app/) | [Συστήματα Συνεργασίας πολλαπλών χρηστών](https://omada11.netlify.app/slides/multiuser-sustems/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://omada11.netlify.app/timeline/game-development/) |
+
 ## 2o MD File: `Blender mixer multiuser addon`
 ### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
 [`Blender mixer multiuser addon` Στο github](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md) <br>
@@ -169,3 +192,11 @@ git push origin
 | --- | --- | --- | 
 | [Github account](https://github.com/nkanagno) | [animation](https://github.com/nkanagno/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/nkanagno/site/blob/master/_timeline/3d-enviroments.md) |
 | [netlify](https://nkanagno.netlify.app/) | [animation](https://nkanagno.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://nkanagno.netlify.app/timeline/3d-enviroments/) |
+
+### [organization:](https://github.com/OMADA11)
+[`Blender mixer multiuser addon` Στο github](https://github.com/OMADA11/_gallery/blob/master/blender-multiuser-addon.md) <br>
+[`Blender mixer multiuser addon` Στο netlify](https://omada11.netlify.app/gallery/blender-multiuser-addon/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github organization](https://github.com/OMADA12) | [animation](https://github.com/OMADA11/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/OMADA11/site/blob/master/_timeline/3d-enviroments.md) |
+| [netlify](https://omada11.netlify.app/) | [animation](https://omada11.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://omada11.netlify.app/timeline/3d-enviroments/) |
