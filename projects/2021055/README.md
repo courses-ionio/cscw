@@ -125,7 +125,6 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ## Η συνεισφορά μου
 ![Screenshot from 2023-03-19 21-46-05](https://user-images.githubusercontent.com/115211756/226205757-f45de82c-e97b-43a7-be9f-56b04fd65e6c.png)
 
-## Το κεφάλαιο που ασχολήθηκα
 
 * [link του βιβλίου σε μορφή pdf](https://github.com/Axileaszervos/kallipos/blob/master/book.pdf)
 * [Edu.lua](https://github.com/Axileaszervos/kallipos/blob/master/Edu.lua)
