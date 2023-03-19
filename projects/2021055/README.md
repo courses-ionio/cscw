@@ -130,4 +130,3 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [Edu.lua](https://github.com/Axileaszervos/kallipos/blob/master/Edu.lua)
 * [Edu.md](https://github.com/Axileaszervos/kallipos/blob/master/EDU/Edu.md)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
-* 
