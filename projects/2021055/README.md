@@ -121,3 +121,13 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 # ΠΑΡΑΔΟΤΕΟ 5
 Σε αυτό το παραδοτέο, χρειάστηκε τόσο η δική μου συνεισφορά, όσο και της ομάδας μου. Πιο συγκεκριμένα, απαιτείται η πρόσθεση της δικιάς μας υποσημείωσης στο κεφάλαιο 7 του βιβλίου, καθώς και η δημιουργία νέου submodule με σκοπό την δημιουργία ενός ενιαίου βιβλίου, το οποίο θα περιέχει την συνεισφορά όλης της ομάδας μου.
 
+## Η συνεισφορά μου
+![Screenshot from 2023-03-19 21-46-05](https://user-images.githubusercontent.com/115211756/226205757-f45de82c-e97b-43a7-be9f-56b04fd65e6c.png)
+
+## Το κεφάλαιο που ασχολήθηκα
+
+* [link του βιβλίου σε μορφή pdf](https://github.com/Axileaszervos/kallipos/blob/master/book.pdf)
+* [Edu.lua](https://github.com/Axileaszervos/kallipos/blob/master/Edu.lua)
+* [Edu.md](https://github.com/Axileaszervos/kallipos/blob/master/EDU/Edu.md)
+* [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
+* 
