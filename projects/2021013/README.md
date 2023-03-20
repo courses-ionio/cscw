@@ -211,3 +211,20 @@ git push origin
 
 ### <h3 id="pull5">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/1"> "add my slides and timeline categories"</a>
+
+# <h1 id="BOOK_A">6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
+## <h2 id="MD">Η Συνοχή μου στο βιβλίο:</h2>
+Στο κεφάλαιο 4 (), και για περισσότερη ακρίβεια στη σελίδα 148, αναφέρει ότι . Μέσα από αυτό μικρό κειμενάκι αποφάσισα να αναφέρω ως fun fact . Πιο συγκεκριμένα, το είναι το τέλειο παράδειγμα σε αυτή την περίπτωση, . .
+## <h2 id="filter">Το φίλτρο μου:</h2>
+Αρχικά έφτιαξα ένα markdown αρχείο το οποίο το ονόμασα [`unity-forum.md`](https://github.com/nkanagno/kallipos-contribution/blob/master/unity-forum.md) και περιέχει caption (το περιεχόμενό μου), name (το ονοματεπώνυμό μου), id (τον αριθμό μητρώου), link και linkname (ο σύνδεσμος ο οποίος μεταβιβάζει τον χρήστη στη wikipedia που περιέχει περισσότερες πληροφορίες για το περιεχόμενο μου). Στη συνέχεια δημιούργησα ένα lua αρχείο και το ονόμασα [`fun_fact.lua`](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua), το οποίο αυτό που κάνει είναι γράφει στην αρχή `fun fact:`, από κάτω περιέχει το `caption` μου και τέλος υπάρχει μία γραμμή που διαχωρίζει το περιεχόμενό μου με το ονοματεπώνυμο μου, τον αριθμό μητρώου και το link μου.
+#### Την ολοκληρωμένη διαδικασία που ακολούθησα για αυτό το παραδοτέο την εξηγώ λεπτομερώς στο: <a href="#guide">`guide`</a> μου
+### Παραθέτω επίσης τα παρακάτω links:
+
+ - [link του βιβλιου σε μορφη pdf στο github](https://github.com/nkanagno/kallipos/issues/1)
+ - [link του `lua` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua)
+ - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos-contribution/blob/master/unity-forum.md)
+ - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
+ - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/screenshots/inf2021013/A2/unity-forum.png) 
+### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
+![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
+
