@@ -293,3 +293,26 @@ git push origin
  - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
  - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
  - [Unreal_(1998_video_game) wikipedia](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
+
+# <h1 id="BOOK_B">9ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Β: </h1>
+## Μετατροπή βιβλίου σε epub:
+Αρχικά πρόσθεσα την εντολη στο [`make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh):
+ ```
+ pandoc --quiet -f latex book.tex -o book.epub
+ ```
+## <h2 id="addition">Προσθήκη υλικού στο βιβλίο:</h2>
+Πρόσθεσα τις εικόνες μου από το 3o παραδοτέο, την μελέτη περίπτωσής μου από το 7ο παραδοτέο και την βιογραφία από το 9ο παραδοτέο στο κεφάλαιο **`Τεχνικές`**(ch04.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο **`Περιβάλλον ανάπτυξης λογισμικού`** τις δύο μου εικόνες μου, την `unreal engine 3` και `blender`, δίοτι αναφερότανε για διαγράμματα ροής δηλαδή για `περιβαλλόντα οπτικού προγραμματισμού` τα οποία χρησιμοποιούνται για να διευκολύνουν τον χρήστη να πραγραμματοποίησει ορισμένες λειτουργίες συνδέοντας απλώς μοτίβα σε μορφή διαγράμματος. Σε αυτήν την περίπτωση για την `unreal engine 3`, παρουσιάζω το εργαλείο της, που ονομάζεται kismet και χρησιμοποιήτε για προγραμματισμό βιντεοπαιχνιδiών χωρίς γράψιμο κώδικα ενώ για το blender αναλύω το εργαλείου του ή αλλιώς `Rapid PBR Material Creator` το οποίο χρησιμοποιήτε κυρίως για την ανάπτυξη `3D γραφικών`. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης της unreal engine` σε αυτό το κεφάλαιο διότι αναφέρεται σε `οπτικό προγραμματισμό`, όπου είναι ένας είδος προγραμματισμού που ο χρήστης δεν είναι υποχρεωμένος να γράψει κώδικα προκειμένου να δημιουργήσει μία λογισμική εφαρμοφή, έτσι και η unreal engine αρχικά φτιάχτηκε για να μπορεί ο κάθε developer βιντεοπαιχνιδιών να φτιάχνει πιο εύκολα και πιο εντυπωσιακά τα βιντεοπαιχνίδια του χρησιμοποιώντας έτοιμα εργαλεία της μηχανής αυτής όπως τη `kismet` ή `blueprint` με αποτέλεσμα να μην χρειάζεται να τα δημιουργήσει από την αρχή, γράφοντας κώδικα από το μηδέν. Τέλος, πρόσθεσα τη `βιογραφία του Tim Sweeney` στο ίδιο κεφάλαιο διοτί είναι εκείνος ο οποίος δημιούργησε την ίδια την unreal engine το 1998. 
+
+## παραθέτω τα παρακάτω links:
+ - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
+ - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
+ - [τα βιβλία(μου σε full size)](https://github.com/nkanagno/books/)
+ - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
+ - [cs-unreal-engine.md](https://github.com/nkanagno/extras/blob/master/cs-unreal-engine.md)
+ - [bio-sweeney.md](https://github.com/nkanagno/extras/blob/master/bio-sweeney.md)
+ - [blender.md](https://github.com/nkanagno/_gallery/blob/master/blender.md)
+ - [blender.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
+ - [blender-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg)
+ - [unreal-engine-3.md](https://github.com/nkanagno/_gallery/blob/master/unreal-engine-3.md)
+ - [unreal-engine-3.jpg](https://github.com/nkanagno/images/blob/master/unreal-engine-3.jpg)
+ - [unreal-engine-3-thumb.jpg](https://github.com/nkanagno/images/blob/master/unreal-engine-3-thumb.jpg)
