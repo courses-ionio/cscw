@@ -231,6 +231,27 @@ git push origin
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
 
+# <h1 id="1A">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
+## DEMO link netlify: 
+## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
+
+# links με τον πηγαίος κώδικας html-liquid που έγραψα:
+### minimal-ionio (_includes):
+[erasmus.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus.html)
+[erasmus-table1.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html)
+[erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html)
+[erasmus-download-links.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html)
+
+### sitegr:
+[erasmus.html](https://github.com/nkanagno/sitegr/blob/demo-branch/_pages/erasmus.html)
+[`erasmus.yml`](https://github.com/nkanagno/sitegr/blob/demo-branch/_data/erasmus.yml)
+
+#### Οι Αλλαγές που έγιναν στο navigation.yml: 
+[navigation.yml](https://github.com/nkanagno/sitegr/blob/demo-branch/_data/navigation.yml)
+
+# <h1 id="1A">7ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό σύστημα 2 </h1>
+
+
 # <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
 <h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
