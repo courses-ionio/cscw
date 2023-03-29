@@ -231,5 +231,65 @@ git push origin
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
 
-# <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - 1>
+# <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B>
+## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
+<h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
+Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης βιντεοπαιχνιδιών `Unreal Engine`.
+Ο κύριος λόγος που επέλεξα αυτό το θέμα είναι γιατί πρώτα απ'όλα να με βοηθήσει να εμβαθύνω περισσότερο στο χώρο της ανάπτυξης βιντεοπαιχνιδιών καθώς και να μάθω ιστορικά μερικές πληροφορίες για την μηχανή που έχω σκοπό να χρησιμοποιήσω στο μέλλον. Η οποία είναι μία εφαρμογή που έχει δημιουργήσει τα περισσότερα τρισδιάστατα βινεοπαιχνίδια της σύγχρονης εποχή και δίνει την δυνατότητα στον χρήστη της, να φτιάξει φωτορεαλιστικά τρισδιάστατα περιβάλλοντα να οποία δεν διαφέρουν τόσο πολυ από τα φυσικά. 
 
+### Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
+#### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
+ - case-study unreal engine στο netlify: [`Unreal Engine`](https://nkanagno.netlify.app/case-study/unreal-engine/)
+ - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
+ - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
+#### [organization:](https://github.com/OMADA11)
+ - case-study unreal engine στο netlify: [`Unreal Engine`](https://omada11.netlify.app/case-study/unreal-engine/)
+ - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-unreal-engine.md)
+ - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_case-study/unreal-engine.md)
+### Λίγα λόγια για το Θέμα που επέλεξα: [`unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_case-study/unreal-engine.md)
+![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
+Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
+
+ ### <h3 id="pull7">PULL REQUEST:</h3>
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/3"> "add case study"</a>
+ 
+## <h2 id="bibliography7"> Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:</h2>
+ - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
+ - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+ - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
+ - [Introduction to Unreal Kismet](https://www.oreilly.com/library/view/mastering-unreal-technology/9780768689006/ch09.html)
+ - [`Lumen in the Land of Nanite`, an Unreal Engine 5 Demo](https://www.youtube.com/watch?v=qC5KtatMcUw)
+ - [the history of game engines](https://prezi.com/w56f8xawwcyg/the-history-of-game-engines/)
+ - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
+ - [unreal engine image](https://www.pcmag.com/news/unreal-engine-5-promises-super-realistic-game-graphics)
+
+## Συμμετοχικό περιεχόμενο B2 (Βιογραφία):
+<h3 id="Biography">Βιογραφία:</h3>
+Στο συγκεκριμένο παραδοτέο ασχολήθηκα με την βιογραφία του εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών 
+<a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal Engine</a>, τον ιδρυτή της <a href="https://el.wikipedia.org/wiki/Epic_Games">Epic Games</a>, τον δημιουργό του <a href="https://el.wikipedia.org/wiki/Fortnite">fortnite</a> ή αλλιώς τον `Tim Sweeney`.
+Ο κύριος Eπέλεξα αυτό το θέμα δίοτι ήθελα να μάθω περισσότερες πληροφορίες για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών φτιάχνοντας την πιο εντυπωσιακή μηχανή ανάπτυξης τρισδιάστατων βιντεοπαιχνιδιών και γραφικών που χρησιμοποιείτε ακόμη και σήμερα από τις πιο υψηλές εταιρίες βιντεοπαιχνιδιών στον κοσμό. Επίσης θα ήταν σημαντικό να μην παραλλείψω πως ένας άλλος λόγος που αποφάσισα να ψάξω για την ιστορία του Tim Sweeney ήταν επειδή είναι ο ιδρυτής της μιας από τις πιο δημοφιλές και επιτυχημένες εταιρίες βιντεοπαιχνιδιών της σύγχρονης εποχής.
+
+### Παραθέτω παρακάτω τα `links` για την `Βιογραφία` μου (`github`, `netlify`):
+  #### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
+- biography στο netlify: [`Tim Sweeney`](https://nkanagno.netlify.app//biography/tim-sweeney/)
+- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-sweeney.md)
+- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
+#### [organization:](https://github.com/OMADA12)
+- biography στο netlify: [`Tim Sweeney`](https://omada12.netlify.app//biography/tim-sweeney/)
+- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/OMADA11/site/blob/master/_includes/bio-sweeney.md)
+- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/OMADA11/site/blob/master/_biography/tim-sweeney.md)
+### Λίγα λόγια για τη βιογραφία που επέλεξα: [`tim-sweeney.md`](https://github.com/OMADA11/site/blob/master/_biography/tim-sweeney.md)
+![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
+Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
+
+#### <h4 id="pull9">PULL REQUEST:</h4>
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/8"> "add biography"</a>
+### <h3 id="bibliography9"> Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:</h3>
+ - [Tim Sweeney wikipedia](https://www.allamericanspeakers.com/celebritytalentbios/Tim+Sweeney/444223)
+ - [ZZT sweeney first game engine wikipedia](https://en.wikipedia.org/wiki/ZZT)
+ - [tim sweeney wikipedia](https://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer))
+ - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
+ - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+ - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
+ - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
+ - [Unreal_(1998_video_game) wikipedia](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
