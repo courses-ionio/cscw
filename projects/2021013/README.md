@@ -90,16 +90,16 @@ dmouratidi:
 ### atto
 Η φανταστική κονσόλα atto δημιούργηθηκε προκειμένου να καθηγήσει νέους προγραμματιστές στον κόσμο της πληροφορικής, δίνοντας τους την ευκαιρία να εξάσκηθούν με τη γλώσσα προγραμματισμού BASIC. Πιο συγκεκριμένα, αρχικά ζητάει από τον χρήστη να γράψει την εντολή `help` έτσι ώστε να εμφανίσει στα δεξιά του ένα guide καθώς και ένα menu με τέσσερις επιλογές, όπου η κάθε επιλογή αντικατοπτρίζει το επίπεδο του χρήστη στο προγραμματισμό και αναλόγως με το τι θα επιλέξει θα του δωθούν, ανάλογης δυσκολίας ασκήσεις να λύσει.
 #### Επεξήγηση κατηγοριών:
-Αρχικά, πρόσθεσα το atto στην κατηγορία `code writing simulator` διότι απαιτείται από τον χρήστη να γράψει κώδικα σε γλώσσα προγραμματισμού BASIC, προκειμένου να μπορέσει ο χρήστης να εξοικειωθεί σε αυτή. Ωστόσο όμως, δεν το πρόσθεσα στην κατηγορία `program editor with built in tools` επείδη έιναι μία φανταστική κονσόλα η οποία επιτρέπει στον χρήστη, μόνο να γράψει κώδικα, χωρίς να του προσφέρει έτοιμα εργαλεία που θα τον διευκολύνουν στο να δημιουργήσει προγράμματα όπως βιντεοπαίχνιδια. Τέλος, επέλεξα να μην το πρόσθεσω στην κατηγορία `game` γιατί δεν θεωρείται πρόγραμμα, στον οποίο ο κύριος στόχος του χρήστη να είναι πάντα μόνο η ψυχαγωγία του αλλά και η εκμάθησή του. 
+Αρχικά, πρόσθεσα το atto στην κατηγορία `Code Editor` διότι απαιτείται από τον χρήστη να γράψει κώδικα σε γλώσσα προγραμματισμού BASIC, προκειμένου να μπορέσει ο χρήστης να εξοικειωθεί σε αυτή. Ωστόσο όμως, δεν το πρόσθεσα στην κατηγορία `Sprite Editor` επείδη έιναι μία φανταστική κονσόλα η οποία επιτρέπει στον χρήστη, μόνο να γράψει κώδικα, χωρίς να του προσφέρει τη δυνατότητα να δημιουργήσει ή να επεξεργαστεί sprites. Τέλος, επέλεξα να μην το πρόσθεσω στην κατηγορία `game` γιατί δεν θεωρείται πρόγραμμα, στον οποίο ο κύριος στόχος του χρήστη να είναι πάντα μόνο η ψυχαγωγία του αλλά και η εκμάθησή του. 
 ### Pix64
 
 ## Κατηγορίες και ταξινόμηση:
 
-FC | Language | Price & License | Platform (Editing; Playing) | Display | `game` | `program editor with built in tools` | `code writing simulator`|
+FC | Language | Price & License | Platform (Editing; Playing) | Display | `Music Editor` | `Sprite Editor` | `Code Editor`|
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+[Raccoon](https://github.com/Lyatus/raccoon) by Lutopia & Linheha | JavaScript | [Free](https://raccoon.lucien.cat/), [Unlicense](https://github.com/Lyatus/raccoon) ![GitHub stars](https://img.shields.io/github/stars/Lyatus/raccoon) | Browser | 128x128 (1:1) | Ναι | Ναι | Ναι |
+[BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Ναι | Όχι | Ναι |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
-[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)| Όχι | Ναι | Ναι |
-[Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1) | Ναι | Ναι| Όχι|
 
 # <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
 ## Συμμετοχικό περιεχόμενο A1:
