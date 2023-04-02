@@ -132,6 +132,10 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 # ΠΑΡΑΔΟΤΕΟ 6 - ΑΊΤΗΜΑ ΕΝΣΩΜΆΤΩΣΗΣ Β (ΑΠΟΣΦΑΛΜΆΤΩΣΗ-ΕΠΕΞΕΡΓΑΣΊΑ-ΠΡΟΣΘΉΚΗ LIQUID)
+* [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
+* [SemA.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemA.html)
+* [SemC.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemC.html)
+* [demo site](https://axileaszervos-sitegr.netlify.app/exampro/)
 
 # ΠΑΡΑΔΟΤΕΟ 7 - ΕΝΑΛΛΑΚΤΙΚΌ ΣΎΣΤΗΜΑ
 Σκοπός του 7ου παραδοτέου αποτελεί, η επέκταση ή η βελτίωση σε μια εφαρμογή, μιας ήδη υπάρχουσας fantasy console. Προσωπικά αποφάσισα να ασχοληθώ με το [project katana](https://bitmelo.com/user/orago/games/projectkatana), το οποίο είναι ένα παιχνίδι της fantasy console bitmelo.
