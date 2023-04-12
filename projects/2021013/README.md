@@ -100,10 +100,10 @@ dmouratidi:
 #### Επεξήγηση κατηγοριών:
 Την browser-based φανταστική κονσόλα, Raccoon, την πρόσθεσα και στις τρεις κατηγορίες. Πιο συγκεκριμένα, είναι `Music Editor` διότι επιτρέπει στον χρήστη να δημιουργήσει ειδική μουσική και να την χρησιμοποίησει αργότερα για το παιχνίδι του. Είναι `Sprite Editor` δίοτι ο χρήστης μπορεί να σχεδιάσει μικρές όπου θα του είναι χρήσιμες για το βιντεοπαιχνίδι του. Τέλος, είναι και `Code Editor` δίοτι έχει ένα εργαλείο το οποίο είναι απαραίτητο για το χρήστη να γράψει κώδικα προκειμένου να προγραμματίσει το βιντεοπαιχνίδι του.
 
-FC | Language | Price & License | Platform (Editing; Playing) | Display | `Music Editor` | `Sprite Editor` | `Code Editor`|
+FC | Language | Price & License | Platform (Editing; Playing) | Display | `Sprite Editor` | `Music Editor` | `Code Editor`|
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [Raccoon](https://github.com/Lyatus/raccoon) by Lutopia & Linheha | JavaScript | [Free](https://raccoon.lucien.cat/), [Unlicense](https://github.com/Lyatus/raccoon) ![GitHub stars](https://img.shields.io/github/stars/Lyatus/raccoon) | Browser | 128x128 (1:1) | Ναι | Ναι | Ναι |
-[BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Ναι | Όχι | Ναι |
+[BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Όχι | Ναι | Ναι |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
 
 # <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
