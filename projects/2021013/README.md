@@ -293,19 +293,19 @@ circfill(124, 0, 25, 4)
 
 ### Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
 #### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
- - case-study unreal engine στο netlify: [`Unreal Engine`](https://nkanagno.netlify.app/case-study/unreal-engine/)
- - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
- - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
+ - case-study unreal engine στο netlify: [`blender`](https://nkanagno.netlify.app/case-study/blender/)
+ - Στον φάκελο `_includes` στο github: [`cs-blender.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-blender.md)
+ - Στον φάκελο `_case-study` στο github: [`blender.md`](https://github.com/nkanagno/site/blob/master/_case-study/blender.md)
 #### [organization:](https://github.com/OMADA11)
- - case-study unreal engine στο netlify: [`Unreal Engine`](https://omada11.netlify.app/case-study/unreal-engine/)
- - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-unreal-engine.md)
- - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_case-study/unreal-engine.md)
-### Λίγα λόγια για το Θέμα που επέλεξα: [`unreal-engine.md`](https://github.com/OMADA11/site/blob/master/_case-study/unreal-engine.md)
+ - case-study unreal engine στο netlify: [`blender`](https://omada11.netlify.app/case-study/unreal-engine/)
+ - Στον φάκελο `_includes` στο github: [`cs-blender.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-blender.md)
+ - Στον φάκελο `_case-study` στο github: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
+### Λίγα λόγια για το Θέμα που επέλεξα: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
 ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
 Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
 
  ### <h3 id="pull7">PULL REQUEST:</h3>
-Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/3"> "add case study"</a>
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/3"> "add case_study/biography"</a>
  
 ## <h2 id="bibliography7"> Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:</h2>
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
@@ -325,14 +325,14 @@ circfill(124, 0, 25, 4)
 
 ### Παραθέτω παρακάτω τα `links` για την `Βιογραφία` μου (`github`, `netlify`):
   #### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
-- biography στο netlify: [`Tim Sweeney`](https://nkanagno.netlify.app//biography/tim-sweeney/)
-- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-sweeney.md)
-- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
+- biography στο netlify: [`Ton Roosendaal`](https://nkanagno.netlify.app//biography/ton-roosendaal/)
+- Στον φάκελο `_includes` στο github: [`bio-ton-roosendaal.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-ton-roosendaal.md)
+- Στον φάκελο `_biography` στο github: [`ton-roosendaal.md`](https://github.com/nkanagno/site/blob/master/_biography/ton-roosendaal.md)
 #### [organization:](https://github.com/OMADA12)
-- biography στο netlify: [`Tim Sweeney`](https://omada12.netlify.app//biography/tim-sweeney/)
-- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/OMADA11/site/blob/master/_includes/bio-sweeney.md)
-- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/OMADA11/site/blob/master/_biography/tim-sweeney.md)
-### Λίγα λόγια για τη βιογραφία που επέλεξα: [`tim-sweeney.md`](https://github.com/OMADA11/site/blob/master/_biography/tim-sweeney.md)
+- biography στο netlify: [`Ton Roosendaal`](https://omada11.netlify.app//biography/ton-roosendaal/)
+- Στον φάκελο `_includes` στο github: [`bio-ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_includes/bio-ton-roosendaal.md)
+- Στον φάκελο `_biography` στο github: [`ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_biography/ton-roosendaal.md)
+### Λίγα λόγια για τη βιογραφία που επέλεξα: [`ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_biography/ton-roosendaal.md)
 ![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
 Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
 
