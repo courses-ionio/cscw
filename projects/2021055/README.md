@@ -133,6 +133,13 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 # ΠΑΡΑΔΟΤΕΟ 6 - ΑΊΤΗΜΑ ΕΝΣΩΜΆΤΩΣΗΣ Β (ΑΠΟΣΦΑΛΜΆΤΩΣΗ-ΕΠΕΞΕΡΓΑΣΊΑ-ΠΡΟΣΘΉΚΗ LIQUID)
+Σε αυτό το παραδοτέο, απαιτούνταν η συνεισφορά μας στην ανεπίσημη σελίδα του τμήματος. Πιο συγκεκριμένα, χρησιμοποιώντας την εμπειρία που αποκτήσαμε απο το 3ο παραδοτέο έπρεπε να κατασκεύασουμε κάτι πιο σύνθετο, χρησιμοποιώντας την γλώσσα προγραμματισμού `liquid`.
+
+## Η συνεσφορά μου
+
+### Επεξήγηση του κώδικα
+
+
 * [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
 * [SemA.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemA.html)
 * [SemC.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemC.html)
