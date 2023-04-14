@@ -210,10 +210,13 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 
 
 ## Link για την μελέτη περίπτωσης και για την βιογραφία στο προσωπικό μου site
+* [Negreponte-bio](https://axileaszervos.netlify.app/biography/negroponte/)
+* [Webec-cs](https://axileaszervos.netlify.app/case-study/cisco-webex/)
 
 
 ## Link για την μελέτη περίπτωσης για την βιογραφία στο site της ομάδας μου
-
+* [Negreponte-bio](https://omada11.netlify.app/biography/negroponte/)
+* [Webec-cs](https://omada11.netlify.app/case-study/cisco-webex/)
 
 # ΠΑΡΑΔΟΤΕΟ 9 - KΑΤΑΣΚΕΥΉ ΤΟΥ ΒΙΒΛΊΟΥ B1 
 
