@@ -278,6 +278,11 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 ![Personal](https://user-images.githubusercontent.com/115211756/232056487-f617315a-1359-4a12-924b-ff578009eade.png)
 * H προσωπική συνεισφορά στο βιβλίο
 
+## Pull Request
+* [figures](https://github.com/OMADA11/_gallery/pull/3)
+* [text](https://github.com/OMADA11/text/pull/3)
+
+
 
 
 
