@@ -288,7 +288,7 @@ circfill(124, 0, 25, 4)
 # <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
 <h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
-Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης βιντεοπαιχνιδιών `Unreal Engine`.
+Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης τρισδιάστατων μοντέλων και animation `blender`.
 Ο κύριος λόγος που επέλεξα αυτό το θέμα είναι γιατί πρώτα απ'όλα να με βοηθήσει να εμβαθύνω περισσότερο στο χώρο της ανάπτυξης βιντεοπαιχνιδιών καθώς και να μάθω ιστορικά μερικές πληροφορίες για την μηχανή που έχω σκοπό να χρησιμοποιήσω στο μέλλον. Η οποία είναι μία εφαρμογή που έχει δημιουργήσει τα περισσότερα τρισδιάστατα βινεοπαιχνίδια της σύγχρονης εποχή και δίνει την δυνατότητα στον χρήστη της, να φτιάξει φωτορεαλιστικά τρισδιάστατα περιβάλλοντα να οποία δεν διαφέρουν τόσο πολυ από τα φυσικά. 
 
 ### Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
@@ -301,13 +301,17 @@ circfill(124, 0, 25, 4)
  - Στον φάκελο `_includes` στο github: [`cs-blender.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-blender.md)
  - Στον φάκελο `_case-study` στο github: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
 ### Λίγα λόγια για το Θέμα που επέλεξα: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
-![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
-Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
+![blender-thumb](https://user-images.githubusercontent.com/103074273/232137977-bef6e724-c233-4b32-ae81-3b61de3eec04.jpg)<br>
+Το Blender δημιουργήθηκε από τον Ton Roosendaal, έναν Ολλανδό προγραμματιστή και καλλιτέχνη το 1995. Αρχικά, ο Roosendaal ανέπτυξε το λογισμικό ως μια εσωτερική εφαρμογή για την εταιρεία animation <<NeoGeo>>, όπου εργαζόταν τότε. Το 1998, ο Ton Roosendaal αποφάσισε να κυκλοφορήσει το Blender ως δωρεάν και ανοιχτού κώδικα λογισμικό, και από τότε έχει αναπτυχθεί συνεχώς από μια διεθνή κοινότητα προγραμματιστών και καλλιτεχνών. Σήμερα, το Blender είναι ένα από τα πιο δημοφιλή λογισμικά 3D μοντελοποίησης και απεικόνισης στον κόσμο, και χρησιμοποιείται από επαγγελματίες και ερασιτέχνες σε διάφορους τομείς.
 
  ### <h3 id="pull7">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/3"> "add case_study/biography"</a>
  
 ## <h2 id="bibliography7"> Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:</h2>
+ - [blender story](https://www.blender.org/about/history/)
+ - [Blender on Wikipedia](https://en.wikipedia.org/wiki/Blender_(software)#History)
+ - 
+ 
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
  - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
  - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
@@ -319,9 +323,7 @@ circfill(124, 0, 25, 4)
 
 ## Συμμετοχικό περιεχόμενο B2 (Βιογραφία):
 <h3 id="Biography">Βιογραφία:</h3>
-Στο συγκεκριμένο παραδοτέο ασχολήθηκα με την βιογραφία του εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών 
-<a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal Engine</a>, τον ιδρυτή της <a href="https://el.wikipedia.org/wiki/Epic_Games">Epic Games</a>, τον δημιουργό του <a href="https://el.wikipedia.org/wiki/Fortnite">fortnite</a> ή αλλιώς τον `Tim Sweeney`.
-Ο κύριος Eπέλεξα αυτό το θέμα δίοτι ήθελα να μάθω περισσότερες πληροφορίες για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών φτιάχνοντας την πιο εντυπωσιακή μηχανή ανάπτυξης τρισδιάστατων βιντεοπαιχνιδιών και γραφικών που χρησιμοποιείτε ακόμη και σήμερα από τις πιο υψηλές εταιρίες βιντεοπαιχνιδιών στον κοσμό. Επίσης θα ήταν σημαντικό να μην παραλλείψω πως ένας άλλος λόγος που αποφάσισα να ψάξω για την ιστορία του Tim Sweeney ήταν επειδή είναι ο ιδρυτής της μιας από τις πιο δημοφιλές και επιτυχημένες εταιρίες βιντεοπαιχνιδιών της σύγχρονης εποχής.
+Στο συγκεκριμένο παραδοτέο ασχολήθηκα με τη βιογραφία του Ton Roosendaal, εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών <a href="https://en.wikipedia.org/wiki/Blender_(software)">Blender</a>, ιδρυτή του Blender Institute και δημιουργό του παγκοσμίως γνωστού λογισμικού 3D modeling, animation και rendering. Ο κύριος λόγος που επέλεξα αυτό το θέμα ήταν για να μάθω περισσότερα για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών με το Blender, ένα λογισμικό που έχει αποκτήσει μεγάλη φήμη στην κοινότητα των καλλιτεχνών και παραγωγών 3D γραφικών. Επιπλέον, θεώρησα σημαντικό να αναφέρω ότι ο Ton Roosendaal είναι ιδρυτής μιας από τις πιο αναγνωρίσιμες εταιρίες λογισμικού 3D στον κόσμο και έχει προσφέρει σημαντική συνεισφορά στην ανάπτυξη της βιομηχανίας των βιντεοπαιχνιδιών και των γραφικών.
 
 ### Παραθέτω παρακάτω τα `links` για την `Βιογραφία` μου (`github`, `netlify`):
   #### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
@@ -333,8 +335,8 @@ circfill(124, 0, 25, 4)
 - Στον φάκελο `_includes` στο github: [`bio-ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_includes/bio-ton-roosendaal.md)
 - Στον φάκελο `_biography` στο github: [`ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_biography/ton-roosendaal.md)
 ### Λίγα λόγια για τη βιογραφία που επέλεξα: [`ton-roosendaal.md`](https://github.com/OMADA11/site/blob/master/_biography/ton-roosendaal.md)
-![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
-Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
+![roosendaal-profile-thumb](https://user-images.githubusercontent.com/103074273/232142719-36d34281-2711-4915-8a91-440acfcdfeff.jpg)<br>
+Ο Ton Roosendaal είναι ο άνθρωπος πίσω το Blender, ένα δωρεάν και ανοιχτού κώδικα λογισμικό για 3D μοντελοποίηση και animation που επιτρέπει στους χρήστες να δημιουργήσουν τρισδιάστατα μοντέλα, animation για ταινίες, βιντεοπαιχνίδια και άλλες εφαρμογές. Ο Κύριος σκοπός αυτής της δημιουργίας του ήταν να προωθήσει τα δωρεάν και ανοιχτού κώδικα λογισμικά.
 
 #### <h4 id="pull9">PULL REQUEST:</h4>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/3"> "add case_study/biography"</a>
@@ -358,7 +360,7 @@ circfill(124, 0, 25, 4)
 Πρόσθεσα τις εικόνες μου από το 3o παραδοτέο, την μελέτη περίπτωσής μου από το 7ο παραδοτέο και την βιογραφία από το 9ο παραδοτέο στο κεφάλαιο **`Τεχνικές`**(ch04.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο **`Περιβάλλον ανάπτυξης λογισμικού`** τις δύο μου εικόνες μου, την `unreal engine 3` και `blender`, δίοτι αναφερότανε για διαγράμματα ροής δηλαδή για `περιβαλλόντα οπτικού προγραμματισμού` τα οποία χρησιμοποιούνται για να διευκολύνουν τον χρήστη να πραγραμματοποίησει ορισμένες λειτουργίες συνδέοντας απλώς μοτίβα σε μορφή διαγράμματος. Σε αυτήν την περίπτωση για την `unreal engine 3`, παρουσιάζω το εργαλείο της, που ονομάζεται kismet και χρησιμοποιήτε για προγραμματισμό βιντεοπαιχνιδiών χωρίς γράψιμο κώδικα ενώ για το blender αναλύω το εργαλείου του ή αλλιώς `Rapid PBR Material Creator` το οποίο χρησιμοποιήτε κυρίως για την ανάπτυξη `3D γραφικών`. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης της unreal engine` σε αυτό το κεφάλαιο διότι αναφέρεται σε `οπτικό προγραμματισμό`, όπου είναι ένας είδος προγραμματισμού που ο χρήστης δεν είναι υποχρεωμένος να γράψει κώδικα προκειμένου να δημιουργήσει μία λογισμική εφαρμοφή, έτσι και η unreal engine αρχικά φτιάχτηκε για να μπορεί ο κάθε developer βιντεοπαιχνιδιών να φτιάχνει πιο εύκολα και πιο εντυπωσιακά τα βιντεοπαιχνίδια του χρησιμοποιώντας έτοιμα εργαλεία της μηχανής αυτής όπως τη `kismet` ή `blueprint` με αποτέλεσμα να μην χρειάζεται να τα δημιουργήσει από την αρχή, γράφοντας κώδικα από το μηδέν. Τέλος, πρόσθεσα τη `βιογραφία του Tim Sweeney` στο ίδιο κεφάλαιο διοτί είναι εκείνος ο οποίος δημιούργησε την ίδια την unreal engine το 1998. 
 
 ## παραθέτω τα παρακάτω links:
-### prosopiko:
+### [Προσωπικό αποθετήριο](https://github.com/nkanagno):
  - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
  - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
  - [τα βιβλία(μου σε full size)](https://github.com/nkanagno/books/)
@@ -371,17 +373,23 @@ circfill(124, 0, 25, 4)
  - [blender-multiuser-addon.md](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md)
  - [blender-multiuser-addon.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
  - [blender-multiuser-addon-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg)
- 
-### organization:
+ - [multiuser-editing-in-Unreal.md](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md)
+ - [multiuser-editing-in-Unreal.jpeg](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpeg)
+ - [multiuser-editing-in-Unreal-thumb.jpeg](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg)
+
+### [organization](https://github.com/OMADA11):
  - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
- - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
- - [τα βιβλία(μου σε full size)](https://github.com/nkanagno/books/)
- - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
- - [cs-blender.md](https://github.com/nkanagno/extras/blob/master/cs-blender.md)
- - [bio-ton-roosendaal.md](https://github.com/nkanagno/extras/blob/master/bio-ton-roosendaal.md)
- - [blender.md](https://github.com/nkanagno/_gallery/blob/master/blender.md)
- - [blender.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
- - [blender-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg)
- - [blender-multiuser-addon.md](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md)
- - [blender-multiuser-addon.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
- - [blender-multiuser-addon-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg)
+ - [το βιβλίο σε epub (compressed)](https://github.com/OMADA11/kallipos/issues/2)
+ - [τα βιβλία(μου σε full size)](https://github.com/OMADA11/books/)
+ - [make-latex.sh](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
+ - [cs-blender.md](https://github.com/OMADA11/extras/blob/master/cs-blender.md)
+ - [bio-ton-roosendaal.md](https://github.com/OMADA11/extras/blob/master/bio-ton-roosendaal.md)
+ - [blender.md](https://github.com/OMADA11/_gallery/blob/master/blender.md)
+ - [blender.jpg](https://github.com/OMADA11/images/blob/master/blender-PBR.jpg)
+ - [blender-thumb.jpg](https://github.com/OMADA11/images/blob/master/blender-PBR-thumb.jpg)
+ - [blender-multiuser-addon.md](https://github.com/OMADA11/_gallery/blob/master/blender-multiuser-addon.md)
+ - [blender-multiuser-addon.jpg](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon.jpg)
+ - [blender-multiuser-addon-thumb.jpg](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon-thumb.jpg)
+ - [multiuser-editing-in-Unreal.md](https://github.com/OMADA11/_gallery/blob/master/multiuser-editing-in-Unreal.md)
+ - [multiuser-editing-in-Unreal.jpeg](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal.jpeg)
+ - [multiuser-editing-in-Unreal-thumb.jpeg](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg)
