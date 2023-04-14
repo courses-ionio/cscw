@@ -260,8 +260,22 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 * [biography](https://github.com/OMADA11/site/pull/6)
 * [case-study](https://github.com/OMADA11/site/pull/7)
 
+## Βιβλιογραφία για την μελέτη περίπτωσης
+* https://en.wikipedia.org/wiki/Cisco_Webex
+* https://dispatch.m.io/history-of-webex/
+* http://gematcisco.weebly.com/the-history-of-webex.html
+
+## Βιβλιογραφία για την βιογραφία
+* https://en.wikipedia.org/wiki/Nicholas_Negroponte
+* https://www.britannica.com/biography/Nicholas-Negroponte
+* https://web.media.mit.edu/~nicholas/
+
+
+
 # ΠΑΡΑΔΟΤΕΟ 9 - KΑΤΑΣΚΕΥΉ ΤΟΥ ΒΙΒΛΊΟΥ B1 
 Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνεισφορά στο βιβλίο και να το μετατρέψουμε σε .epub. Για τον σκοπό αυτό πρόσθεσα στο make-latex.sh την εντολή pandoc --quiet -f latex book.tex -o book.epub.
+
+* [Book.epub](https://github.com/Axileaszervos/kallipos/blob/master/book.epub)
 
 ![bio](https://user-images.githubusercontent.com/115211756/232056030-69a5d320-17ce-4230-b2d3-c9501e99933b.png)
 * Η βιογραφία του Nicholas Negroponte
