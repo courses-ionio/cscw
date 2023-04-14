@@ -197,11 +197,16 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
  ## Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
 
   * [Negroponte.md](https://github.com/Axileaszervos/site/blob/master/_biography/Negroponte.md)
-  * [Cisco-Webex.md](https://github.com/Axileaszervos/site/blob/master/_case-study/Cisco-Webex.md)
+  * [Cisco-Webex.md](https://github.com/OMADA11/site/blob/master/_case-study/Cisco-Webex.md)
   * [bio-Negreponte.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Negreponte.md)
   * [cs-Webex.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-Webex.md)
 
  ## Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
+ 
+  * [Negroponte.md](https://github.com/OMADA11/site/blob/master/_biography/Negroponte.md)
+  * [Cisco-Webex.md](https://github.com/Axileaszervos/site/blob/master/_case-study/Cisco-Webex.md)
+  * [bio-Negreponte.md](https://github.com/OMADA11/site/blob/master/_includes/bio-Negreponte.md)
+  * [cs-Webex.md](https://github.com/OMADA11/site/blob/master/_includes/cs-Webex.md)
 
 
 ## Link για την μελέτη περίπτωσης και για την βιογραφία στο προσωπικό μου site
