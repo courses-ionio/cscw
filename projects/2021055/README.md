@@ -104,17 +104,17 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ## Τα Links και οι φωτογραφίες από το ομαδικό μου αποθετήριο
 ### Webex:
  
-* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Webex.md]()
-* Η εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό site: [Webex]()
-* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex.jpg]()
-* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex-Thumb.jpg]()
+* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Webex.md](https://github.com/OMADA11/_gallery/blob/2d968d9c862520351271708d62f5b05a0002023c/Webex.md)
+* Η εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό site: [Webex](https://omada11.netlify.app/gallery/webex/)
+* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex.jpg](https://github.com/OMADA11/images/blob/01860ce47f09dd1f462fa4bab02450c0d8fdeb3b/Cisco-Webex.jpg)
+* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex-Thumb.jpg](https://github.com/OMADA11/images/blob/01860ce47f09dd1f462fa4bab02450c0d8fdeb3b/Cisco-Webex-Thumb.jpg)
 
 ### Edmodo:
 
-* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.md]()
-* Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό site: [Edmodo]()
-* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.png]()
-* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo-thumb.png]()
+* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.md](https://github.com/OMADA11/_gallery/blob/2d968d9c862520351271708d62f5b05a0002023c/Edmodo.md)
+* Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό site: [Edmodo](https://omada11.netlify.app/gallery/edmodo/)
+* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.png](https://github.com/OMADA11/images/blob/01860ce47f09dd1f462fa4bab02450c0d8fdeb3b/Edmodo.png)
+* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo-thumb.png](https://github.com/OMADA11/images/blob/01860ce47f09dd1f462fa4bab02450c0d8fdeb3b/Edmodo-thumb.png)
 
 ## Pull Request
  * [images](https://github.com/OMADA11/_gallery/pull/2) 
@@ -142,12 +142,12 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ## Ομαδικό αποθετήριο
 
 ### Timelines
-* [Εκπαιδευτικά εργαλεία]()
-* [Συστήματα τηλεδιασκέψεων]()
+* [Εκπαιδευτικά εργαλεία](https://github.com/OMADA11/site/blob/master/_timeline/EdutoolsTimeline.md)
+* [Συστήματα τηλεδιασκέψεων](https://github.com/OMADA11/site/blob/master/_timeline/Webconftimeline.md)
 
 ### Slides
-* [Εκπαιδευτικά εργαλεία]()
-* [Συστήματα τηλεδιασκέψεων]()
+* [Εκπαιδευτικά εργαλεία](https://github.com/OMADA11/site/blob/master/_slides/Edtuools.md)
+* [Συστήματα τηλεδιασκέψεων](https://github.com/OMADA11/site/blob/master/_slides/Webconf.md)
 
 ## Pull Request
  * [slides](https://github.com/OMADA11/site/pull/4) 
