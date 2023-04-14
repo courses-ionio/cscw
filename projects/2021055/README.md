@@ -136,8 +136,16 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 Σε αυτό το παραδοτέο, απαιτούνταν η συνεισφορά μας στην ανεπίσημη σελίδα του τμήματος. Πιο συγκεκριμένα, χρησιμοποιώντας την εμπειρία που αποκτήσαμε απο το 3ο παραδοτέο έπρεπε να κατασκεύασουμε κάτι πιο σύνθετο, χρησιμοποιώντας την γλώσσα προγραμματισμού `liquid`.
 
 ## Η συνεσφορά μου
+Προσωπικά, αποφάσησα να κατασκευ
 
-### Επεξήγηση του κώδικα
+* [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
+* [SemA.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemA.html)
+* [SemC.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemC.html)
+* [demo site](https://axileaszervos-sitegr.netlify.app/exampro/)
+## Επεξήγηση του κώδικα
+
+### Exampro.html
+Αρχικά, δημιούργησα το αρχείο Exampro.html. Σκοπός μου ήταν να έχω σε ένα κεντρικό αρχείο το πρόγραμμα και η δημιουργία των πινάκων, να πραγματοποιόταν σε ξεχωριστά αρχεία. Χρησιμοποιώντας html, πρόσθεσα τις επικεφαλίδες και το logo του πιστοποιημένου προγράμματος σπουδών που υπάρχει στο επίσημο site του πανεπιστημίου. Ενδιάμεσα από αυτά, καλούνται τα 2 αρχεία που φτιάχνουν τους πίνακες για το πρόγραμμα της εξεταστικής.
 
 
 * [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
