@@ -89,19 +89,36 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο
 ### Webex:
  
-* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό μου αποθετήριο: [Webex.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Webex.md)
+* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Webex.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Webex.md)
 * Η εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό μου site: [Webex](https://axileaszervos.netlify.app/gallery/webex/)
-* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο αποθετήριο μου: [Cisco-Webex.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex.jpg)
-* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο αποθετήριο μου: [Cisco-Webex-Thumb.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex-Thumb.jpg)
+* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex.jpg)
+* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex-Thumb.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex-Thumb.jpg)
 
 ### Edmodo:
 
-* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό μου αποθετήριο: [Edmodo.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Edmodo.md)
-* Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό μου site: [Edmodo](https://axileaszervos.netlify.app/gallery/edmodo/)
-* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο αποθετήριο μου: [Edmodo.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo.png)
-* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο αποθετήριο μου: [Edmodo-thumb.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo-thumb.png)
+* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Edmodo.md)
+* Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό site: [Edmodo](https://axileaszervos.netlify.app/gallery/edmodo/)
+* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo.png)
+* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo-thumb.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo-thumb.png)
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό μου αποθετήριο
+### Webex:
+ 
+* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Webex.md]()
+* Η εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό site: [Webex]()
+* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex.jpg]()
+* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο ομαδικό αποθετήριο: [Cisco-Webex-Thumb.jpg]()
+
+### Edmodo:
+
+* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.md]()
+* Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό site: [Edmodo]()
+* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo.png]()
+* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο ομαδικό αποθετήριο: [Edmodo-thumb.png]()
+
+## Pull Request
+ * [images](https://github.com/OMADA11/_gallery/pull/2) 
+ * [photos](https://github.com/OMADA11/images/pull/3 )
 
 
 ## Εκπαιδευτικά εργαλεία
@@ -112,13 +129,29 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 
 Τα συστήματα τηλεδιασκέψεων, στον εκπαιδευτικό κόσμο προσομοιώνουν την φυσική παρουσία στην τάξη Πιο συγκεκριμένα, ο εκπαιδευτικός έχει ένα εύρος από εργαλεία(ψηφιακός πίνακας, διαμοιρασμός οθόνης) που του επιτρέπουν να διδάξει σχολικά μαθήματα και ταυτόχρονα, οι μαθητές μαθαίνουν να δουλεύουν και να συνεργάζονται από το σπίτι τους.
 
-## Timelines
+## Προσωπικό αποθετήριο
+
+### Timelines
 * [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/)
 * [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/timeline/webconftimeline/)
 
-## Slides
+### Slides
 * [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/slides/edtuools/)
 * [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/slides/webconf/)
+
+## Ομαδικό αποθετήριο
+
+### Timelines
+* [Εκπαιδευτικά εργαλεία]()
+* [Συστήματα τηλεδιασκέψεων]()
+
+### Slides
+* [Εκπαιδευτικά εργαλεία]()
+* [Συστήματα τηλεδιασκέψεων]()
+
+## Pull Request
+ * [slides](https://github.com/OMADA11/site/pull/4) 
+ * [timelines](https://github.com/OMADA11/site/pull/5)
 
 # ΠΑΡΑΔΟΤΕΟ 5 - ΚΑΤΑΣΚΕΥΉ ΤΟΥ ΒΙΒΛΊΟΥ Α2
 Σε αυτό το παραδοτέο, χρειάστηκε τόσο η δική μου συνεισφορά, όσο και της ομάδας μου. Πιο συγκεκριμένα, απαιτείται η πρόσθεση της δικιάς μας υποσημείωσης στο κεφάλαιο 7 του βιβλίου, καθώς και η δημιουργία νέου submodule με σκοπό την δημιουργία ενός ενιαίου βιβλίου, το οποίο θα περιέχει την συνεισφορά όλης της ομάδας μου.
@@ -131,6 +164,11 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [Edu.lua](https://github.com/Axileaszervos/kallipos/blob/master/Edu.lua)
 * [Edu.md](https://github.com/Axileaszervos/kallipos/blob/master/EDU/Edu.md)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
+
+## Pull Request
+* [Edu.md](https://github.com/OMADA11/kallipos-contribution/pull/2)
+
+
 
 # ΠΑΡΑΔΟΤΕΟ 6 - ΑΊΤΗΜΑ ΕΝΣΩΜΆΤΩΣΗΣ Β (ΑΠΟΣΦΑΛΜΆΤΩΣΗ-ΕΠΕΞΕΡΓΑΣΊΑ-ΠΡΟΣΘΉΚΗ LIQUID)
 Σε αυτό το παραδοτέο, απαιτούνταν η συνεισφορά μας στην ανεπίσημη σελίδα του τμήματος. Πιο συγκεκριμένα, χρησιμοποιώντας την εμπειρία που αποκτήσαμε απο το 3ο παραδοτέο, έπρεπε να κατασκεύασουμε κάτι πιο σύνθετο, χρησιμοποιώντας την γλώσσα προγραμματισμού `liquid`.
@@ -217,6 +255,10 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 ## Link για την μελέτη περίπτωσης για την βιογραφία στο site της ομάδας μου
 * [Negreponte-bio](https://omada11.netlify.app/biography/negroponte/)
 * [Webec-cs](https://omada11.netlify.app/case-study/cisco-webex/)
+
+## Pull Request
+* [biography](https://github.com/OMADA11/site/pull/6)
+* [case-study](https://github.com/OMADA11/site/pull/7)
 
 # ΠΑΡΑΔΟΤΕΟ 9 - KΑΤΑΣΚΕΥΉ ΤΟΥ ΒΙΒΛΊΟΥ B1 
 Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνεισφορά στο βιβλίο και να το μετατρέψουμε σε .epub. Για τον σκοπό αυτό πρόσθεσα στο make-latex.sh την εντολή pandoc --quiet -f latex book.tex -o book.epub.
