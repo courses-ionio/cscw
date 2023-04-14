@@ -221,4 +221,23 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 # ΠΑΡΑΔΟΤΕΟ 9 - KΑΤΑΣΚΕΥΉ ΤΟΥ ΒΙΒΛΊΟΥ B1 
 Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνεισφορά στο βιβλίο και να το μετατρέψουμε σε .epub. Για τον σκοπό αυτό πρόσθεσα στο make-latex.sh την εντολή pandoc --quiet -f latex book.tex -o book.epub.
 
+![bio](https://user-images.githubusercontent.com/115211756/232056030-69a5d320-17ce-4230-b2d3-c9501e99933b.png)
+* Η βιογραφία του Nicholas Negroponte
+
+![cs-webex](https://user-images.githubusercontent.com/115211756/232056170-be2524be-12d6-41b8-a5c9-2d39e9219255.png)
+* Η μελέτη περίπτωσης του Cisco Webex
+
+![im1](https://user-images.githubusercontent.com/115211756/232056309-2751d23a-f6df-4800-9389-e95b5791c3e9.png)
+* Η εικόνα για το Cisco Webex
+
+![img2](https://user-images.githubusercontent.com/115211756/232056415-951f8076-f31f-4dc6-957a-cc087e728bc2.png)
+* Η εικόνα για το Edmodo
+
+![Personal](https://user-images.githubusercontent.com/115211756/232056487-f617315a-1359-4a12-924b-ff578009eade.png)
+* H προσωπική συνεισφορά στο βιβλίο
+
+
+
+
 # ΠΑΡΑΔΟΤΕΟ 10 - ΤΕΛΙΚΉ ΑΝΑΦΟΡΆ
+
