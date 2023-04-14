@@ -133,25 +133,24 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 # ΠΑΡΑΔΟΤΕΟ 6 - ΑΊΤΗΜΑ ΕΝΣΩΜΆΤΩΣΗΣ Β (ΑΠΟΣΦΑΛΜΆΤΩΣΗ-ΕΠΕΞΕΡΓΑΣΊΑ-ΠΡΟΣΘΉΚΗ LIQUID)
-Σε αυτό το παραδοτέο, απαιτούνταν η συνεισφορά μας στην ανεπίσημη σελίδα του τμήματος. Πιο συγκεκριμένα, χρησιμοποιώντας την εμπειρία που αποκτήσαμε απο το 3ο παραδοτέο έπρεπε να κατασκεύασουμε κάτι πιο σύνθετο, χρησιμοποιώντας την γλώσσα προγραμματισμού `liquid`.
+Σε αυτό το παραδοτέο, απαιτούνταν η συνεισφορά μας στην ανεπίσημη σελίδα του τμήματος. Πιο συγκεκριμένα, χρησιμοποιώντας την εμπειρία που αποκτήσαμε απο το 3ο παραδοτέο, έπρεπε να κατασκεύασουμε κάτι πιο σύνθετο, χρησιμοποιώντας την γλώσσα προγραμματισμού `liquid`.
 
-## Η συνεσφορά μου
-Προσωπικά, αποφάσησα να κατασκευ
+## Η συνεισφορά μου
+Προσωπικά, αποφάσισα να κατασκευάσω το πρόγραμμα της εξεταστικής του χειμερινού εξαμήνου και πιο συγκεκριμένα, το πρόγραμμα για το Ά και Γ εξ
 
 * [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
 * [SemA.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemA.html)
 * [SemC.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemC.html)
 * [demo site](https://axileaszervos-sitegr.netlify.app/exampro/)
+
+![Screenshot from 2023-04-14 10-23-27](https://user-images.githubusercontent.com/115211756/231999822-c787ecb6-4592-4851-a094-414f8b67826c.png)
+ 
 ## Επεξήγηση του κώδικα
 
 ### Exampro.html
 Αρχικά, δημιούργησα το αρχείο Exampro.html. Σκοπός μου ήταν να έχω σε ένα κεντρικό αρχείο το πρόγραμμα και η δημιουργία των πινάκων, να πραγματοποιόταν σε ξεχωριστά αρχεία. Χρησιμοποιώντας html, πρόσθεσα τις επικεφαλίδες και το logo του πιστοποιημένου προγράμματος σπουδών που υπάρχει στο επίσημο site του πανεπιστημίου. Ενδιάμεσα από αυτά, καλούνται τα 2 αρχεία που φτιάχνουν τους πίνακες για το πρόγραμμα της εξεταστικής.
 
-
-* [Exampro.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/ExamPro.html)
-* [SemA.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemA.html)
-* [SemC.html](https://github.com/Axileaszervos/minimal-ionio/blob/master/_includes/SemC.html)
-* [demo site](https://axileaszervos-sitegr.netlify.app/exampro/)
+### SemA.html - SemC.html
 
 # ΠΑΡΑΔΟΤΕΟ 7 - ΕΝΑΛΛΑΚΤΙΚΌ ΣΎΣΤΗΜΑ
 Σκοπός του 7ου παραδοτέου αποτελεί, η επέκταση ή η βελτίωση σε μια εφαρμογή, μιας ήδη υπάρχουσας fantasy console. Προσωπικά αποφάσισα να ασχοληθώ με το [project katana](https://bitmelo.com/user/orago/games/projectkatana), το οποίο είναι ένα παιχνίδι της fantasy console bitmelo.
