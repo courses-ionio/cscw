@@ -310,17 +310,12 @@ circfill(124, 0, 25, 4)
 ## <h2 id="bibliography7"> Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:</h2>
  - [blender story](https://www.blender.org/about/history/)
  - [Blender on Wikipedia](https://en.wikipedia.org/wiki/Blender_(software)#History)
- - 
- 
- - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
- - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
- - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
- - [Introduction to Unreal Kismet](https://www.oreilly.com/library/view/mastering-unreal-technology/9780768689006/ch09.html)
- - [`Lumen in the Land of Nanite`, an Unreal Engine 5 Demo](https://www.youtube.com/watch?v=qC5KtatMcUw)
- - [the history of game engines](https://prezi.com/w56f8xawwcyg/the-history-of-game-engines/)
+ - [Mixer: a Blender Addon for Collaborative Editing](https://ubisoft-mixer.readthedocs.io/en/latest/index.html)
  - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
- - [unreal engine image](https://www.pcmag.com/news/unreal-engine-5-promises-super-realistic-game-graphics)
-
+ - [What is Blender History](https://www.youtube.com/watch?v=e2CzC_OTOA8)
+ - [The Amazing story of Blender in 6 mins | mini documentary](https://www.youtube.com/watch?v=_j0xbEJ__Sw)
+ - [Blender Foundation wikipedia](https://en.wikipedia.org/wiki/Blender_Foundation)
+ 
 ## Συμμετοχικό περιεχόμενο B2 (Βιογραφία):
 <h3 id="Biography">Βιογραφία:</h3>
 Στο συγκεκριμένο παραδοτέο ασχολήθηκα με τη βιογραφία του Ton Roosendaal, εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών <a href="https://en.wikipedia.org/wiki/Blender_(software)">Blender</a>, ιδρυτή του Blender Institute και δημιουργό του παγκοσμίως γνωστού λογισμικού 3D modeling, animation και rendering. Ο κύριος λόγος που επέλεξα αυτό το θέμα ήταν για να μάθω περισσότερα για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών με το Blender, ένα λογισμικό που έχει αποκτήσει μεγάλη φήμη στην κοινότητα των καλλιτεχνών και παραγωγών 3D γραφικών. Επιπλέον, θεώρησα σημαντικό να αναφέρω ότι ο Ton Roosendaal είναι ιδρυτής μιας από τις πιο αναγνωρίσιμες εταιρίες λογισμικού 3D στον κόσμο και έχει προσφέρει σημαντική συνεισφορά στην ανάπτυξη της βιομηχανίας των βιντεοπαιχνιδιών και των γραφικών.
@@ -345,7 +340,8 @@ circfill(124, 0, 25, 4)
  - [ZZT sweeney first game engine wikipedia](https://en.wikipedia.org/wiki/ZZT)
  - [tim sweeney wikipedia](https://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer))
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
- - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+ - [blender story](https://www.blender.org/about/history/)
+ - [Blender on Wikipedia](https://en.wikipedia.org/wiki/Blender_(software)#History)
  - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
  - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
  - [Unreal_(1998_video_game) wikipedia](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
@@ -357,7 +353,7 @@ circfill(124, 0, 25, 4)
  pandoc --quiet -f latex book.tex -o book.epub
  ```
 ## <h2 id="addition">Προσθήκη υλικού στο βιβλίο:</h2>
-Πρόσθεσα τις εικόνες μου από το 3o παραδοτέο, την μελέτη περίπτωσής μου από το 7ο παραδοτέο και την βιογραφία από το 9ο παραδοτέο στο κεφάλαιο **`Τεχνικές`**(ch04.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο **`Περιβάλλον ανάπτυξης λογισμικού`** τις δύο μου εικόνες μου, την `unreal engine 3` και `blender`, δίοτι αναφερότανε για διαγράμματα ροής δηλαδή για `περιβαλλόντα οπτικού προγραμματισμού` τα οποία χρησιμοποιούνται για να διευκολύνουν τον χρήστη να πραγραμματοποίησει ορισμένες λειτουργίες συνδέοντας απλώς μοτίβα σε μορφή διαγράμματος. Σε αυτήν την περίπτωση για την `unreal engine 3`, παρουσιάζω το εργαλείο της, που ονομάζεται kismet και χρησιμοποιήτε για προγραμματισμό βιντεοπαιχνιδiών χωρίς γράψιμο κώδικα ενώ για το blender αναλύω το εργαλείου του ή αλλιώς `Rapid PBR Material Creator` το οποίο χρησιμοποιήτε κυρίως για την ανάπτυξη `3D γραφικών`. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης της unreal engine` σε αυτό το κεφάλαιο διότι αναφέρεται σε `οπτικό προγραμματισμό`, όπου είναι ένας είδος προγραμματισμού που ο χρήστης δεν είναι υποχρεωμένος να γράψει κώδικα προκειμένου να δημιουργήσει μία λογισμική εφαρμοφή, έτσι και η unreal engine αρχικά φτιάχτηκε για να μπορεί ο κάθε developer βιντεοπαιχνιδιών να φτιάχνει πιο εύκολα και πιο εντυπωσιακά τα βιντεοπαιχνίδια του χρησιμοποιώντας έτοιμα εργαλεία της μηχανής αυτής όπως τη `kismet` ή `blueprint` με αποτέλεσμα να μην χρειάζεται να τα δημιουργήσει από την αρχή, γράφοντας κώδικα από το μηδέν. Τέλος, πρόσθεσα τη `βιογραφία του Tim Sweeney` στο ίδιο κεφάλαιο διοτί είναι εκείνος ο οποίος δημιούργησε την ίδια την unreal engine το 1998. 
+Πρόσθεσα τις εικόνες μου από το 4o παραδοτέο, την μελέτη περίπτωσής μου και την βιογραφία από το 8ο παραδοτέο στο κεφάλαιο **`Σύνθεση`**(ch06.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο **`Ομάδες και οργανισμοί`** τις δύο μου εικόνες μου, την `blender multiuser addon` και `multiuser editing in Unreal`, δίοτι αναφερότανε σε συνεργατικά συστήματα στα οποία υπάρχει ουσιαστικά συμμετοχή σύγχρονη ή ασύγχρονη εξαποστάσεως πολλών χρηστών προκειμένου να αναπτυχθεί ένα συγκεκριμένο λογισμικό. Σε αυτήν την περίπτωση για την `unreal engine`, παρουσιάζω το εργαλείο της, που ονομάζεται multiuser editing που χρησιμοποιείτε προκείμενου, ομάδες χρηστών να μπορούν να δουλεύουν και να συνεργάζονται συγχρόνως σε κοινό project για την ανάπτυξη βιντεοπαιχνιδιών, ενώ για το ανοιχτού κώδικα λογισμικού, blender αναλύω το εργαλείου του, `mixer multiuser addon` το οποίο χρησιμοποιήτε πάλι επιτρέπει τη συνεργασία χρηστών αλλά κυρίως για την ανάπτυξη `3D γραφικών`. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης του blender` σε αυτό το κεφάλαιο διότι αναφέρεται σε `Συνεργατικά συστήματα` και `λογισμικά ανοιχτού κώδικα`, όπου θεωρείται ένα σημαντικό λογισμικό ανοικτού κώδικα το οποίο χρησιμοποιείτε επίσης μέσω του εργαλείου mixer multiuser για την προώθηση της συνεργασίας ομάδων και οργανισμών. Τέλος, πρόσθεσα τη `βιογραφία του Ton Roosendaal` στο ίδιο κεφάλαιο διοτί είναι εκείνος προώθησε αρκετά τα ανοικτού κώδικα λογισμικά, δημιουργώντας την μηχανή ανάπτυξης τρισδιάστατων μοντέλων και animation, με όνομα Blender το 1994.
 
 ## παραθέτω τα παρακάτω links:
 ### [Προσωπικό αποθετήριο](https://github.com/nkanagno):
