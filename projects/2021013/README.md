@@ -238,11 +238,11 @@ git push origin
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/screenshots/inf2021013/A2/unity-forum.png) 
  
  #### Στην ομάδα:
- - [link του βιβλιου σε μορφη pdf στο github](https://github.com/nkanagno/kallipos/issues/1)
- - [link του `lua` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua)
- - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos-contribution/blob/master/unity-forum.md)
- - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
- - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/screenshots/inf2021013/A2/unity-forum.png)
+ - [link του βιβλιου σε μορφη pdf στο github](https://github.com/OMADA11/kallipos/issues/1)
+ - [link του `lua` αρχειου μου](https://github.com/OMADA11/kallipos/blob/master/fun_fact.lua)
+ - [link του `md` αρχειου μου](https://github.com/OMADA11/kallipos-contribution/blob/master/unity-forum.md)
+ - [link του `make-latex.sh`](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
+ - [link του `το screenshot μου`](https://github.com/OMADA11/kallipos/blob/master/screenshots/inf2021013/A2/unity-forum.png)
  
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
