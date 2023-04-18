@@ -285,6 +285,9 @@ circfill(124, 0, 25, 4)
 Όταν εκτελεστεί ο παραπάνω κώδικας τότε εμφανίζεται το παρακάτω τελικό αποτέλεσμα:
 ![map](https://user-images.githubusercontent.com/103074273/229408336-cac73238-3d43-4b9f-9d87-bc0268dcbb48.jpg)
 
+
+PULL REQUEST : https://github.com/potico/ssgj2020-lu/pull/1
+
 # <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
 <h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
