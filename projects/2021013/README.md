@@ -13,14 +13,14 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 | --- | --- | --- | --- |
 | 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
 | 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
-| 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> | | |
-| 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>| | |
-| 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>| | |
-| 6 | <ul><li> [x] <a href="#2nd_pull_request">Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </a></li></ul>| | |
-| 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>| | |
-| 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>| | |
-| 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>| | |
-| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>| | |
+| 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> |  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3](https://github.com/courses-ionio/cscw/discussions/183) | |
+| 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/cscw/discussions/185) | |
+| 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/cscw/discussions/189)| |
+| 6 | <ul><li> [x] <a href="#2nd_pull_request">Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/cscw/discussions/191)| |
+| 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/cscw/discussions/192)| |
+| 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/cscw/discussions/193)| |
+| 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/cscw/discussions/194)| |
+| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/cscw/discussions/19)| |
 
 # <h1 id ="introduction">1ο ΠΑΡΑΔΟΤΕΟ - ΕΙΣΑΓΩΓΗ:</h1>
 Μέσω του μαθήματος Κινητά και κοινωνικά μέσα, ως φοιτητής του ιονίου πανεπιστημίου στο τμήμα πληροφορικής ευελπιστώ να εξοικειωθώ στα παρακάτω:
