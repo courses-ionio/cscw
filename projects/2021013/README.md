@@ -404,7 +404,7 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
 ## παραθέτω τα παρακάτω links:
 ### To [Προσωπικό αποθετήριο](https://github.com/nkanagno):
  - [όλα τα screenshots](https://github.com/nkanagno/kallipos/tree/master/screenshots/inf2021013/B1)
- - [το βιβλίο σε pdf (compressed)](https://github.com/nkanagno/kallipos/issues/2)
+ - [το βιβλίο σε pdf (compressed)](https://github.com/nkanagno/kallipos/issues/1)
  - [τα βιβλία μου (pdf + epub σε full size)](https://github.com/nkanagno/books/)
  - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
 
