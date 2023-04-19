@@ -12,15 +12,15 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
-| 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
-| 3 | Εναλλακτικό σύστημα 1 | | |
-| 4 | Συμμετοχικό περιεχόμενο 1A | | |
-| 5 | Κατασκευή του βιβλίου Α2 | | |
-| 6 | Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) | | |
-| 7 | Εναλλακτικό σύστημα 2 | | |
-| 8 | Συμμετοχικό περιεχόμενο 1B | | |
-| 9 | Κατασκευή του βιβλίου B1 | | |
-| 10 | Τελική αναφορά* | | |
+| 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>|| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
+| 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> | | |
+| 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>| | |
+| 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>| | |
+| 6 | <ul><li> [x] <a href="#2nd_pull_request">Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </a></li></ul>| | |
+| 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>| | |
+| 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>| | |
+| 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>| | |
+| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>| | |
 
 # <h1 id ="introduction">1ο ΠΑΡΑΔΟΤΕΟ - ΕΙΣΑΓΩΓΗ:</h1>
 Μέσω του μαθήματος Κινητά και κοινωνικά μέσα, ως φοιτητής του ιονίου πανεπιστημίου στο τμήμα πληροφορικής ευελπιστώ να εξοικειωθώ στα παρακάτω:
@@ -32,7 +32,7 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
  - Στο να μπορώ να δουλεύω σε ομάδες. Είναι γνωστόν, ότι αφού αποφοιτήσω από το πανεπιστήμιο και μπω στον επαγγελματικό τομέα όπου θα αναγκαστώ να μάθω να συνεργάζομαι με άλλους ανθρώπους. Δηλαδή αν τύχει να δουλέψω σε κάποια εταιρία θα αναγκαστώ να μπω σε μία ομάδα, με είτε πιο έμπειρους είτε λιγότερο έμπειρους από εμένα. Γιαυτό τον λόγο πιστεύω το να μάθω να δουλεύω ομαδικά με άλλους ανθρώπους θα είναι κάτι που θα μου είναι πολύ χρήσιμο στο μέλλον. Αυτό πιστεύω θα το πετύχω μέσω των ομαδικών εργασιών που περιέχει το μάθημα.
  
  
-# <h1 id="1st pull request"> 2ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων):</h1>
+# <h1 id="1st_pull_request"> 2ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων):</h1>
 ## Επεξήγηση παραδοτέου:
 Στο συγκεκριμένο παραδοτέο χρειάστηκε να συνεισφέρουμε στην κεντρική ιστοσελίδα του τμήματος πληροροφορικής στο [netlify](https://epic-hamilton-da9ac8.netlify.app/) μέσω του github αποθετηρίου [sitegr](https://github.com/ioniodi/sitegr), έτσι ώστε να μην διαφέρει τόσο πολύ με την [κύρια ιστοσελίδα του τμήματος πληροφορικής](https://di.ionio.gr/). 
 ## Δήλωση θέματος - issue#414:
@@ -73,7 +73,7 @@ dmouratidi:
 ## Demo link και Pull request:
 Το Demo προσωπικό μου link στο [netlify sitegr](https://nkanagno-sitegr.netlify.app/) (πιο συγκεκριμένα, link στο netlify κατευθείαν στη κατηγορία [προσωπικό](https://nkanagno-sitegr.netlify.app/people/) που έγιναν οι αλλαγές) ως απόδειξη ότι όλα δουλεύουν κανονικά σε νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch), τo [pull request που έκανα στο all_collections](https://github.com/ioniodi/all_collections/pull/70) και το [pull request που έκανα στο sitegr](https://github.com/ioniodi/sitegr/pull/422) του [master branch με το αρχικό submodule του ioniodi](https://github.com/nkanagno/sitegr/tree/master).
 
-# <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό συστημα 1</h1>
+# <h1 id="fantasyconsoles1">3ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό συστημα 1</h1>
 ## Επεξήγηση παραδοτέου:
 Στο συγκεκριμένο παραδοτέο χρειάστηκε να επιλέξουμε τρία fantasy consoles από την κατηγορία FC από την ιστοσελίδα [paladin-t/fantasy](https://github.com/paladin-t/fantasy) και να ταξινομήσουμε σε τρεις νέες κατηγορίες ανάλογα με το περιεχόμενο της κάθε κονσόλας.
 ## Επιλογή κονσολών:
@@ -224,7 +224,7 @@ git push origin
 ### <h3 id="pull5">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/1"> "add my slides and timeline categories"</a>
 
-# <h1 id="BOOK_A">5ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
+# <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α2: </h1>
 ## <h2 id="MD">Η Συνοχή μου στο βιβλίο:</h2>
 Στο κεφάλαιο 4 (τεχνικές), και για περισσότερη στο υποκεφάλαιο `Συνεργατική κατασκευή και ιδιοκτησία` αναφέρει ότι έχει δημιουργηθεί μία ευρεία κίνηση από χομπίστες και ερευνητές οι οποίοι συνεργάζονται, είτε σε ειδικές συναντήσεις είτε με τη βοήθεια του δικτύου για τη σχεδίαση και κατασκευή νέων εργαλείων που διευκολύνουν τη δουλειά τους ή απλώς για διασκέδαση, χωρίς να έχουν εξωτερικά κίνητρα. Μέσα από αυτό μικρό κειμενάκι αποφάσισα να αναφέρω ως fun fact το εργαλείο unity-forum, όπου δίνεται η δυνατότητα σε απλούς χρήστες - χομπίστες του unity, ή ακόμα και ερευνητές, να μπορούν να συζητούν για προβλήματα τα οποία αντιμετωπίζουν, να συνεργάζονται σε κοινά projects, να ανταλάσσουν ιδεές, να κάνουν ερωτήσεις κλπ. Επιπλέον, στο unity forum υπάρχουν και ξεχωριστές κατηγοριές όπου συζητητούν οι developers σε συγκεκριμένα θέματα όπως το animation, 2d games, asset management, graphics, VR development κλπ.
 ## <h2 id="filter">Το φίλτρο μου:</h2>
@@ -238,7 +238,7 @@ git push origin
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/screenshots/inf2021013/A2/unity-forum.png) 
  
  #### Στην ομάδα:
- - [link του βιβλιου σε μορφη pdf στο github](https://github.com/OMADA11/kallipos/issues/1)
+ - [link του βιβλιου σε μορφη pdf στο github](https://github.com/OMADA11/kallipos/issues/11)
  - [link του `lua` αρχειου μου](https://github.com/OMADA11/kallipos/blob/master/fun_fact.lua)
  - [link του `md` αρχειου μου](https://github.com/OMADA11/kallipos-contribution/blob/master/unity-forum.md)
  - [link του `make-latex.sh`](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
@@ -247,7 +247,7 @@ git push origin
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
 
-# <h1 id="1A">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
+# <h1 id="2nd_pull_request">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
 ## DEMO link netlify: 
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
 
@@ -331,7 +331,7 @@ const levels = [
 [bin.rcn.json](https://github.com/nkanagno/ssgj2020-lu/blob/main/bin.rcn.json) τότε έκανα pull request στο αποθετήριο [potico/ssgj2020-lu](https://github.com/potico/ssgj2020-lu).
 PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu/pull/1)
 
-# <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
+# <h1 id="1B">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
 <h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
 Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης τρισδιάστατων μοντέλων και animation `blender`.
@@ -392,7 +392,7 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
  - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
  - [Unreal_(1998_video_game) wikipedia](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
 
-# <h1 id="BOOK_B">9ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Β: </h1>
+# <h1 id="B1">9ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Β1: </h1>
 ## Μετατροπή βιβλίου σε epub:
 Αρχικά πρόσθεσα την εντολη στο [`make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh):
  ```
@@ -402,36 +402,16 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
 Πρόσθεσα τις εικόνες μου από το 4o παραδοτέο, την μελέτη περίπτωσής μου και την βιογραφία από το 8ο παραδοτέο στο κεφάλαιο **`Σύνθεση`**(ch06.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο **`Ομάδες και οργανισμοί`** τις δύο μου εικόνες μου, την `blender multiuser addon` και `multiuser editing in Unreal`, δίοτι αναφερότανε σε συνεργατικά συστήματα στα οποία υπάρχει ουσιαστικά συμμετοχή σύγχρονη ή ασύγχρονη εξαποστάσεως πολλών χρηστών προκειμένου να αναπτυχθεί ένα συγκεκριμένο λογισμικό. Σε αυτήν την περίπτωση για την `unreal engine`, παρουσιάζω το εργαλείο της, που ονομάζεται multiuser editing που χρησιμοποιείτε προκείμενου, ομάδες χρηστών να μπορούν να δουλεύουν και να συνεργάζονται συγχρόνως σε κοινό project για την ανάπτυξη βιντεοπαιχνιδιών, ενώ για το ανοιχτού κώδικα λογισμικού, blender αναλύω το εργαλείου του, `mixer multiuser addon` το οποίο χρησιμοποιήτε πάλι επιτρέπει τη συνεργασία χρηστών αλλά κυρίως για την ανάπτυξη `3D γραφικών`. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης του blender` σε αυτό το κεφάλαιο διότι αναφέρεται σε `Συνεργατικά συστήματα` και `λογισμικά ανοιχτού κώδικα`, όπου θεωρείται ένα σημαντικό λογισμικό ανοικτού κώδικα το οποίο χρησιμοποιείτε επίσης μέσω του εργαλείου mixer multiuser για την προώθηση της συνεργασίας ομάδων και οργανισμών. Τέλος, πρόσθεσα τη `βιογραφία του Ton Roosendaal` στο ίδιο κεφάλαιο διοτί είναι εκείνος προώθησε αρκετά τα ανοικτού κώδικα λογισμικά, δημιουργώντας την μηχανή ανάπτυξης τρισδιάστατων μοντέλων και animation, με όνομα Blender το 1994.
 
 ## παραθέτω τα παρακάτω links:
-### [Προσωπικό αποθετήριο](https://github.com/nkanagno):
- - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
- - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
- - [τα βιβλία(μου σε full size)](https://github.com/nkanagno/books/)
+### To [Προσωπικό αποθετήριο](https://github.com/nkanagno):
+ - [όλα τα screenshots](https://github.com/nkanagno/kallipos/tree/master/screenshots/inf2021013/B1)
+ - [το βιβλίο σε pdf (compressed)](https://github.com/nkanagno/kallipos/issues/2)
+ - [τα βιβλία μου (pdf + epub σε full size)](https://github.com/nkanagno/books/)
  - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
- - [cs-blender.md](https://github.com/nkanagno/extras/blob/master/cs-blender.md)
- - [bio-ton-roosendaal.md](https://github.com/nkanagno/extras/blob/master/bio-ton-roosendaal.md)
- - [blender.md](https://github.com/nkanagno/_gallery/blob/master/blender.md)
- - [blender.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
- - [blender-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg)
- - [blender-multiuser-addon.md](https://github.com/nkanagno/_gallery/blob/master/blender-multiuser-addon.md)
- - [blender-multiuser-addon.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon.jpg)
- - [blender-multiuser-addon-thumb.jpg](https://github.com/nkanagno/images/blob/master/blender-multiuser-addon-thumb.jpg)
- - [multiuser-editing-in-Unreal.md](https://github.com/nkanagno/_gallery/blob/master/multiuser-editing-in-Unreal.md)
- - [multiuser-editing-in-Unreal.jpeg](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal.jpeg)
- - [multiuser-editing-in-Unreal-thumb.jpeg](https://github.com/nkanagno/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg)
 
-### [organization](https://github.com/OMADA11):
- - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
- - [το βιβλίο σε epub (compressed)](https://github.com/OMADA11/kallipos/issues/2)
- - [τα βιβλία(μου σε full size)](https://github.com/OMADA11/books/)
+### Sto [organization](https://github.com/OMADA11):
+ - [όλα τα screenshots](https://github.com/OMADA11/kallipos/tree/master/screenshots/inf2021013/B1)
+ - [το βιβλίο σε pdf (compressed)](https://github.com/OMADA11/kallipos/issues/11)
+ - [τα βιβλία μου (pdf + epub σε full size)](https://github.com/OMADA11/books)
  - [make-latex.sh](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
- - [cs-blender.md](https://github.com/OMADA11/extras/blob/master/cs-blender.md)
- - [bio-ton-roosendaal.md](https://github.com/OMADA11/extras/blob/master/bio-ton-roosendaal.md)
- - [blender.md](https://github.com/OMADA11/_gallery/blob/master/blender.md)
- - [blender.jpg](https://github.com/OMADA11/images/blob/master/blender-PBR.jpg)
- - [blender-thumb.jpg](https://github.com/OMADA11/images/blob/master/blender-PBR-thumb.jpg)
- - [blender-multiuser-addon.md](https://github.com/OMADA11/_gallery/blob/master/blender-multiuser-addon.md)
- - [blender-multiuser-addon.jpg](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon.jpg)
- - [blender-multiuser-addon-thumb.jpg](https://github.com/OMADA11/images/blob/master/blender-multiuser-addon-thumb.jpg)
- - [multiuser-editing-in-Unreal.md](https://github.com/OMADA11/_gallery/blob/master/multiuser-editing-in-Unreal.md)
- - [multiuser-editing-in-Unreal.jpeg](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal.jpeg)
- - [multiuser-editing-in-Unreal-thumb.jpeg](https://github.com/OMADA11/images/blob/master/multiuser-editing-in-Unreal-thumb.jpeg)
+ 
+# <h1 id="FINAL">10ο ΠΑΡΑΔΟΤΕΟ - Τελική αναφορά: </h1>
