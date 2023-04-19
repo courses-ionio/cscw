@@ -266,30 +266,70 @@ git push origin
 [navigation.yml](https://github.com/nkanagno/sitegr/blob/demo-branch/_data/navigation.yml)
 
 # <h1 id="fantasyconsoles2">7ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό σύστημα 2 </h1>
-Στο συγκεκριμένο παραδοτέο έπρεπε να συνεισφέρουμε σε κάποιο project - παιχνίδι κάποιας ομάδας ή ενός χρήστη του github που το έχει γράψει με κώδικα μέσω κάποιας από τις φανταστικές κονσόλες, προσθέτοντας είτε ένα νέο level είτε κάποια απλή λειτουργία σε αυτό. Σε αυτή τη περίπτωση, ο χρήστης [potico](https://github.com/potico) του github έχει δημιουργήσει ένα δικό του project - παιχνίδι το [bin.rcn.json](https://github.com/potico/ssgj2020-lu/blob/main/bin.rcn.json) μέσω της φανταστικής κονσόλας raccoon (με κύρια ιστοσελίδα https://raccoon.computer/) χρησιμοποιώντας κώδικα poy τελειώνει σε `.rcn.json`. Στο συγκεκριμένο παιχνίδι υπάρχει ένας χαρακτήρας ο οποίος εχει ως σκοπό να μεταφέρει συγκεκριμένα αντικείμενα από 
-### Το πρώτο δωμάτιο:
-
-### Στο δεύτερο:
-
-![char_1](https://user-images.githubusercontent.com/103074273/229406533-4f92999b-ecc8-44d5-afdb-06187fcf99b3.jpg)
-![char_2](https://user-images.githubusercontent.com/103074273/229406552-1a883c2c-48cd-48c2-af98-9a3277fd3666.jpg)
-
-Έπειτα μέσω του `code editor` έγραψα τον παρακάτω κώδικα προκειμένου να τα εμφανίσω στο map μου:
+Στο συγκεκριμένο παραδοτέο έπρεπε να συνεισφέρουμε σε κάποιο project - παιχνίδι κάποιας ομάδας ή ενός χρήστη του github που το έχει γράψει με κώδικα μέσω κάποιας από τις φανταστικές κονσόλες, προσθέτοντας είτε ένα νέο level είτε κάποια απλή λειτουργία σε αυτό. Σε αυτή τη περίπτωση, ο χρήστης [potico](https://github.com/potico) του github έχει δημιουργήσει ένα δικό του project - παιχνίδι το [bin.rcn.json](https://github.com/potico/ssgj2020-lu/blob/main/bin.rcn.json) μέσω της φανταστικής κονσόλας raccoon (με κύρια ιστοσελίδα https://raccoon.computer/) χρησιμοποιώντας κώδικα που τελειώνει σε `.rcn.json`. 
+## Βασική ιδέα παιχνιδιού:
+Στο συγκεκριμένο παιχνίδι υπάρχει ένας χαρακτήρας ο οποίος έχει ως σκοπό να μετακινήσει όλα του τα έπιπλα - αντικείμενα από το σπίτι του στο φορτηγό του ώστε να μπορέσει μετακομίσει.<br>
+![easy_50](https://user-images.githubusercontent.com/103074273/232927983-9672cfa8-87e8-4372-a212-348c9c2c2cde.jpg) `------------------------------------>`
+![truck_easy_1_50](https://user-images.githubusercontent.com/103074273/232927667-1d437cc0-5d3a-4da7-aa87-3226e987611e.jpg)
+## Levels:
+### EASY:
+![easy_1_40](https://user-images.githubusercontent.com/103074273/232935312-88fc26bf-2e53-4e4e-b950-1ea15a25fba7.jpg)
+### HARD:
+![hard_40](https://user-images.githubusercontent.com/103074273/232935329-24ce15dd-d519-498c-84c1-70a283916141.jpg)
+### CATS:
+![cats_40](https://user-images.githubusercontent.com/103074273/232935354-a39ae64a-574b-49bc-916d-db01894e387d.jpg)
+## Η προσθήκη μου:
+Ως συνεισφορά, αποφάσισα να προσθέσω ένα νέο level το οποίο το ονόμασα `DOGS`. Για να το καταφέρω αυτό αρχικά σχεδιάσα και δημιούργησα έναν νέο sprite - object το οποίο το ονόμασα `dog` και μοιάζει έτσι στον sprite editor:<br>
+![dog-pallete](https://user-images.githubusercontent.com/103074273/232888147-5828c0d5-d524-4362-87e5-83fd646d67fd.jpg)<br>
+με height=2 και width=2, καθώς και το πρόσθεσα στα αντικείμενα `const tpl= {...}` τον παρακάτω κώδικα: <br> 
 ```
-cls(c=6)
-palset(6, 0, 100, 255)
-rectfill(0, 100, 300, 50, 5)
-spr(0, 40, 92, w=1.0, h=1.0, fx=false, fy=false)
-spr(1, 80, 92, w=1.0, h=1.0, fx=false, fy=false)
-circfill(124, 0, 25, 4)
+dog: {spr: 24, w: 2, h: 2}
 ```
-όπου με την συνάρτηση `cls(c=6)` γεμίσω το background χρώμα με το 6ο χρώμα της παλέτας σε αυτή την περίπτωση ήταν το μωβ αλλά επειδή προτιμησα να είναι μπλε άλλαξα με τη συνάρτηση `palset(6, 0, 100, 255)` όπου χρησιμοποίητε το 6ο χρώμα να είναι μπλε αντί για μωβ. Έφτιαξά το έδαφος με την εντολή `rectfill(0, 100, 300, 50, 5)` με χρώμα το 5ο της παλέτας όπου ήταν το πράσινο στις συντεταγμένες x=0 και y=100, με διαστάσεις width=300 και height=50. Μετά, με τις εντολές `spr(0, 40, 92, w=1.0, h=1.0, fx=false, fy=false)` και `spr(1, 80, 92, w=1.0, h=1.0, fx=false, fy=false)` εμφάνισα τους δύο χαρακτήρες μου που δημιούργησα έτσι ώστε να βρίσκονται ακριβώς πάνω στο έδαφος που δημιούργησα προηγούμενος αλλά σε διαφορετικές θέσεις. Τέλος, με τη συνάρτηση `circfill(124, 0, 25, 4)` έφτιαξα το ήλιο, ο οποίος είναι ουσιαστικά ένας κύκλος με ακτίνα ίση με 25, είναι γεμισμένος με το 4ο χρώμα της παλέτας το κίτρινο και βρίσκεται στις συντεταγμένες x=124 και y=0.
+Έπειτα, έφτιαξα το δικό μου level προσθέτοντας στο 
+```
+const levels = [
+  {
+    name: "EASY",
+    objects: [...],
+  },
+  {...},
+  {
+    name: "DOGS",
+    objects: [{t: tpl.dog, x: 5, y: 3},
+      {t: tpl.dog, x: 7, y: 3},
+      {t: tpl.dog, x: 9, y: 3},
+      {t: tpl.dog, x: 3, y: 5},
+      {t: tpl.dog, x: 3, y: 7},
+      {t: tpl.dog, x: 3, y: 9},
+      {t: tpl.dog, x: 11, y: 5},
+      {t: tpl.dog, x: 11, y: 7},
+      {t: tpl.dog, x: 11, y: 9},
+      {t: tpl.dog, x: 5, y: 11},
+      {t: tpl.dog, x: 7, y: 11},
+      {t: tpl.dog, x: 9, y: 11},
+      {t: tpl.pillar, x: 7, y: 7},
+      {t: tpl.pillar, x: 7, y: 8},
+      {t: tpl.pillar, x: 8, y: 7},
+      {t: tpl.pillar, x: 8, y: 8},],
+  },
+];
+```
+ως name "DOGS", προσθέτοντας στο map μου το sprite `dog` που σχεδίασα και τέσσερα ακούνητα εμπόδια.
+## Τελικό Αποτέλεσμα
+![finished_level](https://user-images.githubusercontent.com/103074273/232931269-4a09f6f5-bfb2-4e0b-a1ca-a9273baa688d.jpg)
+## Μenu Βug fixed:
+Όταν πρόσθεσα το δικό μου level υπήρξε ένα <a href="#bug"> bug </a> το οποίο άφηνε την επιλογή "CONTROLS" να φαίνεται ότι βρίσκεται εκτός menu και αυτό το το δίόρθωσα αλλάζοντας το ύψος της άσπρης εξωτερικής γραμμής από 34 σε 40 και το ύψος του μάυρου background που έχει το menu από 32 σε 39 στην παρακάτω συνάρτηση:
+![image](https://user-images.githubusercontent.com/103074273/232897024-eb4d5497-1603-48eb-bdcd-36090f939ed6.png)
+##  <h2 id="bug"> The bug: </h2>
+### before:
+![menu-before](https://user-images.githubusercontent.com/103074273/232891316-773f26c5-0f28-4bef-9eab-f7e5355954bf.jpg) 
+### after:
+![menu-after_55](https://user-images.githubusercontent.com/103074273/232892867-1276acf8-a138-4cad-9af1-4effe844e183.jpg)
 
-Όταν εκτελεστεί ο παραπάνω κώδικας τότε εμφανίζεται το παρακάτω τελικό αποτέλεσμα:
-![map](https://user-images.githubusercontent.com/103074273/229408336-cac73238-3d43-4b9f-9d87-bc0268dcbb48.jpg)
-
-
-PULL REQUEST : https://github.com/potico/ssgj2020-lu/pull/1
+## PULL REQUEST: 
+Έχοντας κάνει `fork` από πριν σε δικό μου αποθετήριο [nkanagno/ssgj2020-lu](https://github.com/nkanagno/ssgj2020-lu) αφότου έκανα τις παραπάνω αλλαγές στο αρχείο
+[bin.rcn.json](https://github.com/nkanagno/ssgj2020-lu/blob/main/bin.rcn.json) τότε έκανα pull request στο αποθετήριο [potico/ssgj2020-lu](https://github.com/potico/ssgj2020-lu).
+PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu/pull/1)
 
 # <h1 id="BOOK_A">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
