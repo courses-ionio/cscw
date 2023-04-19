@@ -12,7 +12,7 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
-| 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>|| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
+| 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
 | 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> | | |
 | 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>| | |
 | 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>| | |
