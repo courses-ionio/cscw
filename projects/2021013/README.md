@@ -248,6 +248,31 @@ git push origin
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
 
 # <h1 id="2nd_pull_request">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
+## Επεξήγηση Παραδοτέου:
+Στο συγκεκριμένο χρειάστηκε να συνεισφέρουμε στην κεντρική ιστοσελίδα του τμήματος πληροροφορικής στο [netlify](https://epic-hamilton-da9ac8.netlify.app/) μέσω του github αποθετηρίου [sitegr](https://github.com/ioniodi/sitegr) χρησιμοποιώντας liquid-html, έτσι ώστε να μην διαφέρει τόσο πολύ με την [κύρια ιστοσελίδα του τμήματος πληροφορικής](https://di.ionio.gr/). 
+## Δήλωση θέματος - issue#414:
+Αρχικά, δημιούργησα ένα [issue#414](https://github.com/ioniodi/sitegr/issues/414) στο αποθετήριο [sitegr](https://github.com/ioniodi/sitegr) του github δηλώνοντας το θέμα μου και περιμένοντας το `green light` από κάποιο καθηγητή, προκειμένου να μην καταλήξω να έχω την ίδια προσθήκη με κάποιον άλλο συμφοιτητή μου. Πιο συγκεκριμένα, προσωπικά επέλεξα να κάνω την εξής αλλαγή:
+
+    Πρόσθεση του html layout [`Erasmus+`](https://di.ionio.gr/gr/students/erasmus/) ακριβώς έτσι όπως είναι χρησιμοποιώντας έτοιμα δεδομένα από το all_collection.
+## Η συνεισφορά μου σε demo branch:
+Αρχικά, έκανα `fork` το [sitegr από το ioniodi](https://github.com/ioniodi/sitegr) από το <a href="https://github.com/nkanagno"> github profile μου</a>, μετά έφτιαξα νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) για τις αλλαγές στο netlify, έπειτα σε αυτό το [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) έφτιαξα τo submodule του, αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/nkanagno/sitegr/blob/master/.gitmodules) και εκτελόντας τις παρακάτω εντολές:
+```
+git clone https://github.com/nkanagno/sitegr
+cd sitegr/
+git submodule update --remote --init
+git submodule update --remote --merge
+git add .
+git commit -m "update submodules"
+git push origin
+```
+Έπειτα μπήκα στο φάκελο `_data`, και έγραψα τα παρακάτω στο αρχείο navigation.yml προσθέτωντας έτσι το δικό μου layout, Erasmus+:
+```
+- title: "Erasmus+"
+    url: "/erasmus/"
+```
+και στο φάκελο `_pages` πρόσθεσα το αρχείο erasmus.html 
+
+
 ## DEMO link netlify: 
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
 
