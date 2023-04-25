@@ -311,7 +311,8 @@ const levels = [
       {t: tpl.pillar, x: 7, y: 7},
       {t: tpl.pillar, x: 7, y: 8},
       {t: tpl.pillar, x: 8, y: 7},
-      {t: tpl.pillar, x: 8, y: 8},],
+      {t: tpl.pillar, x: 8, y: 8},
+    ],
   },
 ];
 ```
