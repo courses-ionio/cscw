@@ -295,7 +295,8 @@ const levels = [
   {...},
   {
     name: "DOGS",
-    objects: [{t: tpl.dog, x: 5, y: 3},
+    objects: [
+      {t: tpl.dog, x: 5, y: 3},
       {t: tpl.dog, x: 7, y: 3},
       {t: tpl.dog, x: 9, y: 3},
       {t: tpl.dog, x: 3, y: 5},
