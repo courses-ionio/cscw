@@ -255,6 +255,7 @@ git push origin
 
     Πρόσθεση του html layout [`Erasmus+`](https://di.ionio.gr/gr/students/erasmus/) ακριβώς έτσι όπως είναι χρησιμοποιώντας έτοιμα δεδομένα από το all_collection.
 ## Η συνεισφορά μου σε demo branch:
+### sitegr
 Αρχικά, έκανα `fork` το [sitegr από το ioniodi](https://github.com/ioniodi/sitegr) από το <a href="https://github.com/nkanagno"> github profile μου</a>, μετά έφτιαξα νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) για τις αλλαγές στο netlify, έπειτα σε αυτό το [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) έφτιαξα τo submodule του, αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/nkanagno/sitegr/blob/master/.gitmodules) και εκτελόντας τις παρακάτω εντολές:
 ```
 git clone https://github.com/nkanagno/sitegr
@@ -271,8 +272,8 @@ git push origin
     url: "/erasmus/"
 ```
 και στο φάκελο `_pages` πρόσθεσα το αρχείο erasmus.html 
-
-
+### all_collection:
+Προσθήκη της ιστοσελίδας Erasmus+ με πίνακες που χρησιμοποιούν έτοιμα δεδομένα από το all_collection. Πιο συγκεκριμένα, έφτιαξα χρησιμοποιώντας liquid τους 2 πίνακες που έχει ήδη στην επίσημη ιστοσελίδα και στο [all_collection](https://github.com/nkanagno/all_collections/tree/master/_courses) έφτιαξα 2 νέες μεταβλητές σε κάθε μάθημα που υπάρχει στους πινάκες. Η πρώτη μεταβλητή είναι η `Erasmus_courses_with_English_instruction` όπου δείχνει αν στο συγκεκριμένο μάθημα γίνεται διδασκαλία στην αγγλική γλώσσα ή όχι (δηλαδή αν ανοίκει στον πρώτο πίνακα ή στον δεύτερο). Η δεύτερη μεταβλητή είναι η `AA` όπου χρησιμοποιήτε προκειμένου να ταξινομηθούν σωστά τα μαθήματα σε κάθε πίνακα. 
 ## DEMO link netlify: 
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
 
