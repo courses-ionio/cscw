@@ -279,32 +279,32 @@ permalink: "/erasmus/"
 ---
 {% include erasmus.html %}
 ```
-### minimal-ionio:
-Αρχικά, έκανα `fork` το [minimal-ionio από το ioniodi](https://github.com/ioniodi/minimal-ionio) από το <a href="https://github.com/nkanagno"> github profile μου</a>, έπειτα πρόσθεσα στον φάκελο `_includes` τα παρακάτω αρχεία:
-- [erasmus.html:](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus.html)
-  Το συγκεκριμένο αρχείο είναι το αρχείο το οποίο προανέφερα που γίνεται include από το erasmus.html του sitegr και είναι το κεντρικό layout που χρησιμοποιώ. Πιο συγκεκριμένα περιέχει την αρχική εικόνα που έχει το erasmus site και κάνει έπειτα include τo html αρχείο [`erasmus-download-links.html`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html) όπου έχει ορισμένα links που αν ο χρήστης πατήσει πάνω τους τότε γίνονται λήψη τα αντίστοιχα pdf αρχεία. Στη συνέχεια, περιέχει δύο παραγράφους με λίγα λόγια ως ενημέρωση για τους εισερχόμενους και τους εξερχόμενους φοιτητές του προγράμματος Erasmus+, και αμέσως μετά κάνει include τον πρώτο πίνακα ή αλλίως το αρχείο 
-[erasmus-table1.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `με διδασκαλία` στην αγγλική γλώσσα και εξέταση φοιτητών είτε με γραπτή εξέταση είτε με απαλλακτική εργασία διατυπωμένη στην αγγλική γλώσσα. Μετά, γίνεται include και τον δεύτερο πίνακα ή αλλίως το αρχείο [erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `χωρίς διδασκαλία` και με εξέταση φοιτητών μέσω απαλλακτικής εργασίας διατυπωμένης στην αγγλική γλώσσα. Τέλος, περιέχει αρκετές πληροφορίες που αφορούν την Πρακτική Άσκηση ERA-PLACES. 
- - [erasmus-download-links.html:](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html)
-   Στο αρχείο `erasmus-download-links.html` πρόσθεσα 3 html links `<a></a>`
- #### 
- ####
 ## all_collection:
 Προσθήκη της ιστοσελίδας Erasmus+ με πίνακες που χρησιμοποιούν έτοιμα δεδομένα από το all_collection. Πιο συγκεκριμένα, έφτιαξα χρησιμοποιώντας liquid τους 2 πίνακες που έχει ήδη στην επίσημη ιστοσελίδα και στο [all_collection](https://github.com/nkanagno/all_collections/tree/master/_courses) έφτιαξα 2 νέες μεταβλητές σε κάθε μάθημα που υπάρχει στους πινάκες. Η πρώτη μεταβλητή είναι η `Erasmus_courses_with_English_instruction` όπου δείχνει αν στο συγκεκριμένο μάθημα γίνεται διδασκαλία στην αγγλική γλώσσα ή όχι (δηλαδή αν ανοίκει στον πρώτο πίνακα ή στον δεύτερο). Η δεύτερη μεταβλητή είναι η `AA` όπου χρησιμοποιήτε προκειμένου να ταξινομηθούν σωστά τα μαθήματα σε κάθε πίνακα. 
+
+### minimal-ionio:
+Αρχικά, έκανα `fork` το [minimal-ionio από το ioniodi](https://github.com/ioniodi/minimal-ionio) από το <a href="https://github.com/nkanagno"> github profile μου</a>, έπειτα πρόσθεσα στον φάκελο `_includes` τα παρακάτω αρχεία:
+- [`erasmus.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus.html)<br>
+  Το συγκεκριμένο αρχείο είναι το αρχείο το οποίο προανέφερα που γίνεται include από το erasmus.html του sitegr και είναι το κεντρικό layout που χρησιμοποιώ. Πιο συγκεκριμένα περιέχει την αρχική εικόνα που έχει το erasmus site και κάνει έπειτα include τo html αρχείο [`erasmus-download-links.html`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html) όπου έχει ορισμένα links που αν ο χρήστης πατήσει πάνω τους τότε γίνονται λήψη τα αντίστοιχα pdf αρχεία. Στη συνέχεια, περιέχει δύο παραγράφους με λίγα λόγια ως ενημέρωση για τους εισερχόμενους και τους εξερχόμενους φοιτητές του προγράμματος Erasmus+, και αμέσως μετά κάνει include τον πρώτο πίνακα ή αλλίως το αρχείο [erasmus-table1.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `με διδασκαλία` στην αγγλική γλώσσα και εξέταση φοιτητών είτε με γραπτή εξέταση είτε με απαλλακτική εργασία διατυπωμένη στην αγγλική γλώσσα. Μετά, γίνεται include και τον δεύτερο πίνακα ή αλλίως το αρχείο [erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `χωρίς διδασκαλία` και με εξέταση φοιτητών μέσω απαλλακτικής εργασίας διατυπωμένης στην αγγλική γλώσσα. Τέλος, περιέχει αρκετές πληροφορίες που αφορούν την Πρακτική Άσκηση ERA-PLACES. 
+  
+- [`erasmus-download-links.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html)<br>
+   Στο αρχείο `erasmus-download-links.html` πρόσθεσα 3 html links `<a></a>` τα οποία με την χρήση css τα έκανα έτσι ώστε να φαίνονται κάπως έτσι:
+   ![download](https://user-images.githubusercontent.com/103074273/234655816-e50740b4-756d-4d89-8700-a3c5ecdbb098.jpg)
+ 
+- [`erasmus-table1.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html)
+   Αρχικά ο πρώτος πίνακας ως στήλες περιλαμβάνει τον αριθμό `ΑΑ` του μαθήματος, τον τίτλο του μαθήματος, το εξάμηνο κατά το οποίο διδάσκεται το μάθημα, τον κωδικό του μαθήματος και τον αριθμό των μονάδων ECTS που αντιστοιχούν στο μάθημα. Έπειτα, με την χρήση liquid, πρώτα δηλώνει και αρχικοποιεί μία μεταβλητή counter σε 0, κάνει ένα loop από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν σε κάθε μάθημα η μεταβλητή του `Erasmus_courses_with_English_instruction` είναι `ναι` δηλαδή γίνεται διδασκαλία στην αγγλική γλώσσα τότε αυξάνεται ο counter ανα 1 και έπειτα κάνει άλλη μία εμφωλευμένη loopa από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν ο αριθμός που βρίσκεται η μεταβλητή counter αντιστοιχεί στην μεταβλητή `AA` του τρέχον μαθήματος στο οποίο βρίσκεται εκείνη την στιγμή στην loopa προκειμένου να ταξινομηθούν σωστά όλα τα μαθήματα. Τέλος ξαναελένχει αν το μάθημα της δεύτερης loops γίνεται με διδασκαλία και αν ισχύουν όλα τα παραπάνω if τότε εμφανίζει τα δεδομένα του κάθε μαθήματος σε κάθε στήλη ταξινομημένα καταλλήλως (ΑΑ, title, semester, code, ects). 
+   
+- [`erasmus-table2.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html)
+   Αρχικά ο πρώτος πίνακας ως στήλες περιλαμβάνει τον αριθμό `ΑΑ` του μαθήματος, τον τίτλο του μαθήματος, το εξάμηνο κατά το οποίο διδάσκεται το μάθημα, τον κωδικό του μαθήματος και τον αριθμό των μονάδων ECTS που αντιστοιχούν στο μάθημα. Έπειτα, με την χρήση liquid, πρώτα δηλώνει και αρχικοποιεί μία μεταβλητή counter σε 0, κάνει ένα loop από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν σε κάθε μάθημα η μεταβλητή του `Erasmus_courses_with_English_instruction` είναι `όχι` δηλαδή δεν γίνεται διδασκαλία στην αγγλική γλώσσα τότε αυξάνεται ο counter ανα 1 και έπειτα κάνει άλλη μία εμφωλευμένη loopa από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν ο αριθμός που βρίσκεται η μεταβλητή counter αντιστοιχεί στην μεταβλητή `AA` του τρέχον μαθήματος στο οποίο βρίσκεται εκείνη την στιγμή στην loopa προκειμένου να ταξινομηθούν σωστά όλα τα μαθήματα. Τέλος ξαναελένχει αν το μάθημα της δεύτερης loops δεν γίνεται με διδασκαλία και αν ισχύουν όλα τα παραπάνω if τότε εμφανίζει τα δεδομένα του κάθε μαθήματος σε κάθε στήλη ταξινομημένα καταλλήλως (ΑΑ, title, semester, code, ects). 
+
+
 ## DEMO link netlify: 
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
 
-# links με τον πηγαίος κώδικας html-liquid που έγραψα:
-### minimal-ionio (_includes):
-
-[erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html)
-[erasmus-download-links.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html)
-
-### sitegr:
-[erasmus.html](https://github.com/nkanagno/sitegr/blob/demo-branch/_pages/erasmus.html)
-[`erasmus.yml`](https://github.com/nkanagno/sitegr/blob/demo-branch/_data/erasmus.yml)
-
-#### Οι Αλλαγές που έγιναν στο navigation.yml: 
-[navigation.yml](https://github.com/nkanagno/sitegr/blob/demo-branch/_data/navigation.yml)
+## pull requests
+### sitegr : 
+### all_collections :
+### minimal-ionio : 
 
 # <h1 id="fantasyconsoles2">7ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό σύστημα 2 </h1>
 Στο συγκεκριμένο παραδοτέο έπρεπε να συνεισφέρουμε σε κάποιο project - παιχνίδι κάποιας ομάδας ή ενός χρήστη του github που το έχει γράψει με κώδικα μέσω κάποιας από τις φανταστικές κονσόλες, προσθέτοντας είτε ένα νέο level είτε κάποια απλή λειτουργία σε αυτό. Σε αυτή τη περίπτωση, ο χρήστης [potico](https://github.com/potico) του github έχει δημιουργήσει ένα δικό του project - παιχνίδι το [bin.rcn.json](https://github.com/potico/ssgj2020-lu/blob/main/bin.rcn.json) μέσω της φανταστικής κονσόλας raccoon (με κύρια ιστοσελίδα https://raccoon.computer/) χρησιμοποιώντας κώδικα που τελειώνει σε `.rcn.json`. 
