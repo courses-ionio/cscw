@@ -252,7 +252,6 @@ git push origin
 Στο συγκεκριμένο χρειάστηκε να συνεισφέρουμε στην κεντρική ιστοσελίδα του τμήματος πληροροφορικής στο [netlify](https://epic-hamilton-da9ac8.netlify.app/) μέσω του github αποθετηρίου [sitegr](https://github.com/ioniodi/sitegr) χρησιμοποιώντας liquid-html, έτσι ώστε να μην διαφέρει τόσο πολύ με την [κύρια ιστοσελίδα του τμήματος πληροφορικής](https://di.ionio.gr/). 
 ## Δήλωση θέματος - issue#414:
 Αρχικά, δημιούργησα ένα [issue#414](https://github.com/ioniodi/sitegr/issues/414) στο αποθετήριο [sitegr](https://github.com/ioniodi/sitegr) του github δηλώνοντας το θέμα μου και περιμένοντας το `green light` από κάποιο καθηγητή, προκειμένου να μην καταλήξω να έχω την ίδια προσθήκη με κάποιον άλλο συμφοιτητή μου. Πιο συγκεκριμένα, προσωπικά επέλεξα να κάνω την εξής αλλαγή:
-
     Πρόσθεση του html layout [`Erasmus+`](https://di.ionio.gr/gr/students/erasmus/) ακριβώς έτσι όπως είναι χρησιμοποιώντας έτοιμα δεδομένα από το all_collection.
 ## Η συνεισφορά μου σε demo branch:
 ### sitegr
