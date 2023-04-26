@@ -250,9 +250,9 @@ git push origin
 # <h1 id="2nd_pull_request">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
 ## Επεξήγηση Παραδοτέου:
 Στο συγκεκριμένο χρειάστηκε να συνεισφέρουμε στην κεντρική ιστοσελίδα του τμήματος πληροροφορικής στο [netlify](https://epic-hamilton-da9ac8.netlify.app/) μέσω του github αποθετηρίου [sitegr](https://github.com/ioniodi/sitegr) χρησιμοποιώντας liquid-html, έτσι ώστε να μην διαφέρει τόσο πολύ με την [κύρια ιστοσελίδα του τμήματος πληροφορικής](https://di.ionio.gr/). 
-## Δήλωση θέματος - issue#414:
-Αρχικά, δημιούργησα ένα [issue#414](https://github.com/ioniodi/sitegr/issues/414) στο αποθετήριο [sitegr](https://github.com/ioniodi/sitegr) του github δηλώνοντας το θέμα μου και περιμένοντας το `green light` από κάποιο καθηγητή, προκειμένου να μην καταλήξω να έχω την ίδια προσθήκη με κάποιον άλλο συμφοιτητή μου. Πιο συγκεκριμένα, προσωπικά επέλεξα να κάνω την εξής αλλαγή:
-    Πρόσθεση του html layout [`Erasmus+`](https://di.ionio.gr/gr/students/erasmus/) ακριβώς έτσι όπως είναι χρησιμοποιώντας έτοιμα δεδομένα από το all_collection.
+## Δήλωση θέματος - issue#426:
+Αρχικά, δημιούργησα ένα [issue#426](https://github.com/ioniodi/sitegr/issues/426) στο αποθετήριο [sitegr](https://github.com/ioniodi/sitegr) του github δηλώνοντας το θέμα μου και περιμένοντας το `green light` από κάποιο καθηγητή, προκειμένου να μην καταλήξω να έχω την ίδια προσθήκη με κάποιον άλλο συμφοιτητή μου. Πιο συγκεκριμένα, προσωπικά επέλεξα να κάνω την εξής αλλαγή:
+ - Πρόσθεση του html layout [`Erasmus+`](https://di.ionio.gr/gr/students/erasmus/) ακριβώς έτσι όπως είναι χρησιμοποιώντας έτοιμα δεδομένα από το all_collection.
 ## Η συνεισφορά μου σε demo branch:
 ### sitegr
 Αρχικά, έκανα `fork` το [sitegr από το ioniodi](https://github.com/ioniodi/sitegr) από το <a href="https://github.com/nkanagno"> github profile μου</a>, μετά έφτιαξα νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) για τις αλλαγές στο netlify, έπειτα σε αυτό το [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch) έφτιαξα τo submodule του, αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/nkanagno/sitegr/blob/master/.gitmodules) και εκτελόντας τις παρακάτω εντολές:
@@ -279,8 +279,14 @@ permalink: "/erasmus/"
 ---
 {% include erasmus.html %}
 ```
-## minimal-ionio:
-Αρχικά, έκανα `fork` το [minimal-ionio από το ioniodi](https://github.com/ioniodi/minimal-ionio) από το <a href="https://github.com/nkanagno"> github profile μου</a>,
+### minimal-ionio:
+Αρχικά, έκανα `fork` το [minimal-ionio από το ioniodi](https://github.com/ioniodi/minimal-ionio) από το <a href="https://github.com/nkanagno"> github profile μου</a>, έπειτα πρόσθεσα στον φάκελο `_includes` τα παρακάτω αρχεία:
+- [erasmus.html:](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus.html)
+  Το συγκεκριμένο αρχείο είναι το αρχείο το οποίο προανέφερα που γίνεται include από το erasmus.html του sitegr και είναι το κεντρικό layout που χρησιμοποιώ. Πιο συγκεκριμένα περιέχει την αρχική εικόνα που έχει το erasmus site και κάνει έπειτα include τo html αρχείο [`erasmus-download-links.html`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html) όπου έχει ορισμένα links που αν ο χρήστης πατήσει πάνω τους τότε γίνονται λήψη τα αντίστοιχα pdf αρχεία. Στη συνέχεια, περιέχει δύο παραγράφους με λίγα λόγια ως ενημέρωση για τους εισερχόμενους και τους εξερχόμενους φοιτητές του προγράμματος Erasmus+, και αμέσως μετά κάνει include τον πρώτο πίνακα ή αλλίως το αρχείο 
+[erasmus-table1.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `με διδασκαλία` στην αγγλική γλώσσα και εξέταση φοιτητών είτε με γραπτή εξέταση είτε με απαλλακτική εργασία διατυπωμένη στην αγγλική γλώσσα. Μετά, γίνεται include και τον δεύτερο πίνακα ή αλλίως το αρχείο [erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html) όπου περιέχει όλα τα Μαθήματα Προπτυχιακού Προγράμματος Σπουδών `χωρίς διδασκαλία` και με εξέταση φοιτητών μέσω απαλλακτικής εργασίας διατυπωμένης στην αγγλική γλώσσα. Τέλος, 
+ ####
+ ####
+ ####
 ## all_collection:
 Προσθήκη της ιστοσελίδας Erasmus+ με πίνακες που χρησιμοποιούν έτοιμα δεδομένα από το all_collection. Πιο συγκεκριμένα, έφτιαξα χρησιμοποιώντας liquid τους 2 πίνακες που έχει ήδη στην επίσημη ιστοσελίδα και στο [all_collection](https://github.com/nkanagno/all_collections/tree/master/_courses) έφτιαξα 2 νέες μεταβλητές σε κάθε μάθημα που υπάρχει στους πινάκες. Η πρώτη μεταβλητή είναι η `Erasmus_courses_with_English_instruction` όπου δείχνει αν στο συγκεκριμένο μάθημα γίνεται διδασκαλία στην αγγλική γλώσσα ή όχι (δηλαδή αν ανοίκει στον πρώτο πίνακα ή στον δεύτερο). Η δεύτερη μεταβλητή είναι η `AA` όπου χρησιμοποιήτε προκειμένου να ταξινομηθούν σωστά τα μαθήματα σε κάθε πίνακα. 
 ## DEMO link netlify: 
@@ -288,8 +294,7 @@ permalink: "/erasmus/"
 
 # links με τον πηγαίος κώδικας html-liquid που έγραψα:
 ### minimal-ionio (_includes):
-[erasmus.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus.html)
-[erasmus-table1.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html)
+
 [erasmus-table2.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html)
 [erasmus-download-links.html](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-download-links.html)
 
