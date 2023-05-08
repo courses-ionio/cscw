@@ -236,7 +236,7 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 
   * [Negroponte.md](https://github.com/Axileaszervos/site/blob/master/_biography/Negroponte.md)
   * [Cisco-Webex.md](https://github.com/OMADA11/site/blob/master/_case-study/Cisco-Webex.md)
-  * [bio-Negreponte.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Negreponte.md)
+  * [bio-Negroponte.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Negreponte.md)
   * [cs-Webex.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-Webex.md)
 
  ## Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
@@ -248,13 +248,13 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 
 
 ## Link για την μελέτη περίπτωσης και για την βιογραφία στο προσωπικό μου site
-* [Negreponte-bio](https://axileaszervos.netlify.app/biography/negroponte/)
-* [Webec-cs](https://axileaszervos.netlify.app/case-study/cisco-webex/)
+* [bio-Negroponte](https://axileaszervos.netlify.app/biography/negroponte/)
+* [cs-Webex](https://axileaszervos.netlify.app/case-study/cisco-webex/)
 
 
 ## Link για την μελέτη περίπτωσης για την βιογραφία στο site της ομάδας μου
-* [Negreponte-bio](https://omada11.netlify.app/biography/negroponte/)
-* [Webec-cs](https://omada11.netlify.app/case-study/cisco-webex/)
+* [bio-Negroponte](https://omada11.netlify.app/biography/negroponte/)
+* [cs-Webex](https://omada11.netlify.app/case-study/cisco-webex/)
 
 ## Pull Request
 * [biography](https://github.com/OMADA11/site/pull/6)
