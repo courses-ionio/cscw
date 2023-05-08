@@ -149,14 +149,16 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [Εκπαιδευτικά εργαλεία](https://github.com/OMADA11/site/blob/master/_slides/Edtuools.md)
 * [Συστήματα τηλεδιασκέψεων](https://github.com/OMADA11/site/blob/master/_slides/Webconf.md)
 
-## site
-### slides
+## Site
+
+### Timelines
+* [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/)
+* [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/timeline/webconftimeline/)
+
+### Slides
 * [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/slides/edtuools/)
 * [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/slides/webconf/)
 
-### timelines
-* [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/)
-* [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/timeline/webconftimeline/)
 
 ## Pull Request
  * [slides](https://github.com/OMADA11/site/pull/4) 
