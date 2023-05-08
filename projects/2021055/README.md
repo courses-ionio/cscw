@@ -12,11 +12,11 @@
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) |https://github.com/courses-ionio/cscw/discussions/178 | |
 | 3 | Εναλλακτικό σύστημα | https://github.com/courses-ionio/cscw/discussions/181| |
 | 4 | Συμμετοχικό περιεχόμενο 1A |https://github.com/courses-ionio/cscw/discussions/184 | |
-| 5 | Κατασκευή του βιβλίου Α2 | | |
-| 6 | Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) | | |
-| 7 | Εναλλακτικό σύστημα | | |
-| 8 | Συμμετοχικό περιεχόμενο 1B | | |![Edmodo(1)](https://user-images.githubusercontent.com/115211756/224569729-cbee2846-3358-4d0e-be1b-0d7d916027c0.png)
-| 9 | Κατασκευή του βιβλίου B1 | | |
+| 5 | Κατασκευή του βιβλίου Α2 |https://github.com/courses-ionio/cscw/discussions/188 | |
+| 6 | Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) |https://github.com/courses-ionio/cscw/discussions/196 | |
+| 7 | Εναλλακτικό σύστημα |https://github.com/courses-ionio/cscw/discussions/190 | |
+| 8 | Συμμετοχικό περιεχόμενο 1B |https://github.com/courses-ionio/cscw/discussions/195 | | 
+| 9 | Κατασκευή του βιβλίου B1 |https://github.com/courses-ionio/cscw/discussions/197 | |
 | 10 | Τελική αναφορά* | | |
 
 # ΠΑΡΑΔΟΤΕΟ 1 - ΕΙΣΑΓΩΓΗ
