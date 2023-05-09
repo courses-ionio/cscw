@@ -240,7 +240,7 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 ![Screenshot from 2023-04-14 15-13-38](https://user-images.githubusercontent.com/115211756/232040734-fd7c1853-28c4-48fa-b5f2-072820eabe78.png)
 
 * [Πηγαίος κώδικας]([https://github.com/Axileaszervos/Demo-Bitmelo/blob/main/code](https://github.com/Axileaszervos/Demo-Bitmelo/blob/main/NewCode))
-* [Demo](https://mydemogame.netlify.app/)
+* [Demo](https://earnest-maamoul-e0f811.netlify.app/)
 
 
 # ΠΑΡΑΔΟΤΕΟ 8 - ΣΥΜΜΕΤΟΧΙΚΌ ΠΕΡΙΕΧΌΜΕΝΟ 1B
