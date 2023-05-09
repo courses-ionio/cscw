@@ -301,9 +301,9 @@ permalink: "/erasmus/"
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
 
 ## pull requests
-### sitegr : 
-### all_collections :
-### minimal-ionio : 
+### sitegr : [sitegr pull request](https://github.com/ioniodi/sitegr/pull/427)
+### all_collections : [all_collections pull request](https://github.com/ioniodi/all_collections/pull/72)
+### minimal-ionio : [minimal-ionio pull request](https://github.com/ioniodi/minimal-ionio/pull/46)
 
 # <h1 id="fantasyconsoles2">7ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό σύστημα 2 </h1>
 Στο συγκεκριμένο παραδοτέο έπρεπε να συνεισφέρουμε σε κάποιο project - παιχνίδι κάποιας ομάδας ή ενός χρήστη του github που το έχει γράψει με κώδικα μέσω κάποιας από τις φανταστικές κονσόλες, προσθέτοντας είτε ένα νέο level είτε κάποια απλή λειτουργία σε αυτό. Σε αυτή τη περίπτωση, ο χρήστης [potico](https://github.com/potico) του github έχει δημιουργήσει ένα δικό του project - παιχνίδι το [Move Simulator](https://raccoon.computer/?gh=potico/ssgj2020-lu) μέσω της φανταστικής κονσόλας raccoon (με κύρια ιστοσελίδα https://raccoon.computer/) χρησιμοποιώντας κώδικα που τελειώνει σε `.rcn.json` φτιάχνοντας ως [τελικό παιχνίδι](https://raccoon.computer/?gh=nkanagno/ssgj2020-lu). 
