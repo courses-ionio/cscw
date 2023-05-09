@@ -239,8 +239,7 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
 ## poisonous mushrooms
 Για τελευταία προσθήκη αποφάσισα να προσθέσω δηλητηριώδη μανιτάρια. Αρχικά, πρόσθεσα έναν ακόμη πίνακα με όνομα `mushrooms2`. Στην συνέχεια, μέσα στην βασική συνάρτηση του παιχνιδιού με όνομα `engine.onUpdate`, έφτιαξα ακόμη έναν μετρητή με όνομα `mushroomsCollected2` ώστε να είναι εφικτή η μέτρηση των νέων μανιταριών. Έπειτα, έφτιαξα μια τριπλή συνθήκη ελέγχου, στην πρώτη σύγκριση, το παιχνίδι ελέγχει εάν ο παίκτης έχει ακουμπήσει έστω ένα μανιτάρι και από τα δύο είδη, με σκοπό μόλις ακουμπήσει ένα πράσινο, το παιχνίδι να εμφανίσει "GAME OVER!!" και να μηδενιστούν όλοι η μετρητές, οι άλλες δύο συνθήκες είναι για το κάθε μανιτάρι ξεχωριστά και ελέγχουν πότε πρέπει να εμφανίσουν το κατάλληλο μήνυμα. Τέλος, πρόσθεσα την ίδια λούπα για τα πράσινα μανιτάρια που υπήρχε ήδη για τα κόκκινα στην συνάρτηση drawMushrooms με σκοπό να εμφανιστούν στο παιχνίδι.  
 
-![Logicalsentence (2)](https://github.com/Axileaszervos/cscw/assets/115211756/f544dca7-0740-47f9-ae7f-47e7610c4640)
-![Mushroomsarray](https://github.com/Axileaszervos/cscw/assets/115211756/7488ce07-fcea-43a0-b307-865bfc490ef2)![drawmushrooms](https://github.com/Axileaszervos/cscw/assets/115211756/e27ea267-376b-4f2a-a5dc-d2990ee6f761)
+![Logicalsentence (2)](https://github.com/Axileaszervos/cscw/assets/115211756/f544dca7-0740-47f9-ae7f-47e7610c4640)![Mushroomsarray](https://github.com/Axileaszervos/cscw/assets/115211756/7488ce07-fcea-43a0-b307-865bfc490ef2)![drawmushrooms](https://github.com/Axileaszervos/cscw/assets/115211756/e27ea267-376b-4f2a-a5dc-d2990ee6f761)
 
 
 
