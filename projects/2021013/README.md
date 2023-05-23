@@ -379,7 +379,7 @@ function lost_draw() {
 όπου η lost_init() εκτελεί τις συναρτήσεις lost_update(), που ελέγχει αν έχει πατηθεί το restart button επιστρέφοντας στο αρχικό menu, και lost_draw(), που εμφανίζει το map με το μύνημα που δηλώνει ότι έχασε ο χρήστης.
 Τέλος, πρόσθεσα στη συνάρτηση game_update(), ένα if που που ελέγχει αν το level έχει το όνομα DOGS ώστε να λειτουργεί μόνο στο δικό μου level και μέσα σε αυτό υπάρχει ένα άλλο if που ελέγχει αν έχει χάσει ο χρήστης δηλαδή αν έχει ξεπεράσει τα 600 βήματα προκειμένου να εμφανιστεί το map με το κατάλληλο μύνημα.
 ## Τελικό Αποτέλεσμα
-![finished_level](https://user-images.githubusercontent.com/103074273/232931269-4a09f6f5-bfb2-4e0b-a1ca-a9273baa688d.jpg)
+![finished](https://github.com/nkanagno/cscw/assets/103074273/2efd8381-05d4-4616-8d56-a3f7f6f10f06)
 ## Μenu Βug fixed:
 Όταν πρόσθεσα το δικό μου level υπήρξε ένα <a href="#bug"> bug </a> το οποίο άφηνε την επιλογή "CONTROLS" να φαίνεται ότι βρίσκεται εκτός menu και αυτό το το δίόρθωσα αλλάζοντας το ύψος της άσπρης εξωτερικής γραμμής από 34 σε 40 και το ύψος του μάυρου background που έχει το menu από 32 σε 39 στην παρακάτω συνάρτηση:
 ![image](https://user-images.githubusercontent.com/103074273/232897024-eb4d5497-1603-48eb-bdcd-36090f939ed6.png)
@@ -402,16 +402,17 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
 
 ### Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
 #### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
- - case-study unreal engine στο netlify: [`blender`](https://nkanagno.netlify.app/case-study/blender/)
- - Στον φάκελο `_includes` στο github: [`cs-blender.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-blender.md)
- - Στον φάκελο `_case-study` στο github: [`blender.md`](https://github.com/nkanagno/site/blob/master/_case-study/blender.md)
+ - case-study mixer-multiuser στο netlify: [`mixer-multiuser`](https://nkanagno.netlify.app/case-study/mixer-multiuser/)
+ - Στον φάκελο `_includes` στο github: [`cs-mixer-multiuser.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-mixer-multiuser.md)
+ - Στον φάκελο `_case-study` στο github: [`mixer-multiuser.md`](https://github.com/nkanagno/site/blob/master/_case-study/mixer-multiuser.md)
 #### [organization:](https://github.com/OMADA11)
- - case-study unreal engine στο netlify: [`blender`](https://omada11.netlify.app/case-study/unreal-engine/)
- - Στον φάκελο `_includes` στο github: [`cs-blender.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-blender.md)
- - Στον φάκελο `_case-study` στο github: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
-### Λίγα λόγια για το Θέμα που επέλεξα: [`blender.md`](https://github.com/OMADA11/site/blob/master/_case-study/blender.md)
-![blender-thumb](https://user-images.githubusercontent.com/103074273/232137977-bef6e724-c233-4b32-ae81-3b61de3eec04.jpg)<br>
-Το Blender δημιουργήθηκε από τον Ton Roosendaal, έναν Ολλανδό προγραμματιστή και καλλιτέχνη το 1995. Αρχικά, ο Roosendaal ανέπτυξε το λογισμικό ως μια εσωτερική εφαρμογή για την εταιρεία animation <<NeoGeo>>, όπου εργαζόταν τότε. Το 1998, ο Ton Roosendaal αποφάσισε να κυκλοφορήσει το Blender ως δωρεάν και ανοιχτού κώδικα λογισμικό, και από τότε έχει αναπτυχθεί συνεχώς από μια διεθνή κοινότητα προγραμματιστών και καλλιτεχνών. Σήμερα, το Blender είναι ένα από τα πιο δημοφιλή λογισμικά 3D μοντελοποίησης και απεικόνισης στον κόσμο, και χρησιμοποιείται από επαγγελματίες και ερασιτέχνες σε διάφορους τομείς.
+ - case-study mixer-multiuser στο netlify: [`mixer-multiuser`](https://omada11.netlify.app/case-study/mixer-multiuser/)
+ - Στον φάκελο `_includes` στο github: [`cs-mixer-multiuser.md`](https://github.com/OMADA11/site/blob/master/_includes/cs-mixer-multiuser.md)
+ - Στον φάκελο `_case-study` στο github: [`mixer-multiuser.md`](https://github.com/OMADA11/site/blob/master/_case-study/mixer-multiuser.md)
+### Λίγα λόγια για το Θέμα που επέλεξα: [`mixer-multiuser.md`](https://github.com/OMADA11/site/blob/master/_case-study/mixer-multiuser.md)
+![mixer_material](https://github.com/nkanagno/cscw/assets/103074273/0bbbfeb1-2ad9-4582-a2af-8952770ebcec)<br>
+Το mixer-multiuser δημιουργήθηκε από την ubisoft, ως ένα πρόσθετο εργαλείο του λογισμικού ανάπτυξης τρισδιάστατων γραφικών, blender. Το συγκεκριμένο εργαλείο
+δημιουργήθηκε προκειμένου να επιτρέπει σε πολλαπλούς χρήστες του blender να συνεργάζονται συγχρόνως σε ένα κοινό project ώστε να έχουν καλύτερα αποτέλεσματα σε οποιοδήποτε έργο στο οποίο δουλεύουν. Το πρόσθετο εργαλείο αυτό είναι ανοικτό κώδικα, διαθέσιμο σε όλους από την κεντρικό αποθετήριο της ubisoft στο github ωστόσο είναι μόνο διαθέσιμο για εκδόσεις, όχι μεγαλύτερες του 2.93 και 3.0 του blender.  
 
  ### <h3 id="pull7">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/3"> "add case_study/biography"</a>
