@@ -337,26 +337,47 @@ const levels = [
     name: "DOGS",
     objects: [
       {t: tpl.dog, x: 5, y: 3},
-      {t: tpl.dog, x: 7, y: 3},
-      {t: tpl.dog, x: 9, y: 3},
-      {t: tpl.dog, x: 3, y: 5},
-      {t: tpl.dog, x: 3, y: 7},
-      {t: tpl.dog, x: 3, y: 9},
-      {t: tpl.dog, x: 11, y: 5},
-      {t: tpl.dog, x: 11, y: 7},
-      {t: tpl.dog, x: 11, y: 9},
-      {t: tpl.dog, x: 5, y: 11},
-      {t: tpl.dog, x: 7, y: 11},
-      {t: tpl.dog, x: 9, y: 11},
-      {t: tpl.pillar, x: 7, y: 7},
-      {t: tpl.pillar, x: 7, y: 8},
-      {t: tpl.pillar, x: 8, y: 7},
+      ...
       {t: tpl.pillar, x: 8, y: 8},
     ],
   },
 ];
 ```
 ως name "DOGS", προσθέτοντας στο map μου το sprite `dog` που σχεδίασα και τέσσερα ακούνητα εμπόδια.
+Έπειτα, μόνο για το δικό μου level προσθέσα την δυνατότητα να χάσει ο χρήστης από την στιγμή που ξεπεράσει τα 600 βήματα πρωτού μεταφέρει όλα τα αντικείμενα στο φορτηγό. Πιο συγκεκριμένα, προκειμένου να φτιάξω αυτή τη λειτουργία χρειάστηκε να επεξεργαστώ και το διαδραστικό μέρος του κώδικα, δημιουργώντας αρχικά τις τρεις παρακάτω συναρτήσεις
+```
+function lost_init() {
+  update = lost_update;
+  draw = lost_draw;
+}
+function lost_update() {
+  if(btnp(abandon_btn)) {
+    menu_init()
+  }
+  frame += 1;
+}
+
+function lost_draw() {
+  cls();
+  if(cx >= 16) {
+    cam(128, 0);
+  } else {
+    cam(0, 0);
+  }
+  map(0, 0, 0, 0, 32, 16);
+  level_draw(objects);
+
+  cam();
+  print(50, 55, "YOU LOST!", 1);
+  print(42, 65, "OUT OF MOVES!", 1);
+
+  game_draw_score();
+  menu_draw_controls({RESTART: abandon_btn});
+
+}
+```
+όπου η lost_init() εκτελεί τις συναρτήσεις lost_update(), που ελέγχει αν έχει πατηθεί το restart button επιστρέφοντας στο αρχικό menu, και lost_draw(), που εμφανίζει το map με το μύνημα που δηλώνει ότι έχασε ο χρήστης.
+Τέλος, πρόσθεσα στη συνάρτηση game_update(), ένα if που που ελέγχει αν το level έχει το όνομα DOGS ώστε να λειτουργεί μόνο στο δικό μου level και μέσα σε αυτό υπάρχει ένα άλλο if που ελέγχει αν έχει χάσει ο χρήστης δηλαδή αν έχει ξεπεράσει τα 600 βήματα προκειμένου να εμφανιστεί το map με το κατάλληλο μύνημα.
 ## Τελικό Αποτέλεσμα
 ![finished_level](https://user-images.githubusercontent.com/103074273/232931269-4a09f6f5-bfb2-4e0b-a1ca-a9273baa688d.jpg)
 ## Μenu Βug fixed:
