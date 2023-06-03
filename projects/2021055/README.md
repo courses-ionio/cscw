@@ -204,7 +204,7 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 
 ## ISSUE - PULL REQUEST
  * [Issue](https://github.com/ioniodi/sitegr/issues/425)
- * [Pull Request]()
+ * [Pull Request](https://github.com/ioniodi/sitegr/pull/429)
 
 
 # ΠΑΡΑΔΟΤΕΟ 7 - ΕΝΑΛΛΑΚΤΙΚΌ ΣΎΣΤΗΜΑ
