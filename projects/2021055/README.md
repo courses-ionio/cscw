@@ -151,7 +151,7 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 * [Εκπαιδευτικά εργαλεία](https://github.com/OMADA11/site/blob/master/_slides/Edtuools.md)
 * [Συστήματα τηλεδιασκέψεων](https://github.com/OMADA11/site/blob/master/_slides/Webconf.md)
 
-## Site
+## Προσωπικό site
 
 ### Timelines
 * [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/)
@@ -160,6 +160,16 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ### Slides
 * [Εκπαιδευτικά εργαλεία](https://axileaszervos.netlify.app/slides/edtuools/)
 * [Συστήματα τηλεδιασκέψεων](https://axileaszervos.netlify.app/slides/webconf/)
+
+## Ομαδικό site
+
+### Timelines
+* [Εκπαιδευτικά εργαλεία](https://omada11.netlify.app/timeline/edutoolstimeline/)
+* [Συστήματα τηλεδιασκέψεων](https://omada11.netlify.app/timeline/webconftimeline/)
+
+### Slides
+* [Εκπαιδευτικά εργαλεία](https://omada11.netlify.app/slides/edtuools/)
+* [Συστήματα τηλεδιασκέψεων](https://omada11.netlify.app/slides/webconf/)
 
 
 ## Pull Request
@@ -257,14 +267,14 @@ H δεύτερη προσθήκη που αποφάσισα να κάνω ήτα
  ## Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
 
   * [Negroponte.md](https://github.com/Axileaszervos/site/blob/master/_biography/Negroponte.md)
-  * [Cisco-Webex.md](https://github.com/OMADA11/site/blob/master/_case-study/Cisco-Webex.md)
+  * [Cisco-Webex.md](https://github.com/Axileaszervos/site/blob/master/_case-study/Cisco-Webex.md)
   * [bio-Negroponte.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Negreponte.md)
   * [cs-Webex.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-Webex.md)
 
  ## Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
  
   * [Negroponte.md](https://github.com/OMADA11/site/blob/master/_biography/Negroponte.md)
-  * [Cisco-Webex.md](https://github.com/Axileaszervos/site/blob/master/_case-study/Cisco-Webex.md)
+  * [Cisco-Webex.md](https://github.com/OMADA11/site/blob/master/_case-study/Cisco-Webex.md)
   * [bio-Negreponte.md](https://github.com/OMADA11/site/blob/master/_includes/bio-Negreponte.md)
   * [cs-Webex.md](https://github.com/OMADA11/site/blob/master/_includes/cs-Webex.md)
 
