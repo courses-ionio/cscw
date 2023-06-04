@@ -91,17 +91,17 @@ Tο edmodo είναι μια web πλατφόρμα, που παρέχει έν�
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο
 ### Webex:
  
-* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Webex.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Webex.md)
+* Tο .md αρχείο της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Webex.md](https://github.com/Axileaszervos/_gallery/blob/54ec8368ac60ae041ab3ad65242d9531204a31a6/Webex.md)
 * Η εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό μου site: [Webex](https://axileaszervos.netlify.app/gallery/webex/)
-* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex.jpg)
-* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex-Thumb.jpg](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Cisco-Webex-Thumb.jpg)
+* Η κανονική εικόνα της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex.jpg](https://github.com/Axileaszervos/images/blob/69f7b640ef6c99dd904bbf3cd975430e7a91f0df/Cisco-Webex.jpg)
+* Η resized σε 160x160 pixels της εφαρμογής τηλεδιασκέψεων Webex στο προσωπικό αποθετήριο: [Cisco-Webex-Thumb.jpg](https://github.com/Axileaszervos/images/blob/69f7b640ef6c99dd904bbf3cd975430e7a91f0df/Cisco-Webex-Thumb.jpg)
 
 ### Edmodo:
 
-* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.md](https://github.com/Axileaszervos/_gallery/blob/b3ef60a096a79a4adb26e873a7fee348db285c9e/Edmodo.md)
+* Tο .md αρχείο της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.md](https://github.com/Axileaszervos/_gallery/blob/54ec8368ac60ae041ab3ad65242d9531204a31a6/Edmodo.md)
 * Η εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό site: [Edmodo](https://axileaszervos.netlify.app/gallery/edmodo/)
-* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo.png)
-* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo-thumb.png](https://github.com/Axileaszervos/images/blob/91209803d33c97a8f7d7fe8cdf49274721285a6b/Edmodo-thumb.png)
+* Η κανονική εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo.png](https://github.com/Axileaszervos/images/blob/69f7b640ef6c99dd904bbf3cd975430e7a91f0df/Edmodo.png)
+* Η resized σε 160x160 pixels εικόνα της εκπαιδευτικής πλατφόρμας Edmodo στο προσωπικό αποθετήριο: [Edmodo-thumb.png](https://github.com/Axileaszervos/images/blob/69f7b640ef6c99dd904bbf3cd975430e7a91f0df/Edmodo-thumb.png)
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό μου αποθετήριο
 ### Webex:
