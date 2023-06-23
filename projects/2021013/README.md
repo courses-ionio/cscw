@@ -290,12 +290,12 @@ permalink: "/erasmus/"
 - [`erasmus-table1.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table1.html)
    Αρχικά ο πρώτος πίνακας ως στήλες περιλαμβάνει τον αριθμό `ΑΑ` του μαθήματος, τον τίτλο του μαθήματος, το εξάμηνο κατά το οποίο διδάσκεται το μάθημα, τον κωδικό του μαθήματος και τον αριθμό των μονάδων ECTS που αντιστοιχούν στο μάθημα. Έπειτα, με την χρήση liquid, πρώτα δηλώνει και αρχικοποιεί μία μεταβλητή counter σε 0, κάνει ένα loop από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν σε κάθε μάθημα η μεταβλητή του `Erasmus_courses_with_English_instruction` είναι `ναι` δηλαδή γίνεται διδασκαλία στην αγγλική γλώσσα τότε αυξάνεται ο counter ανα 1 και έπειτα κάνει άλλη μία εμφωλευμένη loopa από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses). Τέλος ξαναελένχει αν το μάθημα της δεύτερης loops δεν γίνεται με διδασκαλία και αν ισχύουν όλα τα παραπάνω if τότε εμφανίζει τα δεδομένα του κάθε μαθήματος σε κάθε στήλη ταξινομημένα καταλλήλως (counter, title, semester, code, ects).
 ## Πίνακας 1:
-![table1](https://user-images.githubusercontent.com/103074273/234664588-b068413d-9e60-4d71-96d9-609200e0bada.jpg)
+![table_1](https://github.com/nkanagno/cscw/assets/103074273/c00a7c8f-bfdc-44e6-b515-94de0d65a0b2)
 
 - [`erasmus-table2.html:`](https://github.com/nkanagno/minimal-ionio/blob/master/_includes/erasmus-table2.html)
    Αρχικά ο πρώτος πίνακας ως στήλες περιλαμβάνει τον αριθμό `ΑΑ` του μαθήματος, τον τίτλο του μαθήματος, το εξάμηνο κατά το οποίο διδάσκεται το μάθημα, τον κωδικό του μαθήματος και τον αριθμό των μονάδων ECTS που αντιστοιχούν στο μάθημα. Έπειτα, με την χρήση liquid, πρώτα δηλώνει και αρχικοποιεί μία μεταβλητή counter σε 0, κάνει ένα loop από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses) ελέγχοντας αν σε κάθε μάθημα η μεταβλητή του `Erasmus_courses_with_English_instruction` είναι `όχι` δηλαδή δεν γίνεται διδασκαλία στην αγγλική γλώσσα τότε αυξάνεται ο counter ανα 1 και έπειτα κάνει άλλη μία εμφωλευμένη loopa από όλα τα μαθήματα που βρίσκονται στο [all_collection/courses](https://github.com/nkanagno/all_collections/tree/master/_courses). Τέλος ξαναελένχει αν το μάθημα της δεύτερης loops δεν γίνεται με διδασκαλία και αν ισχύουν όλα τα παραπάνω if τότε εμφανίζει τα δεδομένα του κάθε μαθήματος σε κάθε στήλη ταξινομημένα καταλλήλως (counter, title, semester, code, ects). 
 ## Πίνακας 2:
-![table2](https://user-images.githubusercontent.com/103074273/234664619-7af6edff-4f5f-4691-93a0-2b2cb7106cf5.jpg)
+![table_2](https://github.com/nkanagno/cscw/assets/103074273/8853207d-12c9-4c0b-af04-d26113e37d86)
 
 ## DEMO link netlify: 
 ## [demo](https://nkanagno-sitegr.netlify.app/erasmus/)
