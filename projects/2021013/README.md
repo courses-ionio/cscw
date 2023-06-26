@@ -477,3 +477,7 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
  - [make-latex.sh](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
  
 # <h1 id="FINAL">10ο ΠΑΡΑΔΟΤΕΟ - Τελική αναφορά: </h1>
+
+## Συμπεράσματα και επίλογος της Αναφοράς:
+Έχοντας φτασει στο τέλος του μαθήματος
+ 
