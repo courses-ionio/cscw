@@ -20,7 +20,7 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 | 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/cscw/discussions/192)| |
 | 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/cscw/discussions/193)| |
 | 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/cscw/discussions/194)| |
-| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/cscw/discussions/)| |
+| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/cscw/discussions/200)| |
 
 # <h1 id ="introduction">1ο ΠΑΡΑΔΟΤΕΟ - ΕΙΣΑΓΩΓΗ:</h1>
 Μέσω του μαθήματος Κινητά και κοινωνικά μέσα, ως φοιτητής του ιονίου πανεπιστημίου στο τμήμα πληροφορικής ευελπιστώ να εξοικειωθώ στα παρακάτω:
