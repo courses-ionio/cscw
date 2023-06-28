@@ -11,16 +11,16 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | |
-| 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | |
-| 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> |  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3](https://github.com/courses-ionio/cscw/discussions/183) | |
-| 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/cscw/discussions/185) | |
-| 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/cscw/discussions/189)| |
-| 6 | <ul><li> [x] <a href="#2nd_pull_request">Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/cscw/discussions/191)| |
-| 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/cscw/discussions/192)| |
-| 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/cscw/discussions/193)| |
-| 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/cscw/discussions/194)| |
-| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/cscw/discussions/200)| |
+| 1 | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> Συγγραφή της εισαγωγής </a> </li></ul>  <ul><li> [x] Ανοιχτή ομάδα στις συζητήσεις με όνομα <br> `OMADA11` </li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 1 ](https://github.com/courses-ionio/cscw/discussions/174) | `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. <br><a href="#aks1">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 2 | <ul><li> [x] <a href="#1st_pull_request"> Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2](https://github.com/courses-ionio/cscw/discussions/177) | `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα.<br> <a href="#aks2">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 3 | <ul><li> [x] <a href="#fantasyconsoles1">Εναλλακτικό σύστημα 1 </a></li></ul> |  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3](https://github.com/courses-ionio/cscw/discussions/183) | `Βαθμός:9/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα αλλά ολοκληρώθηκαν εκπρόθεσμα. <br><a href="#aks3">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 4 | <ul><li> [x] <a href="#1A">Συμμετοχικό περιεχόμενο 1A </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/cscw/discussions/185) | `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα.<br> <a href="#aks4">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 5 | <ul><li> [x] <a href="#A2">Κατασκευή του βιβλίου Α2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/cscw/discussions/189)| `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. <a href="#aks5">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 6 | <ul><li> [x] <a href="#2nd_pull_request">Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </a></li></ul>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/cscw/discussions/191)| `Βαθμός:9/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα αλλά ολοκληρώθηκαν εκπρόθεσμα. <br><a href="#aks6">Aναλυτική αυταξιολόγηση εδώ</a> |
+| 7 | <ul><li> [x] <a href="#fantasyconsoles2">Εναλλακτικό σύστημα 2 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/cscw/discussions/192)| `Βαθμός:9/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα αλλά ολοκκληρώθηκαν εκπρόθεσμα. <br><a href="#aks7">Aναλυτική αυταξιολόγηση εδώ </a> |
+| 8 | <ul><li> [x] <a href="#1B">Συμμετοχικό περιεχόμενο 1B </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/cscw/discussions/193)| `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα.<br> <a href="#aks8">Aναλυτική αυταξιολόγηση εδώ </a> |
+| 9 | <ul><li> [x] <a href="#B1">Κατασκευή του βιβλίου B1 </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/cscw/discussions/194)| `Βαθμός:10/10` Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα.<br> <a href="#aks9">Aναλυτική αυταξιολόγηση εδώ </a> |
+| 10 | <ul><li> [x] <a href="#FINAL">Τελική αναφορά* </a></li></ul>|  [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/cscw/discussions/200)| `Βαθμός:9.6/10` <a href="#aks12">Τελική αυταξιολόγηση</a> |
 
 # <h1 id ="introduction">1ο ΠΑΡΑΔΟΤΕΟ - ΕΙΣΑΓΩΓΗ:</h1>
 Μέσω του μαθήματος Κινητά και κοινωνικά μέσα, ως φοιτητής του ιονίου πανεπιστημίου στο τμήμα πληροφορικής ευελπιστώ να εξοικειωθώ στα παρακάτω:
@@ -31,6 +31,8 @@ GitHub organisation url: [OMADA11](https://github.com/OMADA11)
 
  - Στο να μπορώ να δουλεύω σε ομάδες. Είναι γνωστόν, ότι αφού αποφοιτήσω από το πανεπιστήμιο και μπω στον επαγγελματικό τομέα όπου θα αναγκαστώ να μάθω να συνεργάζομαι με άλλους ανθρώπους. Δηλαδή αν τύχει να δουλέψω σε κάποια εταιρία θα αναγκαστώ να μπω σε μία ομάδα, με είτε πιο έμπειρους είτε λιγότερο έμπειρους από εμένα. Γιαυτό τον λόγο πιστεύω το να μάθω να δουλεύω ομαδικά με άλλους ανθρώπους θα είναι κάτι που θα μου είναι πολύ χρήσιμο στο μέλλον. Αυτό πιστεύω θα το πετύχω μέσω των ομαδικών εργασιών που περιέχει το μάθημα.
  
+## <h2 id=aks1> Αυταξιολόγηση: `βαθμός 9/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα αλλά η εισαγωγή ολοκληρώθηκε εκπρόθεσμα. Δηλαδή έγινε η `Εισαγωγή` μου, στην οποία περιέγραψα όλους τους στόχους που είχα για το συγκεκριμένο μάθημα αλλά χρειάστηκε να την αλλάξω αρκετές φορές όμως κατάφερα να τους επιτύχω όλους καθόλη τη διάρκεια του μαθήματος. Επίσης, δημιουργήθηκε [η ομάδα μου](https://github.com/OMADA12) και ως admin την ανέφερα μαζί με τα μέλη της στη συζήτηση [#1794](https://github.com/courses-ionio/hci/discussions/1794#omada12) έχοντας την `ανοιχτή για νέα μέλη`. Έπειτα έφτιαξα σωστά την αναφορά μου κάνοντας `fork -> δημιουργία branch ΑΜ -> μέσα στον φάκελο project έφτιαξα έναν φάκελο με όνομα τον ΑΜ μου -> μέσα σε αυτόν έφτιαξα ένα README.md όπου ειναι η αναφορά μου και έναν copy paste τον πίνακα περιεχομένων`. Ανέβασα εμπρόθεσμα το παραδοτέο 1 στη συζητήση [#902](https://github.com/courses-ionio/help/discussions/902). Τέλος έκανα το βίντεο του edpuzzle εμπρόθεσμα.
  
 # <h1 id="1st_pull_request"> 2ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων):</h1>
 ## Επεξήγηση παραδοτέου:
@@ -73,6 +75,9 @@ dmouratidi:
 ## Demo link και Pull request:
 Το Demo προσωπικό μου link στο [netlify sitegr](https://nkanagno-sitegr.netlify.app/) (πιο συγκεκριμένα, link στο netlify κατευθείαν στη κατηγορία [προσωπικό](https://nkanagno-sitegr.netlify.app/people/) που έγιναν οι αλλαγές) ως απόδειξη ότι όλα δουλεύουν κανονικά σε νέο [demo branch](https://github.com/nkanagno/sitegr/tree/demo-branch), τo [pull request που έκανα στο all_collections](https://github.com/ioniodi/all_collections/pull/70) και το [pull request που έκανα στο sitegr](https://github.com/ioniodi/sitegr/pull/422) του [master branch με το αρχικό submodule του ioniodi](https://github.com/nkanagno/sitegr/tree/master).
 
+## <h2 id="aks2"> Αυταξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. Δηλαδή, έγινε επιτυχώς η εγκατάσταση του `αrch linux σε usb stick` καθώς και το <a href="https://asciinema.org/a/529148">`link για το asciinema`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 2 στη συζητήση [#1055](https://github.com/courses-ionio/help/discussions/1055). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
+
 # <h1 id="fantasyconsoles1">3ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό συστημα 1</h1>
 ## Επεξήγηση παραδοτέου:
 Στο συγκεκριμένο παραδοτέο χρειάστηκε να επιλέξουμε τρία fantasy consoles από την κατηγορία FC από την ιστοσελίδα [paladin-t/fantasy](https://github.com/paladin-t/fantasy) και να ταξινομήσουμε σε τρεις νέες κατηγορίες ανάλογα με το περιεχόμενο της κάθε κονσόλας.
@@ -105,6 +110,9 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display | `Sprit
 [Raccoon](https://github.com/Lyatus/raccoon) by Lutopia & Linheha | JavaScript | [Free](https://raccoon.lucien.cat/), [Unlicense](https://github.com/Lyatus/raccoon) ![GitHub stars](https://img.shields.io/github/stars/Lyatus/raccoon) | Browser | 128x128 (1:1) | Ναι | Ναι | Ναι |
 [BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit | Όχι | Ναι | Ναι |
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3) | Όχι | Όχι | Ναι |
+
+## <h2 id="aks3"> Αυταξιολόγηση: `βαθμός 8/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα αλλά εκπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζήτηση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="1A">4ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1A: Α1 + Α2 </h1>
 ## Συμμετοχικό περιεχόμενο A1:
@@ -224,6 +232,9 @@ git push origin
 ### <h3 id="pull5">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA11/site`](https://github.com/OMADA11/site) του organization της ομάδας μας:<a href="https://github.com/OMADA11/site/pull/1"> "add my slides and timeline categories"</a>
 
+## <h2 id="aks4"> Αυταξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα αλλά εκπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζήτηση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
+
 # <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α2: </h1>
 ## <h2 id="MD">Η Συνοχή μου στο βιβλίο:</h2>
 Στο κεφάλαιο 4 (τεχνικές), και για περισσότερη στο υποκεφάλαιο `Συνεργατική κατασκευή και ιδιοκτησία` αναφέρει ότι έχει δημιουργηθεί μία ευρεία κίνηση από χομπίστες και ερευνητές οι οποίοι συνεργάζονται, είτε σε ειδικές συναντήσεις είτε με τη βοήθεια του δικτύου για τη σχεδίαση και κατασκευή νέων εργαλείων που διευκολύνουν τη δουλειά τους ή απλώς για διασκέδαση, χωρίς να έχουν εξωτερικά κίνητρα. Μέσα από αυτό μικρό κειμενάκι αποφάσισα να αναφέρω ως fun fact το εργαλείο unity-forum, όπου δίνεται η δυνατότητα σε απλούς χρήστες - χομπίστες του unity, ή ακόμα και ερευνητές, να μπορούν να συζητούν για προβλήματα τα οποία αντιμετωπίζουν, να συνεργάζονται σε κοινά projects, να ανταλάσσουν ιδεές, να κάνουν ερωτήσεις κλπ. Επιπλέον, στο unity forum υπάρχουν και ξεχωριστές κατηγοριές όπου συζητητούν οι developers σε συγκεκριμένα θέματα όπως το animation, 2d games, asset management, graphics, VR development κλπ.
@@ -246,6 +257,9 @@ git push origin
  
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![unity-forum](https://user-images.githubusercontent.com/103074273/226230452-86e2963a-76cc-47e8-a600-92618c3f6569.png)
+
+## <h2 id="aks5"> Αυταξιολόγηση: `βαθμός 8/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα αλλά εκπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζήτηση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="2nd_pull_request">6ο ΠΑΡΑΔΟΤΕΟ - Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) </h1>
 ## Επεξήγηση Παραδοτέου:
@@ -304,6 +318,9 @@ permalink: "/erasmus/"
 ### sitegr : [sitegr pull request](https://github.com/ioniodi/sitegr/pull/427)
 ### all_collections : [all_collections pull request](https://github.com/ioniodi/all_collections/pull/72)
 ### minimal-ionio : [minimal-ionio pull request](https://github.com/ioniodi/minimal-ionio/pull/48)
+
+## <h2 id="aks3"> Αυταξιολόγηση: `βαθμός 8/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα αλλά εκπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζήτηση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="fantasyconsoles2">7ο ΠΑΡΑΔΟΤΕΟ - Εναλλακτικό σύστημα 2 </h1>
 Στο συγκεκριμένο παραδοτέο έπρεπε να συνεισφέρουμε σε κάποιο project - παιχνίδι κάποιας ομάδας ή ενός χρήστη του github που το έχει γράψει με κώδικα μέσω κάποιας από τις φανταστικές κονσόλες, προσθέτοντας είτε ένα νέο level είτε κάποια απλή λειτουργία σε αυτό. Σε αυτή τη περίπτωση, ο χρήστης [potico](https://github.com/potico) του github έχει δημιουργήσει ένα δικό του project - παιχνίδι το [Move Simulator](https://raccoon.computer/?gh=potico/ssgj2020-lu) μέσω της φανταστικής κονσόλας raccoon (με κύρια ιστοσελίδα https://raccoon.computer/) χρησιμοποιώντας κώδικα που τελειώνει σε `.rcn.json` φτιάχνοντας ως [τελικό παιχνίδι](https://raccoon.computer/?gh=nkanagno/ssgj2020-lu). 
@@ -394,6 +411,9 @@ function lost_draw() {
 [bin.rcn.json](https://github.com/nkanagno/ssgj2020-lu/blob/main/bin.rcn.json) τότε έκανα pull request στο αποθετήριο [potico/ssgj2020-lu](https://github.com/potico/ssgj2020-lu).
 PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu/pull/1)
 
+## <h2 id="aks7"> Αυταξιολόγηση: `βαθμός 8/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα αλλά εκπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζήτηση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
+
 # <h1 id="1B">8ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο 1B </hi>
 ## Συμμετοχικό περιεχόμενο B1 (Μελέτη Περίπτωσης):
 <h3 id="CaseStudy">Μελέτη Περίπτωσης:</h3>
@@ -454,6 +474,9 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
  - [Unreal Multi-user editing documentation](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/MultiUserEditing/)
  - [Unreal_(1998_video_game) wikipedia](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
 
+## <h2 id="aks8"> Αυταξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό B2, η <a href="#Biography"> βιογραφία </a> για την ομάδα και του προσωπικού, η <a href="#bibliography9">βιβλιογραφία</a> καθώς και τα <a href="#pull9">`links για τα pull requests`</a>. Μέσω αυτού του παραδοτέου βελτιώθηκα πιο έντονα στον 2ο στόχο της εισαγωγής που αφορά την ανάπτυξη βιντεοπαιχνιδιών. Τέλος ανέβασα εμπρόθεσμα το παραδοτέο 9 στη συζήτηση [#1802](https://github.com/courses-ionio/help/discussions/1802).
+
 # <h1 id="B1">9ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Β1: </h1>
 ## Μετατροπή βιβλίου σε epub:
 Αρχικά πρόσθεσα την εντολη στο [`make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh):
@@ -475,6 +498,10 @@ PULL REQUEST : [potico/ssgj2020-lu/pull/1](https://github.com/potico/ssgj2020-lu
  - [το βιβλίο σε pdf (compressed)](https://github.com/OMADA11/kallipos/issues/11)
  - [τα βιβλία μου (pdf + epub σε full size)](https://github.com/OMADA11/books)
  - [make-latex.sh](https://github.com/OMADA11/kallipos/blob/master/make-latex.sh)
+
+ 
+## <h2 id="aks9"> Αυταξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. Δηλαδή, έγινε επιτυχώς η κατασκευή του βιβλίου Β σε epub μορφή μέσω pandoc, πρόσθεσα όλες τις εικόνες μου, μελέτη περίπτωσης και βιογραφία στο κεφάλαιο **Τεχνικές** και <a href="#addition">εδώ</a> εξηγώ τον λόγο που επέλεξα αυτό το κεφάλαιο. Έπειτα ανέβασα εμπρόθεσμα το παραδοτέο 11 στη συζήτηση [#1815](https://github.com/courses-ionio/help/discussions/1815). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
  
 # <h1 id="FINAL">10ο ΠΑΡΑΔΟΤΕΟ - Τελική αναφορά: </h1>
 
