@@ -284,15 +284,8 @@ git push origin
 - title: "Erasmus+"
     url: "/erasmus/"
 ```
-και στο φάκελο `_pages` πρόσθεσα το αρχείο erasmus.html με permalink το "/erasmus/" καθώς επίσης 'εκανα και include με liquid το erasmus.html από το minimal-ionio:
-```
----
-ref: erasmus
-title: "Erasmus+"
-permalink: "/erasmus/"
----
-{% include erasmus.html %}
-```
+και στο φάκελο `_pages` πρόσθεσα το αρχείο erasmus.html με permalink το "/erasmus/" καθώς επίσης 'εκανα και include με liquid το erasmus.html από το minimal-ionio.
+
 ## all_collection:
 Προσθήκη της ιστοσελίδας Erasmus+ με πίνακες που χρησιμοποιούν έτοιμα δεδομένα από το all_collection. Πιο συγκεκριμένα, έφτιαξα χρησιμοποιώντας liquid τους 2 πίνακες που έχει ήδη στην επίσημη ιστοσελίδα και στο [all_collection](https://github.com/nkanagno/all_collections/tree/master/_courses) έφτιαξα 1 νέα μεταβλητή σε κάθε μάθημα που υπάρχει στους πινάκες. Η πρώτη μεταβλητή είναι η `Erasmus_courses_with_English_instruction` όπου δείχνει αν στο συγκεκριμένο μάθημα γίνεται διδασκαλία στην αγγλική γλώσσα ή όχι (δηλαδή αν ανοίκει στον πρώτο πίνακα ή στον δεύτερο).
 
