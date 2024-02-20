@@ -10,11 +10,11 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/help/teaching/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | | |
-| 3 | Εναλλακτικό σύστημα | | |
+| 3 | Γραμμή εντολών | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
 | 5 | Κατασκευή του βιβλίου Α2 | | |
 | 6 | Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) | | |
-| 7 | Εναλλακτικό σύστημα | | |
+| 7 | Γραμμή εντολών | | |
 | 8 | Συμμετοχικό περιεχόμενο 1B | | |
 | 9 | Κατασκευή του βιβλίου B1 | | |
 | 10 | Τελική αναφορά* | | |
@@ -31,7 +31,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 30% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [εναλλακτικό σύστημα διάδρασης](https://epidrome.github.io/teaching/alt) + 40% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
+**Βαθμολογία:** 10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 30% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 40% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
 
 * Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
 
