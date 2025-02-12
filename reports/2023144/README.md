@@ -3,7 +3,7 @@
 ### ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΝΙΚΟΛΑΣ ΝΑΤΣΟΣ
 ### ΑΡΙΘΜΟΣ ΜΗΤΡΩΟΥ: inf2023144
 ### GITHUB PROFILE: [YGNT7777](https://github.com/YGNT7777)
-### ORGANIZATION: [cippicippicappacappa](https://github.com/cippicippicappacappa)
+### ORGANIZATION: [qwerty13276](https://github.com/qwerty13276)
 
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
