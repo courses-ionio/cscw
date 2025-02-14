@@ -25,9 +25,9 @@
 # ΠΑΡΑΔΟΤΕΟ 3
 Για το 3ο παραδοτέο έκανα την άσκηση απο το dokey: back-up your home online
 
-Γενικά χρειαζόταν να εγκαταστήσω το rclone που το σύνδεσα με το ακαδημαϊκο email και για να γίνεται αυτόματα χρειαζόταν να εκγαταστήσω το εργαλείο [cron](https://wiki.archlinux.org/title/Cron) το οποίο ρυθμίζοντας το config file τρέχει την εντολή που κάνει backup τα αρχεία που έχω επιλέξει
+Γενικά χρειαζόταν να εγκαταστήσω το rclone, το οποίο το σύνδεσα με το ακαδημαϊκο email. Για να γίνεται αυτόματα, χρειαζόταν να εκγαταστήσω το εργαλείο [cron](https://wiki.archlinux.org/title/Cron), το οποίο, ρυθμίζοντας το config file τρέχει την εντολή που κάνει back-up τα αρχεία που έχω επιλέξει
 
-Έχω βάλει να κάνει backup τά αρχεία για το blog μου
+Έχω βάλει να κάνει back-up τά αρχεία για το blog μου
 
 Η παρακάτω εντολή αντιγράφει τον φάκελο bashyll στο cloud μου backup/bashyll
 
@@ -36,9 +36,21 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 ```
 Στο παρακάτω demo είναι στο config file του crontab που τρέχει την εντολή κάθε κυριακή στις 2 το πρωί
 
-### Demo : https://asciinema.org/a/8LmDidO8spD9sVWSZG1K7JIyq
+### Demo link : https://asciinema.org/a/8LmDidO8spD9sVWSZG1K7JIyq
 <a href="https://asciinema.org/a/8LmDidO8spD9sVWSZG1K7JIyq" target="_blank"><img src="https://asciinema.org/a/8LmDidO8spD9sVWSZG1K7JIyq.svg" /></a>
 
 Στην παρακάτω φωτογραφία είναι που αποθηκέυονται τα αρχεία όταν τρέχει η εντολή
 
 ![par3](https://github.com/user-attachments/assets/3f820f08-b61d-4b76-95b3-d6764f08afba)
+
+# ΠΑΡΑΔΟΤΕΟ 7
+Για το 7ο παροδοτέο έκανα την άσκηση απο το dokey: pair programming
+
+Με το εργαλείο tmate επιτρέπει στον χρήστη να μοιράζεται το τερματικό του με άλλα άτομα
+
+### Demo link : https://asciinema.org/a/m6Z4mEfr9tsp65dtjpHX2T99H
+<a href="https://asciinema.org/a/m6Z4mEfr9tsp65dtjpHX2T99H" target="_blank"><img src="https://asciinema.org/a/m6Z4mEfr9tsp65dtjpHX2T99H.svg" /></a>
+
+Στην παρακάτω εικόνα μέσω του συνδέσμου, βλέπουμε το τερματικό από το web browser
+
+![par7](https://github.com/user-attachments/assets/e469035e-c0fc-406a-83ce-f8fe9635d918)
