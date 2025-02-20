@@ -31,7 +31,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 30% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 40% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
+**Βαθμολογία:** 20% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 30% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 30% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 10% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
 
 * Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
 
