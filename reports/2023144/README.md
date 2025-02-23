@@ -10,7 +10,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/help/teaching/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση 1](https://github.com/courses-ionio/cscw/discussions/213) | Ολοκληρώθηκε|
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | | |
 | 3 | Γραμμή εντολών | [Συζήτηση 3](https://github.com/courses-ionio/cscw/discussions/214) | Ολοκληρώθηκε |
-| 4 | Συμμετοχικό περιεχόμενο 1A | | |
+| 4 | Συμμετοχικό περιεχόμενο 1A |[Συζήτηση 4](https://github.com/courses-ionio/cscw/discussions/216) | Ολοκληρώθηκε |
 | 5 | Κατασκευή του βιβλίου Α2 | | |
 | 6 | Αίτημα ενσωμάτωσης Β (αποσφαλμάτωση-επεξεργασία-προσθήκη liquid) | | |
 | 7 | Γραμμή εντολών | [Συζήτηση 7](https://github.com/courses-ionio/cscw/discussions/215) | Ολοκληρώθηκε|
