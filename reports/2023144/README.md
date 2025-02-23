@@ -43,6 +43,21 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 
 ![par3](https://github.com/user-attachments/assets/3f820f08-b61d-4b76-95b3-d6764f08afba)
 
+# ΠΑΡΑΔΟΤΕΟ 4
+Για το τέταρτο παραδοτέο ως διαχειριστής (founder) έκανα  deploy το σίτε του οργανισμού και πρόσθεσα δυο διαδραστικά παραδείγματα με βάση την εκφώνηση:
+
+## Organization site link: https://cx-dsa.netlify.app/
+
+## 1st Link : [Interactive 60% keyboard](https://cx-dsa.netlify.app/remix/interactive-keyboard/)
+![keyboard](https://github.com/user-attachments/assets/4e37ad1f-1018-455d-adad-665aa3994c36)
+
+## 2nd LInk: [Payment app](https://cx-dsa.netlify.app/remix/payment-app/)
+![payment](https://github.com/user-attachments/assets/36c081e4-f6d6-4c65-9777-975cda5a6c77)
+
+### Source:
+ - https://codepen.io/sckarolos/pen/NWqGjZZ
+ - https://codepen.io/32bitkid/pen/LKZzMR
+
 # ΠΑΡΑΔΟΤΕΟ 7
 Για το 7ο παροδοτέο έκανα την άσκηση απο το dokey: pair programming
 
