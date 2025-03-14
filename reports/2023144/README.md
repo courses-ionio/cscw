@@ -67,7 +67,9 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 
 ### Τα αρχεία:
 
-
+- [mylua.lua](https://github.com/cx-dsa/kallipos/blob/2023144/mylua.lua)
+- [graphicsOnTerminal.md](https://github.com/cx-dsa/kallipos/blob/2023144/myfile/graphicsOnTerminal.md)
+- [book.pdf](https://github.com/cx-dsa/kallipos/blob/2023144/book/book.pdf)
 
 
 # ΠΑΡΑΔΟΤΕΟ 7
