@@ -8,7 +8,7 @@
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/help/teaching/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση 1](https://github.com/courses-ionio/cscw/discussions/213) | Ολοκληρώθηκε|
-| 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | | |
+| 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) |[Συζήτηση 2](https://github.com/courses-ionio/cscw/discussions/218) | Ολοκληρώθηκε, αλλά ξέχασα να την ανεβάσω στα discussions, οπότε ανέβηκε με καθυστέρηση. |
 | 3 | Γραμμή εντολών | [Συζήτηση 3](https://github.com/courses-ionio/cscw/discussions/214) | Ολοκληρώθηκε |
 | 4 | Συμμετοχικό περιεχόμενο 1A |[Συζήτηση 4](https://github.com/courses-ionio/cscw/discussions/216) | Ολοκληρώθηκε |
 | 5 | Κατασκευή του βιβλίου Α2 | [Συζήτηση 5](https://github.com/courses-ionio/cscw/discussions/217) | Ολοκληρώθηκε |
@@ -21,6 +21,21 @@
 
 # ΠΑΡΑΔΟΤΕΟ 1
 Σε αυτό το μάθημα θέλω να καλλιεργήσω τις δεξιότητες μου. Συκγεκριμένα να μάθω πως να συνεργάζομαι πιο αποτελεσματικά σε ομάδες, να μπορώ να αναβαθμήσω τις γνώσεις και τις δεξιότητες που απέκτησα απο το μάθημα HCI και να μάθω πως προέκυψε ο υπολογιστής και όχι μόνο την απλή του χρήση ως εργαλείο αλλά και το πως έγινε μέσο εποικοινωνίας. Επίσης σημαντικό να αναφέρω, θα ήθελα να βελτιώσω μερικά ζητήματα που παρουσιάζει η ιστοσελίδα της σχολής με τα οποία θα ασχοληθούμε σε αυτό το μάθημα.
+
+# ΠΑΡΑΔΟΤΕΟ 2
+Για το αίτημα ενσωμάτωσης Α, άνοιξα [issue#433](https://github.com/ioniodi/sitegr/issues/433) , στο οποίο αναφέρθηκα στην προσθήκη του καθηγητή Ανδρέα Καναβού στους αναπληρωτές καθηγητές. Όταν έλαβα την ετικέτα **"green light"** είχα το δικαίωμα να δουλέψω στην προσθήκη του καθηγητή.
+
+Χρειάστηκε να διαβάσω τις οδηγίες και να κατανοήσω τη δομή της ιστοσελίδας. Όταν έλεγξα πως όλα λειτουργούν σωστά, έστειλα τα **pull requests** στο κεντρικό repository.
+
+Παρακάτω ακολουθoύν demo φωτογραφίες:
+![gallery](https://github.com/user-attachments/assets/caa889b7-7bb9-4d73-a459-729e245f1af5)
+
+
+![kanavosDemo](https://github.com/user-attachments/assets/952b874a-3bbe-4304-a284-36a555a16ee9)
+
+### My pull request:
+ - [Main Pull Request](https://github.com/ioniodi/sitegr/pull/435)
+ - [Pull Request all_collections](https://github.com/ioniodi/all_collections/pull/77)
 
 # ΠΑΡΑΔΟΤΕΟ 3
 Για το 3ο παραδοτέο έκανα την άσκηση απο το dokey: back-up your home online
