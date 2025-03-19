@@ -64,10 +64,12 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 ## Organization site link: https://cx-dsa.netlify.app/
 
 ## 1st Link : [Interactive 60% keyboard](https://cx-dsa.netlify.app/remix/interactive-keyboard/)
-![keyboard](https://github.com/user-attachments/assets/4e37ad1f-1018-455d-adad-665aa3994c36)
+![keyboard](https://github.com/user-attachments/assets/3e998061-6fc0-4662-bdeb-31609ff3d73b)
 
-## 2nd LInk: [Payment app](https://cx-dsa.netlify.app/remix/payment-app/)
-![payment](https://github.com/user-attachments/assets/36c081e4-f6d6-4c65-9777-975cda5a6c77)
+
+## 2nd LInk: [Finance app](https://cx-dsa.netlify.app/remix/finance-app/)
+![finance](https://github.com/user-attachments/assets/c22f1d26-159a-4038-bf4d-85f23abaf339)
+
 
 ### Source:
  - https://codepen.io/sckarolos/pen/NWqGjZZ
