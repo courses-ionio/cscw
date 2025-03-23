@@ -100,3 +100,14 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 Στην παρακάτω εικόνα μέσω του συνδέσμου, βλέπουμε το τερματικό από το web browser
 
 ![par7](https://github.com/user-attachments/assets/e469035e-c0fc-406a-83ce-f8fe9635d918)
+
+# ΠΑΡΑΔΟΤΕΟ 8
+Η εκφώνηση αυτού του παραδοτέο μου ζητήθηκε να φτίαξω μια δική μου σελίδα η οποία να οργανώνει μαζί ένα σύνολο εικόνων που σχετίζονται με την χρήση της δυνατότητας gallery. Κατά την διάρκεια που πρόσθεσα τις εικόνες με βάση τις οδηγίες 
+[gallery](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure), παρατηρούσα πως το image size είναι fixed και περιορισμένο, με αποτέλεσμα να μην μπορώ να ρυθμίσω τις εικόνες με τον τρόπο που θέλω. Γι'αυτό έφτιαξα δικό μου custom.css και το πρόσθεσα σαν καινούριο layout έτσι ώστε το περιεχόμενο της σελίδας να είναι smooth.
+
+Η καινούρια σελίδα έχει ανέβει στο site του organization
+
+### Link : https://cx-dsa.netlify.app/compare/
+
+![par8](https://github.com/user-attachments/assets/0dc84705-968e-4ce9-91c1-d7876012c4f6)
+
