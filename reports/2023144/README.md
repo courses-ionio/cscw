@@ -111,3 +111,12 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 
 ![par8](https://github.com/user-attachments/assets/0dc84705-968e-4ce9-91c1-d7876012c4f6)
 
+# ΠΑΡΑΔΟΤΕΟ 9
+Σε αυτό το παραδοτέο ζητήθηκε να συνδυάσω όλες τις ετικές απο την ομάδα μου για την κατασκευή της ιστοσελίδας. Όμως δεν είχα ομάδα για να συνδυάσω τις ετικές και να προσθεθούν όλα σε 1 pdf. Πάντως ανέβασα τα αρχεία με την ετικέτα μου και με το pdf στο organization [cx-dsa](https://github.com/cx-dsa)
+
+### Τα αρχεία:
+
+- [mylua.lua](https://github.com/cx-dsa/kallipos/blob/2023144/mylua.lua)
+- [graphicsOnTerminal.md](https://github.com/cx-dsa/kallipos/blob/2023144/myfile/graphicsOnTerminal.md)
+- [book.pdf](https://github.com/cx-dsa/kallipos/blob/2023144/book/book.pdf)
+
