@@ -88,7 +88,24 @@ rclone copy ~/bashyll Terminal_onedrive:backup/bashyll --progress
 - [graphicsOnTerminal.md](https://github.com/cx-dsa/kallipos/blob/2023144/myfile/graphicsOnTerminal.md)
 - [book.pdf](https://github.com/cx-dsa/kallipos/blob/2023144/book/book.pdf)
 
+# ΠΑΡΑΔΟΤΕΟ 6
+Αρχικά άνοιξα στο repository sitegr issue, το θέμα που αποφάσισα να προσθέσω ήταν η προσθήκη αυτοματισμένος έλενχος στα Pull Request.Πιο συγκεκριμένα GitHub Action το οποίο ελέγχει κάθε Pull Request για αλλαγές σε «κλειδωμένα» αρχεία. Αν κάποιο από αυτά τα αρχεία περιλαμβάνεται στο lockedFiles.txt, τότε το PR μπλοκάρεται αυτόματα και δεν μπορεί να γίνει merge. Εκτός αν ο διαχειριστής προσθέση ένα label με όνομα "BYPASS_LABEL" που αν προστεθή στο PR απο τον χρήστη τότε προσπερνάει τον έλενχο.
 
+Το Github Action το υλοποίησα σε Python και το έθεσα να τρέχει μέσα σε Docker container. Ο λόγος που επέλεξα το Docker είναι επειδή το GitHub δεν υποστηρίζει άμεση εκτέλεση Python κώδικα σε custom Actions. Επιπλέον, μέσα από τη χρήση του Docker, έμαθα ότι είναι μια πιο ασφαλής λύση, καθώς επιτρέπει την απομόνωση του κώδικα χωρίς να επηρεάζει άλλα αρχεία ή υπηρεσίες του συστήματος.
+
+Για κάποιον χρήστη για να μπορεί να το προσθέση στο δικό του repository αυτή την λειτουργία, θα πρέπει να κατεβάσει τα αρχεία απο το release και απλα τα προσθέτει στο repository του
+
+Περισσότερες πληρορορίες για την εγκατάσταση του github action και για τον πηγαίο κώδικα βρίσκετε στο δικό μου repository [Merge-Monitor](https://github.com/YGNT7777/Merge-Monitor)
+
+### Demo
+### If there has been changes:
+![closeTest](https://github.com/user-attachments/assets/d6c91727-e20c-428c-a20e-51cba4b0938a)
+
+### No changes 
+![ok](https://github.com/user-attachments/assets/193c153c-23dc-4e1a-a960-feb0769b3f74)
+
+### Using label
+![withLabel](https://github.com/user-attachments/assets/562f8ff4-a6e5-4d3e-8cae-a7e0dde2d5df)
 # ΠΑΡΑΔΟΤΕΟ 7
 Για το 7ο παροδοτέο έκανα την άσκηση απο το dokey: pair programming
 
