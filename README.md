@@ -1,4 +1,4 @@
-# Συνεργατικά Συστήματα
+# Κινητά και Κοινωνικά Μέσα
 
 [Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://epidrome.github.io/teaching/) για την παράδοση της εργασίας.
 
@@ -8,7 +8,7 @@
 
 | Εβδομάδα* | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/help/teaching/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/help/teaching/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/cscw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/cscw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
 | 2 | Αίτημα ενσωμάτωσης Α (απλή προσθήκη-αλλαγή δεδομένων) | | |
 | 3 | Γραμμή εντολών | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
@@ -31,9 +31,10 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 10% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 30% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 10% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 10% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 40% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
+**Βαθμολογία:** 20% [Συμμετοχικό εκπαιδευτικό περιεχόμενο](https://epidrome.github.io/teaching/social/) + 20% δύο αιτήματα ενσωμάτωσης [στην ιστοσελίδα του τμήματος](https://github.com/ioniodi/sitegr/) + 20% [κατασκευή του βιβλίου](https://epidrome.github.io/teaching/book) + 30% [γραμμή εντολών](https://epidrome.github.io/teaching/cli) + 10% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork/) + 10% [προαιρετικό μπόνους](https://epidrome.github.io/teaching/bonus/)
 
 * Σημειώσεις του μαθήματος: [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ.5 Μοντέλα.
+* [Βιβλίο μαθήματος](https://repository.kallipos.gr/handle/11419/10224?&locale=el)
 
 **Βιβλιογραφία:** 
 
