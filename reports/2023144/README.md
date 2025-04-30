@@ -167,3 +167,4 @@ Gemfile
 - [graphicsOnTerminal.md](https://github.com/cx-dsa/kallipos/blob/2023144/myfile/graphicsOnTerminal.md)
 - [book.pdf](https://github.com/cx-dsa/kallipos/blob/2023144/book/book.pdf)
 
+# ΠΑΡΑΔΟΤΕΟ 10
